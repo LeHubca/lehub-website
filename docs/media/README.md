@@ -1,0 +1,1 @@
+Media managed through Netlify.
