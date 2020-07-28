@@ -1,0 +1,282 @@
+# config.yml
+
+locale: 'fr'
+backend:
+  # See https://www.netlifycms.org/docs/authentication-backends/#github-backend
+  name: github
+  repo: example.com/example.com
+  branch: master
+  base_url: https://auth.static.dcycle.com
+  auth_endpoint: auth/github/alberto56
+media_folder: 'docs/media'
+public_folder: "/media"
+collections:
+  # Fonction à remettre au besoin.
+  # - name: 'articles'
+  #   create: true
+  #   label: 'Article'
+  #   folder: 'docs/_posts/'
+  #   slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+  #   fields:
+  #     - { label: 'Mise en page', name: 'layout', widget: 'hidden', default: 'page_texte' }
+  #     - { label: 'Titre', name: 'titre', widget: 'string' }
+  #     - { label: 'Publish Date', name: 'image_top', widget: 'string', default: '/media/1bv2.jpg' }
+  #     - { label: 'Publish Date', name: 'image_droite', widget: 'string', default: '/media/1s.jpg' }
+  #     - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: "carrousel"
+    label: "Carrousel"
+    editor:
+      preview: false
+    files:
+      - label: "Carrousel"
+        name: "carrousel"
+        create: true
+        file: "docs/_data/carrousel.yml"
+        fields:
+          - label: "Carrousel"
+            name: "items"
+            widget: "list"
+            fields:
+              - {label: Titre, name: titre, widget: string, required: false}
+              - {label: Texte, name: texte, widget: string, required: false}
+              - {label: Image, name: image, widget: image, default: /media/2c.jpg}
+              - {label: "Action (texte)", name: action, widget: string, default: "En savoir plus", required: false}
+              - {label: "Action (URL)", name: action_href, widget: string, required: false}
+  - name: "options_paypal"
+    label: "Options PayPal"
+    editor:
+      preview: false
+    files:
+      - label: "Options PayPal"
+        name: "options_paypal"
+        create: true
+        file: "docs/_data/options_paypal.yml"
+        fields:
+          - label: "Options PayPal"
+            name: "items"
+            widget: "list"
+            fields:
+              - {label: Nom, name: nom, widget: string}
+              - {label: Prix, name: prix, widget: string}
+  - name: "sections_oranges"
+    label: "Sections oranges"
+    editor:
+      preview: false
+    files:
+      - label: "Sections oranges"
+        name: "sections_oranges"
+        create: true
+        file: "docs/_data/sections_oranges.yml"
+        fields:
+          - label: "Sections oranges"
+            name: "items"
+            widget: "list"
+            fields:
+              - {label: "Icone (charity, hands ou donation)", name: icone, widget: string}
+              - {label: Titre, name: titre, widget: string}
+              - {label: Texte 1, name: texte, widget: string, required: false}
+              - {label: Texte 2, name: texte2, widget: string, required: false}
+              - {label: Texte 3, name: texte3, widget: string, required: false}
+              - {label: Texte 4, name: texte4, widget: string, required: false}
+              - {label: HREF, name: href, widget: string}
+              - {label: "Ouvrir dans un nouvel onglet", name: nouvel_onglet, widget: boolean, default: false}
+  - name: "sections"
+    label: "Items de menu"
+    editor:
+      preview: false
+    files:
+      - label: "Items de menu"
+        name: "sections"
+        create: true
+        file: "docs/_data/sections.yml"
+        fields:
+          - label: "Items de menu"
+            name: "items"
+            widget: "list"
+            fields:
+              - {label: "Identité", name: id, widget: string}
+              - {label: Titre, name: titre, widget: string}
+              - {label: HREF, name: href, widget: string}
+              - {label: classes css, name: classes, widget: string, required: false}
+              - {label: "Ouvrir dans un nouvel onglet", name: nouvel_onglet, widget: boolean, default: false}
+  - name: 'pages'
+    label: 'Pages'
+    editor:
+      preview: false
+    files:
+      - label: 'Page Adhérez'
+        name: 'adherez'
+        file: 'docs/adherez.html'
+        fields:
+          - { label: 'Titre', name: 'titre', widget: string }
+          - { label: 'Corps', name: 'body', widget: 'markdown' }
+          - { label: 'Image du haut', name: 'image_top', widget: 'image', required: false }
+          - {label: "décrire l'image du haut pour personnes non-voyantes", name: alt, widget: string, required: false}
+          - label: "Décaler l'image vers le haut"
+            name: "offsets"
+            widget: "list"
+            required: false
+            fields:
+              - {label: "Largeur minimale (ex: pour ne pas s'appliquer au mobile)", name: minwidth, widget: number, required: false}
+              - {label: "Décaler vers le haut (pixels)", name: offset, widget: number, required: false}
+          - label: "Image droite"
+            name: "image_droite"
+            widget: "list"
+            required: false
+            fields:
+              - {label: "image", name: image, widget: image, required: false}
+              - {label: "décrire l'image pour personnes non-voyantes", name: alt, widget: string, required: false}
+      - label: 'Page À propos'
+        name: 'apropos'
+        file: 'docs/apropos.html'
+        fields:
+          - { label: 'Titre', name: 'titre', widget: string }
+          - { label: 'Corps', name: 'body', widget: 'markdown' }
+          - { label: 'Image du haut', name: 'image_top', widget: 'image', required: false }
+          - {label: "décrire l'image du haut pour personnes non-voyantes", name: alt, widget: string, required: false}
+          - label: "Décaler l'image vers le haut"
+            name: "offsets"
+            widget: "list"
+            required: false
+            fields:
+              - {label: "Largeur minimale (ex: pour ne pas s'appliquer au mobile)", name: minwidth, widget: number, required: false}
+              - {label: "Décaler vers le haut (pixels)", name: offset, widget: number, required: false}
+          - label: "Image droite"
+            name: "image_droite"
+            widget: "list"
+            required: false
+            fields:
+              - {label: "image", name: image, widget: image, required: false}
+              - {label: "décrire l'image pour personnes non-voyantes", name: alt, widget: string, required: false}
+      - label: 'Page Bulletin'
+        name: 'bulletin'
+        file: 'docs/bulletin.html'
+        fields:
+          - { label: 'Titre', name: 'titre', widget: string }
+          - { label: 'Corps', name: 'body', widget: 'markdown' }
+          - { label: 'Image du haut', name: 'image_top', widget: 'image', required: false }
+          - {label: "décrire l'image du haut pour personnes non-voyantes", name: alt, widget: string, required: false}
+          - label: "Décaler l'image vers le haut"
+            name: "offsets"
+            widget: "list"
+            required: false
+            fields:
+              - {label: "Largeur minimale (ex: pour ne pas s'appliquer au mobile)", name: minwidth, widget: number, required: false}
+              - {label: "Décaler vers le haut (pixels)", name: offset, widget: number, required: false}
+          - label: "Image droite"
+            name: "image_droite"
+            widget: "list"
+            required: false
+            fields:
+              - {label: "image", name: image, widget: image, required: false}
+              - {label: "décrire l'image pour personnes non-voyantes", name: alt, widget: string, required: false}
+      - label: 'Page Congrès'
+        name: 'congres'
+        file: 'docs/congres.html'
+        fields:
+          - { label: 'Titre', name: 'titre', widget: string }
+          - { label: 'Corps', name: 'body', widget: 'markdown' }
+          - { label: 'Image du haut', name: 'image_top', widget: 'image', required: false }
+          - {label: "décrire l'image du haut pour personnes non-voyantes", name: alt, widget: string, required: false}
+          - label: "Décaler l'image vers le haut"
+            name: "offsets"
+            widget: "list"
+            required: false
+            fields:
+              - {label: "Largeur minimale (ex: pour ne pas s'appliquer au mobile)", name: minwidth, widget: number, required: false}
+              - {label: "Décaler vers le haut (pixels)", name: offset, widget: number, required: false}
+          - label: "Image droite"
+            name: "image_droite"
+            widget: "list"
+            required: false
+            fields:
+              - {label: "image", name: image, widget: image, required: false}
+              - {label: "décrire l'image pour personnes non-voyantes", name: alt, widget: string, required: false}
+      - label: 'Page English'
+        name: 'english'
+        file: 'docs/english.html'
+        fields:
+          - { label: 'Titre', name: 'titre', widget: string }
+          - { label: 'Corps', name: 'body', widget: 'markdown' }
+          - { label: 'Image du haut', name: 'image_top', widget: 'image', required: false }
+          - {label: "décrire l'image du haut pour personnes non-voyantes", name: alt, widget: string, required: false}
+          - label: "Décaler l'image vers le haut"
+            name: "offsets"
+            widget: "list"
+            required: false
+            fields:
+              - {label: "Largeur minimale (ex: pour ne pas s'appliquer au mobile)", name: minwidth, widget: number, required: false}
+              - {label: "Décaler vers le haut (pixels)", name: offset, widget: number, required: false}
+          - label: "Image droite"
+            name: "image_droite"
+            widget: "list"
+            required: false
+            fields:
+              - {label: "image", name: image, widget: image, required: false}
+              - {label: "décrire l'image pour personnes non-voyantes", name: alt, widget: string, required: false}
+      - label: 'Page Guide administratif'
+        name: 'guide-admin'
+        file: 'docs/guide-admin.html'
+        fields:
+          - { label: 'Titre', name: 'titre', widget: string }
+          - { label: 'Corps', name: 'body', widget: 'markdown' }
+          - { label: 'Image du haut', name: 'image_top', widget: 'image', required: false }
+          - {label: "décrire l'image du haut pour personnes non-voyantes", name: alt, widget: string, required: false}
+          - label: "Décaler l'image vers le haut"
+            name: "offsets"
+            widget: "list"
+            required: false
+            fields:
+              - {label: "Largeur minimale (ex: pour ne pas s'appliquer au mobile)", name: minwidth, widget: number, required: false}
+              - {label: "Décaler vers le haut (pixels)", name: offset, widget: number, required: false}
+          - label: "Image droite"
+            name: "image_droite"
+            widget: "list"
+            required: false
+            fields:
+              - {label: "image", name: image, widget: image, required: false}
+              - {label: "décrire l'image pour personnes non-voyantes", name: alt, widget: string, required: false}
+      - label: 'Merci pour votre achat'
+        name: 'merci-pour-votre-achat'
+        file: 'docs/merci-pour-votre-achat.html'
+        fields:
+          - { label: 'Titre', name: 'titre', widget: string }
+          - { label: 'Corps', name: 'body', widget: 'markdown' }
+          - { label: 'Image du haut', name: 'image_top', widget: 'image', required: false }
+          - {label: "décrire l'image du haut pour personnes non-voyantes", name: alt, widget: string, required: false}
+          - label: "Décaler l'image vers le haut"
+            name: "offsets"
+            widget: "list"
+            required: false
+            fields:
+              - {label: "Largeur minimale (ex: pour ne pas s'appliquer au mobile)", name: minwidth, widget: number, required: false}
+              - {label: "Décaler vers le haut (pixels)", name: offset, widget: number, required: false}
+          - label: "Image droite"
+            name: "image_droite"
+            widget: "list"
+            required: false
+            fields:
+              - {label: "image", name: image, widget: image, required: false}
+              - {label: "décrire l'image pour personnes non-voyantes", name: alt, widget: string, required: false}
+      - label: 'Achat annulé'
+        name: 'achat-annule'
+        file: 'docs/achat-annule.html'
+        fields:
+          - { label: 'Titre', name: 'titre', widget: string }
+          - { label: 'Corps', name: 'body', widget: 'markdown' }
+          - { label: 'Image du haut', name: 'image_top', widget: 'image', required: false }
+          - {label: "décrire l'image du haut pour personnes non-voyantes", name: alt, widget: string, required: false}
+          - label: "Décaler l'image vers le haut"
+            name: "offsets"
+            widget: "list"
+            required: false
+            fields:
+              - {label: "Largeur minimale (ex: pour ne pas s'appliquer au mobile)", name: minwidth, widget: number, required: false}
+              - {label: "Décaler vers le haut (pixels)", name: offset, widget: number, required: false}
+          - label: "Image droite"
+            name: "image_droite"
+            widget: "list"
+            required: false
+            fields:
+              - {label: "image", name: image, widget: image, required: false}
+              - {label: "décrire l'image pour personnes non-voyantes", name: alt, widget: string, required: false}

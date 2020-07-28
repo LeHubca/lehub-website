@@ -1,0 +1,26 @@
+/**
+ * See https://fonts.google.com/specimen/Oswald
+ */
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap');
+
+.branding-font,
+h2.branding-font {
+  font-family: 'Oswald', sans-serif;
+  text-transform: uppercase;
+}
+h2>span.branding-smaller {
+  font-size: .5em;
+  line-height: 0.8;
+}
+.branding-green {
+  color: rgb(120, 203, 49);
+}
+.branding-grey,
+h2.branding-grey {
+  color: rgb(128, 128, 128);
+}
+blockquote {
+  padding: 30px 50px 30px 30px;
+  background: #f9f9ff;
+  border-left: 2px solid #222;
+}
