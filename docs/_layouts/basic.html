@@ -30,7 +30,7 @@
         <div class="preloader-inner position-relative">
           <div class="preloader-circle"></div>
           <div class="preloader-img pere-text">
-            <img src="/assets/img/logo/logo-hub.png" alt="">
+            <img class="top-logo" src="/assets/img/logo/logo-hub.png" alt="HUB">
           </div>
         </div>
       </div>
@@ -45,7 +45,7 @@
               <!-- Logo -->
               <div class="col-xl-2 col-lg-2 col-md-1">
                 <div class="logo">
-                  <a href="index.html"><img src="/assets/img/logo/logo-hub.png" alt=""></a>
+                  <a href="index.html"><img src="/assets/img/logo/logo-hub-bigger.png" alt="HUB"></a>
                 </div>
               </div>
               <div class="col-xl-8 col-lg-8 col-md-8">
@@ -75,6 +75,12 @@
     </header>
     <!-- Slider Area Start-->
     <div class="services-area">
+      {% if page.image_top %}
+      <div class="header-image-wrapper">
+        <div class="header-image-inner" style="background-image: url({{ page.image_top }}); {{ page.image_top_css }};">
+        </div>
+      </div>
+      {% endif %}
       <div class="container">
         <!-- Section-tittle -->
         <div class="row d-flex justify-content-center">
@@ -106,7 +112,7 @@
         <div class="row">
           <div class="col-lg-12 posts-list">
             <div class="single-post">
-              <div class="blog_details">
+              <div class="blog_details responsive-image-container">
                 {{ content | markdownify }}
               </div>
             </div>

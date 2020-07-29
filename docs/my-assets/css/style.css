@@ -29,3 +29,45 @@ blockquote {
     display: none;
   }
 }
+.responsive-image-container img {
+  width: 100%;
+  height: auto;
+}
+.header-image-wrapper {
+  position: relative;
+}
+.header-image-wrapper > .header-image-inner {
+  position: absolute;
+  width: 100%;
+  height: 339px;
+  background: blue;
+  top: -73px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+@media (min-width: 992px) {
+  .header-image-wrapper > .header-image-inner {
+    height: 425px;
+    top: -100px;
+  }
+}
+@media (min-width: 1200px) {
+  .header-image-wrapper > .header-image-inner {
+    height: 449px;
+    top: -167px;
+  }
+}
+.top-logo {
+  max-height: 36px;
+}
+@media (min-width: 768px) {
+  .top-logo {
+    max-height: 58px;
+  }
+}
+@media (min-width: 992px) {
+  .top-logo {
+    max-height: 86px;
+  }
+}
