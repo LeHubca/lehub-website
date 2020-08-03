@@ -1,2 +1,8 @@
 ---
 url: http://lehub.dcycleproject.org
+max_nav_items: 10
+email:
+  delay: 4
+  one: info
+  two: lehub
+  three: ca

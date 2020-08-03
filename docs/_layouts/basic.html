@@ -52,8 +52,11 @@
                 <!-- Main-menu -->
                 <div class="main-menu f-right d-none d-lg-block">
                   <nav>
-                    <ul id="navigation">
-                      <li><a href="{{ page.otherlang_url }}"><span class="hide-on-desktop">{{ page.otherlang_name }}</span>&nbsp;</a></li>
+                    <ul id="navigation" class="hide-on-desktop">
+                      {% for i in (1..site.max_nav_items) %}
+                      <li class="template mobile-toc-template-li"></li>
+                      {% endfor %}
+                      <li><a href="{{ page.otherlang_url }}">{{ page.otherlang_name }}</li>
                     </ul>
                   </nav>
                 </div>
@@ -65,7 +68,7 @@
               </div>
               <!-- Mobile Menu -->
               <div class="col-12">
-                <div class="mobile_menu d-block d-lg-none"></div>
+                <div class="mobile_menu d-block"></div>
               </div>
             </div>
           </div>
@@ -113,6 +116,8 @@
           <div class="col-lg-12 posts-list">
             <div class="single-post">
               <div class="blog_details responsive-image-container">
+                <ul id="toc">
+                </ul>
                 {{ content | markdownify }}
               </div>
             </div>
@@ -122,13 +127,31 @@
     </section>
     <!--================ Blog Area end =================-->
     <footer>
-      <!-- Footer Start-->
-      <div class="footer-main" data-background="/assets/img/shape/footer_bg.png">
+      <div class="footer-main" data-background="assets/img/shape/footer_bg.png" style="background-image: url(&quot;https://colorlib.com/preview/theme/seos/assets/img/shape/footer_bg.png&quot;);">
         <div class="footer-area footer-padding">
           <div class="container">
+            <div class="row d-flex justify-content-between">
+              <div class="col-lg-4 col-md-4 col-sm-2">
+              </div>
+              <div class="col-lg-4 col-md-4 col-sm-8">
+                <div class="single-footer-caption mb-50">
+                  <div class="single-footer-caption mb-30 center-aligned-footer-column">
+                    <div class="footer-logo">
+                      <a href="index.html"><img src="/assets/img/logo/logo-hub.png" alt=""></a>
+                    </div>
+                    <div class="footer-tittle">
+                      <div class="footer-pera">
+                        <p class="info2"><a class="obfuscated-email" data-first="{{ site.email.one }}" data-second="{{ site.email.two }}" data-third="{{ site.email.three }}">...@...</a></a></p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-4 col-md-4 col-sm-2">
+              </div>
+            </div>
           </div>
         </div>
-        <!-- footer-bottom aera -->
         <div class="footer-bottom-area footer-bg">
           <div class="container">
             <div class="footer-border">
@@ -136,9 +159,7 @@
                 <div class="col-xl-12 ">
                   <div class="footer-copy-right text-center">
                     <p>
-                      <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                      Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="ti-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-                      <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                      Copyright ©<script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="ti-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
                     </p>
                   </div>
                 </div>
@@ -147,8 +168,8 @@
           </div>
         </div>
       </div>
-      <!-- Footer End-->
     </footer>
+
     <!-- JS here -->
     <!-- All JS Custom Plugins Link Here here -->
     <script src="/assets/js/vendor/modernizr-3.5.0.min.js"></script>
@@ -180,5 +201,7 @@
     <!-- Jquery Plugins, main Jquery -->
     <script src="/assets/js/plugins.js"></script>
     <script src="/assets/js/main.js"></script>
+    <script src="/my-assets/js/toc.js?token={{ site.time | date: '%s' }}"></script>
+    <script src="/my-assets/js/email.js?token={{ site.time | date: '%s' }}"></script>
   </body>
 </html>
