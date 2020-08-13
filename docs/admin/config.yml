@@ -1,6 +1,5 @@
 # config.yml
 
-locale: 'fr'
 backend:
   # See https://www.netlifycms.org/docs/authentication-backends/#github-backend
   name: github
