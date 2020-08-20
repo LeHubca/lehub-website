@@ -1,3 +1,10 @@
+{% if page.lang == "fr" %}
+  {% assign email_label = "Contactez nous" %}
+  {% assign email_label_colon = " : " %}
+{% else %}
+  {% assign email_label = "Contact us" %}
+  {% assign email_label_colon = ": " %}
+{% endif %}
 <!doctype html>
 <html class="no-js" lang="zxx">
   <head>
@@ -139,7 +146,10 @@
                     </div>
                     <div class="footer-tittle">
                       <div class="footer-pera">
-                        <p class="info2"><a class="obfuscated-email" data-first="{{ site.email.one }}" data-second="{{ site.email.two }}" data-third="{{ site.email.three }}">...@...</a></a></p>
+                        <p class="info2"><span class="footer-toc-item">{{ email_label }}</span>{{ email_label_colon }}<a class="obfuscated-email" data-first="{{ site.email.one }}" data-second="{{ site.email.two }}" data-third="{{ site.email.three }}">...@...</a></a></p>
+                        {% if page.footer %}
+                        <p>{{ page.footer | markdownify }}</p>
+                        {% endif %}
                       </div>
                     </div>
                   </div>

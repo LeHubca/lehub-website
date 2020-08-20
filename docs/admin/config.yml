@@ -29,6 +29,8 @@ collections:
           - { label: 'Titre 4', name: 'title4', widget: string, required: false }
           - { label: 'Other Lang URL', name: 'otherlang_url', widget: hidden }
           - { label: 'Other Lang name', name: 'otherlang_name', widget: hidden }
+          - { label: 'lang', name: 'lang', widget: hidden }
+          - { label: 'footer', name: 'footer', widget: hidden }
           - { label: 'Corps', name: 'body', widget: 'markdown' }
       - label: 'English'
         name: 'english'
@@ -44,4 +46,6 @@ collections:
           - { label: 'Title 4', name: 'title4', widget: string, required: false }
           - { label: 'Other Lang URL', name: 'otherlang_url', widget: hidden }
           - { label: 'Other Lang name', name: 'otherlang_name', widget: hidden }
+          - { label: 'lang', name: 'lang', widget: hidden }
+          - { label: 'footer', name: 'footer', widget: hidden }
           - { label: 'Body', name: 'body', widget: 'markdown' }
