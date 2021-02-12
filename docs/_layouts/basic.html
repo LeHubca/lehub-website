@@ -1,11 +1,20 @@
 {% if page.lang == "fr" %}
   {% assign email_label = "Contactez nous" %}
   {% assign email_label_colon = " : " %}
+  {% assign otherlang_name = "EN" %}
+  {% assign home_url = '/' %}
 {% else %}
   {% assign email_label = "Contact us" %}
   {% assign email_label_colon = ": " %}
+  {% assign otherlang_name = "FR" %}
+  {% assign home_url = '/en/' %}
 {% endif %}
-<!doctype html>
+{% if page.image_top %}
+  {% assign header_image_exists_class = "header-image-exists-yes" %}
+{% else %}
+  {% assign header_image_exists_class = "header-image-exists-no" %}
+{% endif %}
+<!DOCTYPE html>
 <html class="no-js" lang="zxx">
   <head>
     <meta charset="utf-8">
@@ -30,7 +39,7 @@
     <link rel="stylesheet" href="/assets/css/responsive.css?token={{ site.time | date: '%s' }}">
     <link rel="stylesheet" href="/my-assets/css/style.css?token={{ site.time | date: '%s' }}">
   </head>
-  <body>
+  <body class="{{ header_image_exists_class }}">
     <!-- Preloader Start -->
     <div id="preloader-active">
       <div class="preloader d-flex align-items-center justify-content-center">
@@ -52,7 +61,7 @@
               <!-- Logo -->
               <div class="col-xl-2 col-lg-2 col-md-1">
                 <div class="logo">
-                  <a href="index.html"><img class="top-logo" src="/assets/img/logo/logo-hub-bigger.png" alt="HUB"></a>
+                  <a href="{{ home_url }}"><img class="top-logo" src="/assets/img/logo/logo-hub-bigger.png" alt="HUB"></a>
                 </div>
               </div>
               <div class="col-xl-8 col-lg-8 col-md-8">
@@ -63,14 +72,14 @@
                       {% for i in (1..site.max_nav_items) %}
                       <li class="template mobile-toc-template-li"></li>
                       {% endfor %}
-                      <li><a href="{{ page.otherlang_url }}">{{ page.otherlang_name }}</li>
+                      <li><a href="{{ page.otherlang_url }}">{{ otherlang_name }}</li>
                     </ul>
                   </nav>
                 </div>
               </div>
               <div class="col-xl-2 col-lg-2 col-md-3">
                 <div class="header-right-btn f-right d-none d-lg-block">
-                  <a href="{{ page.otherlang_url }}" class="btn header-btn">{{ page.otherlang_name }}</a>
+                  <a href="{{ page.otherlang_url }}" class="btn header-btn">{{ otherlang_name }}</a>
                 </div>
               </div>
               <!-- Mobile Menu -->
@@ -142,7 +151,7 @@
                 <div class="single-footer-caption mb-50">
                   <div class="single-footer-caption mb-30 center-aligned-footer-column">
                     <div class="footer-logo">
-                      <a href="index.html"><img src="/assets/img/logo/logo-hub.png" alt=""></a>
+                      <a href="{{ home_url }}"><img src="/assets/img/logo/logo-hub.png" alt=""></a>
                     </div>
                     <div class="footer-tittle">
                       <div class="footer-pera">
