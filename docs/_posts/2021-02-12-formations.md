@@ -46,4 +46,6 @@ Louis a débuté dans le militantisme à seize ans, organisant des actions direc
 
 Ashley Torres est une leader étudiante pour la justice climatique au Québec, ayant notamment été co-porte-parole de la Coalition étudiante pour un virage environnemental et social (la CEVES) en 2019-2020. Elle étudie la science politique à l’université Concordia. Elle a également été membre et porte-parole du collectif La planète s’invite à l’université et été l’une des organisatrices d’Ensemble pour le climat, un rassemblement visant à créer des liens entre jeunes autochtones et allochtones et à encourager leur implication en lien avec les mobilisations nationales et internationales pour imposer la crise climatique comme priorité dans l’agenda politique des gouvernements. Les jeunes ayant participé à l’initiative ont entre autres tenu la bannière de tête de la manifestation du 27 septembre 2019 à Montréal, aux côtés de Greta Thunberg.
 
-### **Pour inscription, compléter le formulaire ci-dessous**
+### **Compléter le formulaire ci-dessous pour vous inscrire**
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdJwzbJqIK1pItSl9o7sIl3mPo6GbpDYLWwrnwkXVQ7VfAWaQ/viewform?embedded=true" width="600" height="1176" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
