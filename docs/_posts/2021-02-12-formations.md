@@ -7,7 +7,7 @@ permalink: /formations/
 otherlang_url: /trainings/
 ---
 <div align="center">
-\*\*Série gratuite - inscription limitée\*\*
+-- Série gratuite - inscription limitée --
 </div>
 <br/>
 Il existe un vaste réservoir de connaissances qui s'adresse aux défis typiques des mouvements sociaux décentralisés. Bâtir et soutenir ces mouvements c'est une pratique qui se pratique.
