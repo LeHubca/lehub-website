@@ -7,12 +7,14 @@ permalink: /formations/
 otherlang_url: /trainings/
 ---
 <div align="center">
-**Série gratuite - inscription limitée**
+\*\*Série gratuite - inscription limitée\*\*
 </div>
 <br/>
 Il existe un vaste réservoir de connaissances qui s'adresse aux défis typiques des mouvements sociaux décentralisés. Bâtir et soutenir ces mouvements c'est une pratique qui se pratique.
 
-Cette formation présente une synthèse de réflexions stratégiques tirées de sources mondialement reconnues telles que **[Blueprints for Change](http://blueprintsfc.org/), [The Commons Library](https://commonslibrary.org/)** et **[Momentum Organizing](https://www.momentumcommunity.org/)**. Elle comprend cinq séances interactives virtuelles d’une heure et demie.
+Cette formation présente une synthèse de réflexions stratégiques tirées de sources mondialement reconnues telles que **[Blueprints for Change](http://blueprintsfc.org/), [The Commons Library](https://commonslibrary.org/)** et **[Momentum Organizing](https://www.momentumcommunity.org/)**. Elle comprend **cinq séances interactives virtuelles d’une heure et demie**.
+
+![](/media/screen-shot-2021-02-15-at-2.42.11-pm.png)
 
 Au travers d'une série d'exercices pratiques et de discussions, nous espérons outiller les militant.e.s en leur enseignant des méthodes de reflexion stratégique et d'organisation de mouvements.
 
@@ -44,4 +46,4 @@ Louis a débuté dans le militantisme à seize ans, organisant des actions direc
 
 Ashley Torres est une leader étudiante pour la justice climatique au Québec, ayant notamment été co-porte-parole de la Coalition étudiante pour un virage environnemental et social (la CEVES) en 2019-2020. Elle étudie la science politique à l’université Concordia. Elle a également été membre et porte-parole du collectif La planète s’invite à l’université et été l’une des organisatrices d’Ensemble pour le climat, un rassemblement visant à créer des liens entre jeunes autochtones et allochtones et à encourager leur implication en lien avec les mobilisations nationales et internationales pour imposer la crise climatique comme priorité dans l’agenda politique des gouvernements. Les jeunes ayant participé à l’initiative ont entre autres tenu la bannière de tête de la manifestation du 27 septembre 2019 à Montréal, aux côtés de Greta Thunberg.
 
-### **Pour inscription, compléter le formulaire ci-dessous.**
+### **Pour inscription, compléter le formulaire ci-dessous**
