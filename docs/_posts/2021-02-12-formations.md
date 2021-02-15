@@ -24,15 +24,15 @@ L’objectif est aussi d’inspirer les militant.e.s d'ici grâce à la présent
 
 Le parcours d’apprentissage se résume par les étapes suivantes : 
 
-###### 1) Comment les mouvements décentralisés réussissent-ils ? Introduction à la stratégie. 
+###### Semaine 1) Comment les mouvements décentralisés réussissent-ils ? Introduction à la stratégie. 
 
-###### 2) Comment structurer un mouvement décentralisé ? Principes d’organisation distribuée. 
+###### Semaine 2) Comment structurer un mouvement décentralisé ? Principes d’organisation distribuée. 
 
-###### 3) Définir ses structures et processus : Atelier sur la création d'une structure décentralisée. 
+###### Semaine 3) Définir ses structures et processus : Atelier sur la création d'une structure décentralisée. 
 
-###### 4) Travailler ensemble sans s'épuiser : Meilleures pratiques de travail en coalition agile.  
+###### Semaine 4) Travailler ensemble sans s'épuiser : Meilleures pratiques de travail en coalition agile.  
 
-###### 5) S'unir pour changer le système : La logique stratégique de la convergence des luttes. 
+###### Semaine 5) S'unir pour changer le système : La logique stratégique de la convergence des luttes. 
 
 ++Une bibliothèque de ressources traduites en français sera fournie pour accompagner ces formations
 
