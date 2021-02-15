@@ -8,6 +8,7 @@ otherlang_url: /trainings/
 ---
 ###### \*\*Série gratuite - inscription limitée\*\*
 
+
 Il existe un vaste réservoir de connaissances qui s'adresse aux défis typiques des mouvements sociaux décentralisés. Bâtir et soutenir ces mouvements c'est une pratique qui se pratique.
 
 Cette formation présente une synthèse de réflexions stratégiques tirées de sources mondialement reconnues telles que **[Blueprints for Change](http://blueprintsfc.org/), [The Commons Library](https://commonslibrary.org/)** et **[Momentum Organizing](https://www.momentumcommunity.org/)**. Elle comprend cinq séances interactives virtuelles d’une heure et demie.
