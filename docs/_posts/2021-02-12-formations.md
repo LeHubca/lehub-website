@@ -1,12 +1,11 @@
 ---
 layout: basic
-title1: Formations
+title1: "Formation pour militant.e.s : Comment bâtir et soutenir des mouvements
+  décentralisés"
 lang: fr
 permalink: /formations/
 otherlang_url: /trainings/
 ---
-# **Formation pour militant.e.s : Comment bâtir et soutenir des mouvements décentralisés**
-
 Il existe un vaste réservoir de connaissances qui s'adresse aux défis typiques des mouvements sociaux décentralisés. Bâtir et soutenir ces mouvements c'est une pratique qui se pratique.
 
 Cette formation présente une synthèse de réflexions stratégiques tirées de sources mondialement reconnues telles que **[Blueprints for Change](http://blueprintsfc.org/), [The Commons Library](https://commonslibrary.org/)** et **[Momentum Organizing](https://www.momentumcommunity.org/)**. Elle comprend cinq séances interactives virtuelles d’une heure et demie.
