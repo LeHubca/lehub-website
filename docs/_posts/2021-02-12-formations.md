@@ -7,7 +7,7 @@ permalink: /formations/
 otherlang_url: /trainings/
 ---
 <div align="center">
--- Série gratuite - inscription limitée --
+-- Série gratuite, inscription limitée, première session début mars --
 </div>
 <br/>
 Il existe un vaste réservoir de connaissances qui s'adresse aux défis typiques des mouvements sociaux décentralisés. Bâtir et soutenir ces mouvements c'est une pratique qui se pratique.
@@ -22,17 +22,17 @@ L’objectif est aussi d’inspirer les militant.e.s d'ici grâce à la présent
 
 ### **Résumé du contenu**
 
-Le parcours d’apprentissage se résume par les étapes suivantes : 
+Le parcours d’apprentissage se résume par les sessions suivantes, une par semaine pour 5 semaines consécutives : 
 
-###### Semaine 1) Comment les mouvements décentralisés réussissent-ils ? Introduction à la stratégie. 
+###### 1) Comment les mouvements décentralisés réussissent-ils ? Introduction à la stratégie. 
 
-###### Semaine 2) Comment structurer un mouvement décentralisé ? Principes d’organisation distribuée. 
+###### 2) Comment structurer un mouvement décentralisé ? Principes d’organisation distribuée. 
 
-###### Semaine 3) Définir ses structures et processus : Atelier sur la création d'une structure décentralisée. 
+###### 3) Définir ses structures et processus : Atelier sur la création d'une structure décentralisée. 
 
-###### Semaine 4) Travailler ensemble sans s'épuiser : Meilleures pratiques de travail en coalition agile.  
+###### 4) Travailler ensemble sans s'épuiser : Meilleures pratiques de travail en coalition agile.  
 
-###### Semaine 5) S'unir pour changer le système : La logique stratégique de la convergence des luttes. 
+###### 5) S'unir pour changer le système : La logique stratégique de la convergence des luttes. 
 
 ++Une bibliothèque de ressources traduites en français sera fournie pour accompagner ces formations
 
