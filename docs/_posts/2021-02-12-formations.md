@@ -14,7 +14,7 @@ Il existe un vaste réservoir de connaissances qui s'adresse aux défis typique
 
 Cette formation présente une synthèse de réflexions stratégiques tirées de sources mondialement reconnues telles que **[Blueprints for Change](http://blueprintsfc.org/), [The Commons Library](https://commonslibrary.org/)** et **[Momentum Organizing](https://www.momentumcommunity.org/)**. Elle comprend **cinq séances interactives virtuelles d’une heure et demie**.
 
-![](/media/screen-shot-2021-02-15-at-2.42.11-pm.png)
+![](/media/screen-shot-2021-02-18-at-1.53.33-pm.png)
 
 Au travers d'une série d'exercices pratiques et de discussions, nous espérons outiller les militant.e.s en leur enseignant des méthodes de reflexion stratégique et d'organisation de mouvements.
 
