@@ -10,7 +10,7 @@ otherlang_url: /trainings/
 -- Série gratuite, inscription limitée, première session la semaine du 15 mars --
 </div>
 <br/>
-Il existe un vaste réservoir de connaissances touchant aux défis typiques des mouvements sociaux décentralisés. Cette formation présente ainsi une synthèse des réflexions stratégiques trouvées dans différentes sources reconnues à travers le monde telles que \*\*\[Blueprints for Change](http://blueprintsfc.org/)\*\*, \*\*\[The Commons Library](https://commonslibrary.org/)\*\* et \*\*\[Momentum Organizing](https://www.momentumcommunity.org/)\*\*. Elle comprend \*\*cinq séances interactives et virtuelles d’une heure et demie chacune\*\*. 
+Il existe un vaste réservoir de connaissances touchant aux défis typiques des mouvements sociaux décentralisés. Cette formation présente ainsi une synthèse des réflexions stratégiques trouvées dans différentes sources reconnues à travers le monde telles que **[Blueprints for Change](http://blueprintsfc.org/)**, **[The Commons Library](https://commonslibrary.org/)** et **[Momentum Organizing](https://www.momentumcommunity.org/)**. Elle comprend cinq séances interactives et virtuelles d’une heure et demie chacune. 
 
 ![](/media/screen-shot-2021-02-18-at-1.53.33-pm.png)
 
