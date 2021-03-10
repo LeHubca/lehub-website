@@ -10,7 +10,7 @@ otherlang_url: /trainings/
 -- Série gratuite, inscription limitée, première session la semaine du 15 mars --
 </div>
 <br/>
-Il existe un vaste réservoir de connaissances touchant aux défis typiques des mouvements sociaux décentralisés. Cette formation présente ainsi une synthèse des réflexions stratégiques trouvées dans différentes sources reconnues à travers le monde telles que \*\*\[Blueprints for Change](http://blueprintsfc.org/)\*\*, \[\*\*The Commons Library\*\* ](https://commonslibrary.org/)et \*\*\[Momentum Organizing](https://www.momentumcommunity.org/)\*\*. Elle comprend cinq séances interactives et virtuelles d’une heure et demie chacune. 
+Il existe un vaste réservoir de connaissances touchant aux défis typiques des mouvements sociaux décentralisés. Cette formation présente ainsi une synthèse des réflexions stratégiques trouvées dans différentes sources reconnues à travers le monde telles que **[Blueprints for Change](http://blueprintsfc.org/)** **[The Commons Library ](https://commonslibrary.org/)**et **[Momentum Organizing](https://www.momentumcommunity.org/)**. Elle comprend cinq séances interactives et virtuelles d’une heure et demie chacune. 
 
 ![](/media/diapo-formationmouvements.png)
 
@@ -77,7 +77,7 @@ Ashley Torres est une leader des étudiant.es pour la justice climatique au Qué
 </div>
 <div class="mc-field-group input-group" style="display:none">
     <strong>Intérêts </strong>
-    <ul><li><input type="checkbox" value="1" name="group\[80305]\[1]" id="mce-group\[80305]-80305-0" checked><label for="mce-group[80305]-80305-0">formations-mouvements</label></li>
+    <ul><li><input type="checkbox" value="1" name="group\\[80305]\\[1]" id="mce-group\\[80305]-80305-0" checked><label for="mce-group[80305]-80305-0">formations-mouvements</label></li>
 <li><input type="checkbox" value="2" name="group[80305][2]" id="mce-group[80305]-80305-1"><label for="mce-group[80305]-80305-1">formations-anti-opp</label></li>
 <li><input type="checkbox" value="4" name="group[80305][4]" id="mce-group[80305]-80305-2"><label for="mce-group[80305]-80305-2">conférence</label></li>
 </ul>
