@@ -76,7 +76,7 @@ Ashley Torres est une leader des étudiant.es pour la justice climatique au Qué
 	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
 </div>
 <div class="mc-field-group input-group">
-    <strong>Intérêts</strong>
+    <strong>Intérêts </strong>
     <ul><li><input type="checkbox" value="1" name="group\[80305]\[1]" id="mce-group\[80305]-80305-0" checked><label for="mce-group[80305]-80305-0">formations-mouvements</label></li>
 <li><input type="checkbox" value="2" name="group[80305][2]" id="mce-group[80305]-80305-1"><label for="mce-group[80305]-80305-1">formations-anti-opp</label></li>
 <li><input type="checkbox" value="4" name="group[80305][4]" id="mce-group[80305]-80305-2"><label for="mce-group[80305]-80305-2">conférence</label></li>
