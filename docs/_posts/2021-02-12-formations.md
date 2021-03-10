@@ -10,7 +10,7 @@ otherlang_url: /trainings/
 -- Série gratuite, inscription limitée, première session la semaine du 15 mars --
 </div>
 <br/>
-Il existe un vaste réservoir de connaissances touchant aux défis typiques des mouvements sociaux décentralisés. Cette formation présente ainsi une synthèse des réflexions stratégiques trouvées dans différentes sources reconnues à travers le monde telles que **[Blueprints for Change](http://blueprintsfc.org/)**, [**The Commons Library** ](https://commonslibrary.org/)et **[Momentum Organizing](https://www.momentumcommunity.org/)**. Elle comprend cinq séances interactives et virtuelles d’une heure et demie chacune. 
+Il existe un vaste réservoir de connaissances touchant aux défis typiques des mouvements sociaux décentralisés. Cette formation présente ainsi une synthèse des réflexions stratégiques trouvées dans différentes sources reconnues à travers le monde telles que \*\*\[Blueprints for Change](http://blueprintsfc.org/)\*\*, \[\*\*The Commons Library\*\* ](https://commonslibrary.org/)et \*\*\[Momentum Organizing](https://www.momentumcommunity.org/)\*\*. Elle comprend cinq séances interactives et virtuelles d’une heure et demie chacune. 
 
 ![](/media/diapo-formationmouvements.png)
 
@@ -48,4 +48,70 @@ Ashley Torres est une leader des étudiant.es pour la justice climatique au Qué
 
 ### **Compléter le formulaire ci-dessous pour vous inscrire**
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdJwzbJqIK1pItSl9o7sIl3mPo6GbpDYLWwrnwkXVQ7VfAWaQ/viewform?embedded=true" width="600" height="1176" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<!-- Begin Mailchimp Signup Form -->
+
+<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="https://lehub.us7.list-manage.com/subscribe/post?u=6da6ef9a2de17cfdceb029edc&amp;id=55bdf72573" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	<h2>Inscrivez-vous aux formations (mouvements)</h2>
+<div class="indicates-required"><span class="asterisk">*</span>requis</div>
+<div class="mc-field-group">
+	<label for="mce-EMAIL">Courriel  <span class="asterisk">*</span>
+</label>
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+</div>
+<div class="mc-field-group">
+	<label for="mce-FNAME">Prénom  <span class="asterisk">*</span>
+</label>
+	<input type="text" value="" name="FNAME" class="required" id="mce-FNAME">
+</div>
+<div class="mc-field-group">
+	<label for="mce-LNAME">Choix de pronom(s) </label>
+	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
+</div>
+<div class="mc-field-group input-group" style="display:none">
+    <strong>Intérêts </strong>
+    <ul><li><input type="checkbox" value="1" name="group\[80305]\[1]" id="mce-group\[80305]-80305-0" checked><label for="mce-group[80305]-80305-0">formations-mouvements</label></li>
+<li><input type="checkbox" value="2" name="group[80305][2]" id="mce-group[80305]-80305-1"><label for="mce-group[80305]-80305-1">formations-anti-opp</label></li>
+<li><input type="checkbox" value="4" name="group[80305][4]" id="mce-group[80305]-80305-2"><label for="mce-group[80305]-80305-2">conférence</label></li>
+</ul>
+</div>
+	<div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_6da6ef9a2de17cfdceb029edc_55bdf72573" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Inscription" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday'; /*
+ * Translated default messages for the $ validation plugin.
+ * Locale: FR
+ */
+$.extend($.validator.messages, {
+        required: "Ce champ est requis.",
+        remote: "Veuillez remplir ce champ pour continuer.",
+        email: "Veuillez entrer une adresse email valide.",
+        url: "Veuillez entrer une URL valide.",
+        date: "Veuillez entrer une date valide.",
+        dateISO: "Veuillez entrer une date valide (ISO).",
+        number: "Veuillez entrer un nombre valide.",
+        digits: "Veuillez entrer (seulement) une valeur numérique.",
+        creditcard: "Veuillez entrer un numéro de carte de crédit valide.",
+        equalTo: "Veuillez entrer une nouvelle fois la même valeur.",
+        accept: "Veuillez entrer une valeur avec une extension valide.",
+        maxlength: $.validator.format("Veuillez ne pas entrer plus de {0} caractères."),
+        minlength: $.validator.format("Veuillez entrer au moins {0} caractères."),
+        rangelength: $.validator.format("Veuillez entrer entre {0} et {1} caractères."),
+        range: $.validator.format("Veuillez entrer une valeur entre {0} et {1}."),
+        max: $.validator.format("Veuillez entrer une valeur inférieure ou égale à {0}."),
+        min: $.validator.format("Veuillez entrer une valeur supérieure ou égale à {0}.")
+});}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+<!--End mc_embed_signup-->
