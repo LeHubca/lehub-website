@@ -1,0 +1,14 @@
+---
+layout: basic
+title1: RESSOURCES POUR MILITANT.E.S
+lang: FR
+permalink: ressources
+otherlang_url: library
+---
+## Ces ressources sont offertes par le HUB de mobilisation pour la justice climatique et peuvent être partagée librement entre militant.e.s. Cliquez sur les titres pour télécharger les documents.
+
+## [The Movement Action Plan (Le Plan d’Action des Mouvements)](https://www.lehub.ca/media/hub-moyer-pam-fr.pdf)
+
+[](https://www.lehub.ca/media/hub-moyer-pam-fr.pdf)[](lehub.ca/media/hub-moyer-pam-fr.pdf)<img align="left" src="https://www.lehub.ca/media/mapthumb.png">
+
+Militant lui-même, l'auteur Bill Moyer se réfère à la longue histoire des luttes sociales aux É.U. pour décrire les hauts et les bas à travers lesquels doivent passer les mouvements avant d'atteindre leur cible et aide ainsi les militant.e.s à repérer leur propre mouvement dans ce cycle de vie. Le Plan D'action des Mouvements offre également une perspective enrichissante sur notre relation avec nos adversaires et les différents obstacles que nous devons confronter pour bâtir une base de pouvoir.</div>
