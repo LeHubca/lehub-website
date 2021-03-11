@@ -12,6 +12,8 @@ otherlang_url: /trainings/
 <br/>
 Il existe un vaste réservoir de connaissances touchant aux défis typiques des mouvements sociaux décentralisés. Cette formation présente ainsi une synthèse des réflexions stratégiques trouvées dans différentes sources reconnues à travers le monde telles que **[Blueprints for Change](http://blueprintsfc.org/)** **[The Commons Library ](https://commonslibrary.org/)**et **[Momentum Organizing](https://www.momentumcommunity.org/)**. Elle comprend cinq séances interactives et virtuelles d’une heure et demie chacune. 
 
+
+
 ![](/media/diapo-formationmouvements.png)
 
 À travers une série d'exercices pratiques et de discussions, les formateur.trices outilleront les militant.e.s en leur enseignant des méthodes de réflexion stratégique et d'organisation de mouvements. 
@@ -57,7 +59,7 @@ Ashley Torres est une leader des étudiant.es pour la justice climatique au Qué
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
 <div id="mc_embed_signup">
-<form action="https://lehub.us7.list-manage.com/subscribe/post?u=6da6ef9a2de17cfdceb029edc&amp;id=55bdf72573" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<form action="https://lehub.us7.list-manage.com/subscribe/post?u=6da6ef9a2de17cfdceb029edc&amp;id=55bdf72573&SIGNUP=fmouvements" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 	<h2>Inscrivez-vous aux formations (mouvements)</h2>
 <div class="indicates-required"><span class="asterisk">*</span>requis</div>
@@ -74,13 +76,6 @@ Ashley Torres est une leader des étudiant.es pour la justice climatique au Qué
 <div class="mc-field-group">
 	<label for="mce-LNAME">Choix de pronom(s) </label>
 	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
-</div>
-<div class="mc-field-group input-group">
-    <strong>Intérêts </strong>
-    <ul><li><input type="checkbox" value="1" name="group\[80305]\[1]" id="mce-group\[80305]-80305-0" checked><label for="mce-group[80305]-80305-0">formations-mouvements</label></li>
-<li><input type="checkbox" value="2" name="group[80305][2]" id="mce-group[80305]-80305-1"><label for="mce-group[80305]-80305-1">formations-anti-opp</label></li>
-<li><input type="checkbox" value="4" name="group[80305][4]" id="mce-group[80305]-80305-2"><label for="mce-group[80305]-80305-2">conférence</label></li>
-</ul>
 </div>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
