@@ -5,9 +5,9 @@ lang: FR
 permalink: ressources
 otherlang_url: library
 ---
-## Ces ressources sont offertes par le HUB de mobilisation pour la justice climatique et peuvent être partagées librement entre militant.e.s. Cliquez sur les titres pour télécharger les documents.<br>
+## Ces ressources sont offertes par le HUB de mobilisation pour la justice climatique et peuvent être partagées librement entre militant.e.s. Cliquez sur les titres pour télécharger les documents.
 
-
+![](/media/docs-mouvements-fr.png)
 
 #### 1. <a href="https://www.lehub.ca/media/hub-moyer-pam-fr.pdf">The Movement Action Plan (Le Plan d’Action des Mouvements)</a>
 
