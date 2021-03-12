@@ -1,11 +1,11 @@
 ---
 layout: basic
 title1: RESSOURCES POUR MILITANT.E.S
-lang: FR
+lang: fr
 permalink: ressources
 otherlang_url: library
 ---
-## Ces ressources sont offertes par le HUB de mobilisation pour la justice climatique et peuvent être partagées librement entre militant.e.s. Cliquez sur les titres pour télécharger les documents.
+### Ces ressources sont offertes par le HUB de mobilisation pour la justice climatique et peuvent être partagées librement entre militant.e.s. Cliquez sur les titres pour télécharger les documents.
 
 ![](/media/docs-mouvements-fr.png)
 
