@@ -17,4 +17,6 @@ Militant lui-même, l'auteur Bill Moyer se réfère à la longue histoire des lu
 
 On entend beaucoup dans les cercles militant.e.s anglophones le mot « organizing  ». Dans ce texte, Marshal Ganz, stratège de renom d'expérience et architecte de la campagne de mobilisation pour la présidentielle d’Obama, détaille une vision de cette pratique en résumant les éléments clés qui peuvent être mis en place par des groupes à n'importe quelle échelle.
 
-&nbsp;
+### 3. <a href="https://www.lehub.ca/media/sommaire-modele-momentum1.pdf">Sommaire du modèle Momentum</a>
+
+L’approche Momentum est d'actualité - elle inspire directement le [Sunrise Movement](https://www.sunrisemovement.org/?ms=SunriseMovement-WeAreTheClimateRevolution) et [Movimiento Cosecha ](https://www.lahuelga.com/)aux É.U. Ce document en est un résumé. Il comprend tout particulièrement une réflexion inspirante sur la nature du pouvoir et la stratégie de mouvements sociaux.
