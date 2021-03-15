@@ -15,7 +15,7 @@ Sous la forme d'ateliers, le contenu sera divisé en deux angles respectifs. L'a
 
 Cette série comprend deux séances interactives et virtuelles d’une heure et demie chacune. 
 
-![](/media/anti-opp-slide.png)
+![](/media/anti-oppression-et-intersectionalité-en-environnement-2-.png)
 
 ### **Résumé du contenu : Anti-oppression 101**
 
