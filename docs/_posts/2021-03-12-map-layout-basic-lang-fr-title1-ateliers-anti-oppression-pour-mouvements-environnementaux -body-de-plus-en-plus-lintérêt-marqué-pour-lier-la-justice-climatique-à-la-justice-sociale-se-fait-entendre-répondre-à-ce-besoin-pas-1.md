@@ -13,6 +13,10 @@ De plus en plus, l'intérêt marqué pour lier la justice climatique à la justi
 
 Sous la forme d'ateliers, le contenu sera divisé en deux angles respectifs. L'atelier anti-oppression 101 vise à introduire les dynamiques du pouvoir par une exhaustive analyse des modèles oppressants, alors que l'atelier anti-oppression 102 a pour but de passer de la **«** théorie​​​​​​​ **»** à la pratique en outillant les militant.e.s. Dans l'ensemble, le tout priorise une formule ludique approchant ces concepts par des activités participatives. 
 
+
+
+![](/media/anti-opp-slide.png)
+
 ### **Résumé du contenu : Anti-oppression 101**
 
 \*Discussion visant à décortiquer certaines affirmations populaires et problématiques normalisées au sein du mouvement écologique.
@@ -28,6 +32,7 @@ Sous la forme d'ateliers, le contenu sera divisé en deux angles respectifs. L'a
 \*Activité visant à modifier les pratiques militantes pour créer un environnement plus inclusif au sein d'organisations et toute entités de pratique: design d’évènements inclusifs, considérations numériques, le 'progressive stack' pour la prise de parole, etc.
 
 \*Propositions de pistes de directives anti-oppressives applicables dans divers contextes.
+
 
 
 ### **Animatrice**
