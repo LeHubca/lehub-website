@@ -6,7 +6,7 @@ permalink: ateliers-anti-opp
 otherlang_url: anti-opp-workshop
 ---
 <div align="center">
--- Série gratuite, inscription limitée, première session la semaine du 22 mars --
+-- Série gratuite, inscription limitée, première session la semaine du 29 mars --
 </div>
 <br/>
 De plus en plus, l'intérêt marqué pour lier la justice climatique à la justice sociale se fait entendre. Répondre à ce besoin passe immanquablement par une déconstruction des systèmes oppressifs et leur manière d'opérer à différentes échelles. 
@@ -15,17 +15,15 @@ Sous la forme d'ateliers, le contenu sera divisé en deux angles respectifs. L'a
 
 Cette série comprend deux séances interactives et virtuelles d’une heure et demie chacune. 
 
-
-
 ![](/media/anti-opp-slide.png)
 
 ### **Résumé du contenu : Anti-oppression 101**
 
-\*Discussion visant à décortiquer certaines affirmations populaires et problématiques normalisées au sein du mouvement écologique.
+👉🏿 Discussion visant à décortiquer certaines affirmations populaires et problématiques normalisées au sein du mouvement écologique.
 
-\*Comprendre divers exemples de privilèges récurrents au sein de la lutte environnementale à travers un exercice permettant de pratiquer la capacité à les repérer.
+👉🏾 Comprendre divers exemples de privilèges récurrents au sein de la lutte environnementale à travers un exercice permettant de pratiquer la capacité à les repérer.
 
-\*Définir l'oppression systémique en profondeur en utilisant un outil visuel pour expliquer les différentes parties inter-reliées afin d'identifier plus explicitement en quoi la cause environnementale est de nature intersectionnelle, d'où l'importance d'un allyship actif.
+👉🏽 Définir l'oppression systémique en profondeur en utilisant un outil visuel pour expliquer les différentes parties inter-reliées afin d'identifier plus explicitement en quoi la cause environnementale est de nature intersectionnelle, d'où l'importance d'un allyship actif.
 
 ### **Résumé du contenu : Anti-oppression 102**
 
@@ -35,12 +33,9 @@ Cette série comprend deux séances interactives et virtuelles d’une heure et
 
 \*Propositions de pistes de directives anti-oppressives applicables dans divers contextes.
 
-
-
 ### **Équipe de formation**
 
-Cette formation est offerte par le [HUB de mobilisation pour la justice climatique](https://www.lehub.ca/), une structure de soutien conçue pour répondre aux besoins des organisateurs.trices issu.e.s du terrain et faisant partie des mouvements sociaux au Québec. Elle s’appuie sur les connaissances collectives de son équipe et de sa animatrice présentée ci-dessous.
-
+Cette formation est offerte par le [HUB de mobilisation pour la justice climatique](https://www.lehub.ca/), une structure de soutien conçue pour répondre aux besoins des organisateurs.trices issu.e.s du terrain et faisant partie des mouvements sociaux au Québec. Elle s’appuie sur les connaissances collectives de son équipe et de son animatrice présentée ci-dessous.\
 \
 **Lourdenie Jean, coordinatrice aux programmes intersectionnels au Hub et fondatrice de L'Environnement, c'est intersectionnel**
 
