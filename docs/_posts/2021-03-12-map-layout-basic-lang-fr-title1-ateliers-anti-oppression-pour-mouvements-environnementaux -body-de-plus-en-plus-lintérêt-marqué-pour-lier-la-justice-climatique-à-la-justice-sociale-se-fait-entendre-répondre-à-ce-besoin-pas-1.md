@@ -1,6 +1,6 @@
 ---
 layout: basic
-title1: Ateliers anti-oppression pour mouvements environnementaux 
+title1: Ateliers anti-oppression pour militant.e.s écolos
 lang: fr
 permalink: ateliers-anti-opp
 otherlang_url: anti-opp-workshop
