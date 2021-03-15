@@ -13,17 +13,13 @@ De plus en plus, l'intérêt marqué pour lier la justice climatique à la justi
 
 Sous la forme d'ateliers, le contenu sera divisé en deux angles respectifs. L'atelier anti-oppression 101 vise à introduire les dynamiques du pouvoir par une exhaustive analyse des modèles oppressants, alors que l'atelier anti-oppression 102 a pour but de passer de la **«** théorie​​​​​​​ **»** à la pratique en outillant les militant.e.s. Dans l'ensemble, le tout priorise une formule ludique approchant ces concepts par des activités participatives. 
 
-
-
 ### **Résumé du contenu : Anti-oppression 101**
 
-\-Discussion visant à décortiquer certaines affirmations populaires et problématiques normalisées au sein du mouvement écologique.
+\*Discussion visant à décortiquer certaines affirmations populaires et problématiques normalisées au sein du mouvement écologique.
 
-###### \-Comprendre divers exemples de privilèges récurrents au sein de la lutte environnementale à travers un exercice permettant de pratiquer la capacité à les repérer.
+\*Comprendre divers exemples de privilèges récurrents au sein de la lutte environnementale à travers un exercice permettant de pratiquer la capacité à les repérer.
 
-###### \-Définir l'oppression systémique en profondeur en utilisant un outil visuel pour expliquer les différentes parties inter-reliées afin d'identifier plus explicitement en quoi la cause environnementale est de nature intersectionnelle, d'où l'importance d'un allyship actif.
-
-
+\*Définir l'oppression systémique en profondeur en utilisant un outil visuel pour expliquer les différentes parties inter-reliées afin d'identifier plus explicitement en quoi la cause environnementale est de nature intersectionnelle, d'où l'importance d'un allyship actif.
 
 ### **Résumé du contenu : Anti-oppression 102**
 
