@@ -13,6 +13,8 @@ De plus en plus, l'intérêt marqué pour lier la justice climatique à la justi
 
 Sous la forme d'ateliers, le contenu sera divisé en deux angles respectifs. L'atelier anti-oppression 101 vise à introduire les dynamiques du pouvoir par une exhaustive analyse des modèles oppressants, alors que l'atelier anti-oppression 102 a pour but de passer de la **«** théorie​​​​​​​ **»** à la pratique en outillant les militant.e.s. Dans l'ensemble, le tout priorise une formule ludique approchant ces concepts par des activités participatives. 
 
+Cette série comprend deux séances interactives et virtuelles d’une heure et demie chacune. 
+
 
 
 ![](/media/anti-opp-slide.png)
@@ -35,8 +37,11 @@ Sous la forme d'ateliers, le contenu sera divisé en deux angles respectifs. L'a
 
 
 
-### **Animatrice**
+### **Équipe de formation**
 
+Cette formation est offerte par le [HUB de mobilisation pour la justice climatique](https://www.lehub.ca/), une structure de soutien conçue pour répondre aux besoins des organisateurs.trices issu.e.s du terrain et faisant partie des mouvements sociaux au Québec. Elle s’appuie sur les connaissances collectives de son équipe et de sa animatrice présentée ci-dessous.
+
+\
 **Lourdenie Jean, coordinatrice aux programmes intersectionnels au Hub et fondatrice de L'Environnement, c'est intersectionnel**
 
 Diplômée du Collège Lionel-Groulx en 2017, Lourdenie se passionne des sciences humaines, notamment la sociologie, la psychologie et l’anthropologie. Elle renforce actuellement son expérience terrain en grandissant ses compétences au sein d’organismes communautaires et en se concentrant sur ses projets abordant divers enjeux sociaux autant à l’échelle macro que micro. Parmi ceux-ci, il y a L’environnement, c’est intersectionnel dont elle est la fondatrice qui est une initiative mariant arts, engagement et éducation populaire.
