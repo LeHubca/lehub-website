@@ -23,11 +23,12 @@ Sous la forme d'ateliers, le contenu sera divisé en deux angles respectifs. L'a
 
 ### **Résumé du contenu : Anti-oppression 102**
 
-###### \-Réflexion collective dans le but d'identifier des intersections environnementales et sociales suivie d'une présentation d'intersections principales.
+\*Réflexion collective dans le but d'identifier des intersections environnementales et sociales suivie d'une présentation d'intersections principales.
 
-###### \-Activité visant à modifier les pratiques militantes pour créer un environnement plus inclusif au sein d'organisations et toute entités de pratique: design d’évènements inclusifs, considérations numériques, le 'progressive stack' pour la prise de parole, etc.
+\*Activité visant à modifier les pratiques militantes pour créer un environnement plus inclusif au sein d'organisations et toute entités de pratique: design d’évènements inclusifs, considérations numériques, le 'progressive stack' pour la prise de parole, etc.
 
-###### \-Propositions de pistes de directives anti-oppressives applicables dans divers contextes.
+\*Propositions de pistes de directives anti-oppressives applicables dans divers contextes.
+
 
 ### **Animatrice**
 
