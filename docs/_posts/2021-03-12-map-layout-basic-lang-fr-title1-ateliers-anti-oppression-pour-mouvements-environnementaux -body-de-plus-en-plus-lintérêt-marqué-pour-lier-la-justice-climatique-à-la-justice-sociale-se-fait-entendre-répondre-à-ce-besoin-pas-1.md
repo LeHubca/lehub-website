@@ -2,7 +2,7 @@
 layout: basic
 title1: Ateliers anti-oppression pour mouvements environnementaux 
 lang: fr
-permalink: atelier-anti-opp
+permalink: ateliers-anti-opp
 otherlang_url: anti-opp-workshop
 ---
 De plus en plus, l'intérêt marqué pour lier la justice climatique à la justice sociale se fait entendre. Répondre à ce besoin passe immanquablement par une déconstruction des systèmes oppressifs et leur manière d'opérer à différentes échelles. 
