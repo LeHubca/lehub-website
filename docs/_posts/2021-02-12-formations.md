@@ -1,6 +1,6 @@
 ---
 layout: basic
-title1: "Formation pour militant.e.s : Comment bâtir et soutenir des mouvements
+secondary_page_title: "Formation pour militant.e.s : Comment bâtir et soutenir des mouvements
   décentralisés"
 lang: fr
 permalink: /formationmouvements/
