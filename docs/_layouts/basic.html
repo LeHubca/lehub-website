@@ -14,6 +14,9 @@
 {% else %}
   {% assign header_image_exists_class = "header-image-exists-no" %}
 {% endif %}
+{% if page.secondary_page_title %}
+  {% assign page.title = page.secondary_page_title %}
+{% endif %}
 <!DOCTYPE html>
 <html class="no-js" lang="zxx">
   <head>

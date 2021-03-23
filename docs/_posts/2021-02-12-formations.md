@@ -1,6 +1,6 @@
 ---
 layout: basic
-title1: Formations
+secondary_page_title: Formations
 lang: fr
 permalink: /formations/
 otherlang_url: /trainings/
