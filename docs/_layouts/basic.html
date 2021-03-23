@@ -15,15 +15,17 @@
   {% assign header_image_exists_class = "header-image-exists-no" %}
 {% endif %}
 {% if page.secondary_page_title %}
-  {% assign page.title = page.secondary_page_title %}
+  {% assign meta_title = page.secondary_page_title %}
+{% else %}
+  {% assign meta_title = page.title %}
 {% endif %}
 <!DOCTYPE html>
 <html class="no-js" lang="zxx">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>{{ page.title }}</title>
-    <meta name="description" content="">
+    <title>{{ meta_title }}</title>
+    <meta name="description" content="{{ content | markdownify | newline_to_br | strip_newlines | replace: '<br />', ' ' | strip_html | strip |  truncatewords: 30 }}...">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- <link rel="manifest" href="site.webmanifest"> -->
     <link rel="shortcut icon" type="image/x-icon" href="/assets/img/favicon.ico">
