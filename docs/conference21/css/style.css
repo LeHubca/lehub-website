@@ -140,7 +140,7 @@ p {
   font-size: 14px;
   font-weight: 300;
   line-height: 26px;
-  color: #808080;
+  color: #0B3954;
   margin-bottom: 13px;
   font-family: "Roboto", sans-serif;
 }
@@ -1108,7 +1108,7 @@ h3 {
   background-size: cover;
   background-position: center  center;
   background-repeat: no-repeat;
-  padding-top: 300px;
+  padding-top: 200px;
   padding-bottom: 100px;
 }
 
@@ -1136,7 +1136,7 @@ h3 {
 /* line 22, C:/Users/SPN Graphics/Desktop/CL September/209/HTML/scss/_slider.scss */
 .slider_area .title_text {
   position: relative;
-  margin-bottom: 213px;
+  margin-bottom: 50px;
   z-index: 3;
   padding: 55px 8px 12px 0px;
 }
@@ -4837,4 +4837,14 @@ h6 {
 
 .about_area ul {
 	padding: 0;
+}
+
+.resister_text {
+	max-width: 60%;
+	margin-left: auto;
+	margin-right:auto;
+}
+
+.register_text p {
+	color: #0B3954;
 }
