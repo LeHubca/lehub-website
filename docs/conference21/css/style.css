@@ -4828,6 +4828,16 @@ h6 {
   max-width: 590px;
 }
 
+.ressources p {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  color: #808080;
+  margin-top: 30px;
+  margin-bottom: 60px;
+  max-width: 590px;
+}
+
 
 .about_info ul li {
 	list-style-type: circle;
@@ -4847,5 +4857,17 @@ h6 {
 }
 
 .register_text p {
+	color: #0B3954;
+}
+
+.ressources {
+	padding-top: 100px;
+}
+
+.ressources a {
+	color: #B01C77;
+}
+
+.ressources a:hover {
 	color: #0B3954;
 }
