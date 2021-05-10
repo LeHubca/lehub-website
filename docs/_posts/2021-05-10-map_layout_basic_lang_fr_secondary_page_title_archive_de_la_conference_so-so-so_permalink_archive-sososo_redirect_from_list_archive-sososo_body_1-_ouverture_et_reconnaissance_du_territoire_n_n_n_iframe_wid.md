@@ -9,7 +9,7 @@ otherlang_url: /archive-frenchconf
 ---
 # 1. Ouverture et reconnaissance du territoire
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5Mm2vDSgXD0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/5Mm2vDSgXD0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Katsi'tsakwas (Ellen Gabriel), *Land Defender* de Kanehsatà:ke, ouvre la **Conférence virtuelle So-so-so !** avec une reconnaissance du territoire politisée. En planifiant cette conférence, notre équipe se sentait mal à l'aise avec l'idée de faire une reconnaissance du territoire typique. Dans nos mouvements, les reconnaissances territoriales sont devenues un automatisme et elles perdent leur sens au fil de cette normalisation.\
 \
