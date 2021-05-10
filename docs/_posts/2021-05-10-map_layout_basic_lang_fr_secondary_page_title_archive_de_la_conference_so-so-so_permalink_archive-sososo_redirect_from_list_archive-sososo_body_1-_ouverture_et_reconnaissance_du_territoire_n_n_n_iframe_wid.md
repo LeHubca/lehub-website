@@ -19,7 +19,7 @@ Nous voulons remettre en question nos pratiques et c'est pourquoi nous avons tra
 
 **[Voici une liste de recommandations de ressources pertinentes](https://www.lehub.ca/ressources/)**, regroupant autant des rapports que des guides pratiques, de nos allié.e.s. Il s'agit d'une bonne préparation à la Conférence virtuelle So-so-so !, mais également d'un bon suivi suite à celle-ci.
 
-![](/media/docs-mouvements-fr.png)
+![https://www.lehub.ca/ressources/](/media/docs-mouvements-fr.png)
 
 La première section porte sur l’anti-oppression et la solidarité avec les mouvements pour la justice sociale, la deuxième sur la décolonisation et la solidarité avec les luttes autochtones et la dernière sur comment bâtir et soutenir des mouvements sociaux. 
 
