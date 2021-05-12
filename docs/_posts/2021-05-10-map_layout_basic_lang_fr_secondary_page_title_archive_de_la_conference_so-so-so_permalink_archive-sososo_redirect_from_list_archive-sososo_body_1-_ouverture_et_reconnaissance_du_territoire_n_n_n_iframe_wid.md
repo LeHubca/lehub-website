@@ -37,17 +37,23 @@ Ce rapport était au centre des conversations d'un panel le 3 mai à 19h. Lors 
 
 ## 4. Redéfinir le militantisme : partage d'histoire non traditionnelles d'implication sociale
 
-Qu’est-ce que le militantisme ? Qui est activiste ? Quels rapports se cachent derrière ces réflexions ? C'est dans le cadre d'une discussion guidée par Lourdenie Jean que nous créerons un espace pour réfléchir à ces questions et tenter de déconstruire nos visions de l'activisme et de l'engagement, grandement influencées par les structures oppressantes.
+Qu’est-ce que le militantisme ? Qui est activiste ? Quels rapports se cachent derrière ces réflexions ? C'est dans le cadre d'une discussion guidée par Lourdenie Jean, fondatrice de L’environnement, c’est intersectionnel, que nous créerons un espace pour réfléchir à ces questions et tenter de déconstruire nos visions de l'activisme et de l'engagement, grandement influencées par les structures oppressantes.
+
+L’environnement, c’est intersectionnel est une plateforme d’éducation afin d’approfondir notre vision sur la cause environnementale, notamment à travers divers projets déconstruisant notre modèle de consommation.
+
+Vous pouvez suivre L’environnement, c’est intersectionnel sur [Facebook](https://www.facebook.com/lenvironnementcestintersectionnel) et sur [Instagram](https://www.instagram.com/environnement.intersectionnel/). 
 
 ## 5. Évoluer et s'épanouir en activisme : histoires et parcours personnels
 
-<div align="center"><iframe width="560" height="315" src="https://youtu.be/3iGPAENM-x0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/3iGPAENM-x0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Dans les espaces militants, on parle souvent de l'importance de la justice climatique et de l'intersectionnalité. Cependant, on ne parle pas aussi fréquemment de la façon dont les organisateur.rice.s, individuellement, développent ces perspectives. En s'intéressant aux histoires d'organisation et d'évolution personnelle d'Ashley Torres, d'Isabelle L'Héritier et de Louis Ramirez, trois activistes du mouvement climatique, cette discussion, filmée à l'avance, explore comment iels ont appris à fusionner climat et justice sociale et pourquoi c'est important pour iels.
 
+Vous pouvez accéder au texte de la vidéo juste [ici](https://docs.google.com/document/d/1mGs3Jmkz6vfmibjOPY9-39CaQmo1dPP3GgBK2opIOUI/edit?usp=sharing). 
+
 ## 6. Réussir une convergence des luttes sociales et climatiques en centrant les marges
 
-
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/hsfzWF6N654" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Cet événement fera un retour sur la campagne Pas de justice climatique sans justice sociale, qui a mis en évidence l'urgence et la nécessité de placer les personnes autochtones, noires et racisées ainsi que leurs préoccupations au centre des luttes pour le climat. Si toutes les luttes de justice sociale et raciale semblent connectées avec la crise climatique, l’heure est-elle à la convergence des luttes ? May Chui et Mostafa Henaway tenteront de répondre à cette question en compagnie de Tasnim Rekik.
 
@@ -67,10 +73,37 @@ L'animatrice de ce panel, Olepika Takpanie Kiguktak, abordera des questions ento
 
 <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/Fvy8J79z60E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-Le premier panel de YIWA (Young Indigenous Women Action) sera animé par la fondatrice, Olepika Takpanie Kiguktak, et donnera la parole à trois femmes autochtones impliquées à travers le Québec : Olivia Lya Thomassie, Uapukun Mestokosho, Maïtée Labrecque Saganash et Laura Fontaine. Elles aborderont des sujets qui sont importants pour elles comme leurs territoires, leurs identités, leurs luttes quotidiennes, leurs parcours inspirants et leurs motivations.
+Le premier panel de Young Indigenous Women Action (YIWA) sera animé par la fondatrice, Olepika Takpanie Kiguktak, et donnera la parole à trois femmes autochtones impliquées à travers le Québec : Olivia Lya Thomassie, Uapukun Mestokosho, Maïtée Labrecque Saganash et Laura Fontaine. Elles aborderont des sujets qui sont importants pour elles comme leurs territoires, leurs identités, leurs luttes quotidiennes, leurs parcours inspirants et leurs motivations.
+
+Young Indigenous Women Action (YIWA) a pour mission d’offrir des programmes en lien avec le territoire aux jeunes femmes autochtones dans le but de leur fournir des outils pour l’avenir de leur peuple et de leur environnement. 
+
+Vous pouvez suivre YIWA sur [Facebook](https://www.facebook.com/YIWACTION) et sur [Instagram](https://www.instagram.com/y.i.w.a/). 
 
 ## 10. RéconciliAction : un modèle concret d'allyship pour le mouvement climatique
 
 <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/Wl73_LNOmAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Ce panel débutera avec des commentaires d'Ellen Gabriel, Land Defender de la communauté de Kanehsatà:ke, sur les critères d'un allyship productif. Puis le Directeur du HUB, Tom Liacas, animera une discussion avec Louis Ramirez, qui appuie le travail d'Ellen depuis quelque temps. Cette dernière discussion présentera notamment des pistes d'actions concrètes que peuvent prendre les militant.e.s pour appuyer les diverses luttes autochtones.
+
+## 11. Espace de réseautage virtuel
+
+Si vous n'avez pas encore rejoint l'espace de réseautage virtuel du Hub, voici les étapes pour le faire :
+
+1. Télécharger [l'application Keybase](https://keybase.io/). Cliquer le bouton « install » en haut à gauche. Nous vous encourageons à télécharger l'application sur votre ordinateur ainsi que sur votre appareil mobile.
+2. Ouvrir Keybase et cliquer sur « teams » qui se trouve dans le panneau de navigation situé à gauche.
+3. Choisir « Join a team » et entrer le nom de l'équipe, soit « sososo ».
+
+Et voilà, vous avez rejoint la communauté virtuelle !
+
+\
+Celle-ci vous appartient : vous pouvez commencer des #canaux comme bon vous semble, que ce soit pour créer un club de lecture, organiser une manifestation ou commencer un nouveau groupe de militant.e.s. Vous pouvez aussi utiliser le canal #general. 
+
+\
+\
+Quelques informations de plus, pour vous aider à naviguer Keybase :
+
+* Keybase est similaire à Slack, mais est crypté et donc sécuritaire.
+* Pour commencer un #canal de communication, cliquer sur « sososo ». Dans le panneau de navigation en haut de votre écran, cliquer sur « channels » et ensuite « create channel ».
+
+\
+Si vous avez de la difficulté à installer Keybase, vous pouvez nous écrire à info@lehub.ca et nous ferons de notre mieux pour vous répondre le plus rapidement possible.
