@@ -93,12 +93,9 @@ Si vous n'avez pas encore rejoint l'espace de réseautage virtuel du Hub, voici 
 2. Ouvrir Keybase et cliquer sur « teams » qui se trouve dans le panneau de navigation situé à gauche.
 3. Choisir « Join a team » et entrer le nom de l'équipe, soit « sososo ».
 
-Et voilà, vous avez rejoint la communauté virtuelle !
-
+Et voilà, vous avez rejoint la communauté virtuelle !\
 \
-Celle-ci vous appartient : vous pouvez commencer des #canaux comme bon vous semble, que ce soit pour créer un club de lecture, organiser une manifestation ou commencer un nouveau groupe de militant.e.s. Vous pouvez aussi utiliser le canal #general. 
-
-\
+Celle-ci vous appartient : vous pouvez commencer des #canaux comme bon vous semble, que ce soit pour créer un club de lecture, organiser une manifestation ou commencer un nouveau groupe de militant.e.s. Vous pouvez aussi utiliser le canal #general. \
 \
 Quelques informations de plus, pour vous aider à naviguer Keybase :
 
