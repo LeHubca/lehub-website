@@ -53,7 +53,7 @@ Vous pouvez accéder au texte de la vidéo juste [ici](https://docs.google.com/d
 
 ## 6. Réussir une convergence des luttes sociales et climatiques en centrant les marges
 
-<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/hsfzWF6N654" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/D1fbQ-92e5I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Cet événement fera un retour sur la campagne Pas de justice climatique sans justice sociale, qui a mis en évidence l'urgence et la nécessité de placer les personnes autochtones, noires et racisées ainsi que leurs préoccupations au centre des luttes pour le climat. Si toutes les luttes de justice sociale et raciale semblent connectées avec la crise climatique, l’heure est-elle à la convergence des luttes ? May Chui et Mostafa Henaway tenteront de répondre à cette question en compagnie de Tasnim Rekik.
 
