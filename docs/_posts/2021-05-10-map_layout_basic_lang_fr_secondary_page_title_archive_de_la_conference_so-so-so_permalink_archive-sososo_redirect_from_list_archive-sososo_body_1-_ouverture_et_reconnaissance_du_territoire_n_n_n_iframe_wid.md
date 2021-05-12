@@ -90,7 +90,9 @@ Ce panel débutera avec des commentaires d'Ellen Gabriel, Land Defender de la co
 Si vous n'avez pas encore rejoint l'espace de réseautage virtuel du Hub, voici les étapes pour le faire :
 
 1. Télécharger [l'application Keybase](https://keybase.io/). Cliquer le bouton « install » en haut à gauche. Nous vous encourageons à télécharger l'application sur votre ordinateur ainsi que sur votre appareil mobile.
+
 2. Ouvrir Keybase et cliquer sur « teams » qui se trouve dans le panneau de navigation situé à gauche.
+
 3. Choisir « Join a team » et entrer le nom de l'équipe, soit « sososo ».
 
 Et voilà, vous avez rejoint la communauté virtuelle !\
@@ -99,8 +101,9 @@ Celle-ci vous appartient : vous pouvez commencer des #canaux comme bon vous semb
 \
 Quelques informations de plus, pour vous aider à naviguer Keybase :
 
-* Keybase est similaire à Slack, mais est crypté et donc sécuritaire.
-* Pour commencer un #canal de communication, cliquer sur « sososo ». Dans le panneau de navigation en haut de votre écran, cliquer sur « channels » et ensuite « create channel ».
+\- Keybase est similaire à Slack, mais est crypté et donc sécuritaire.
+
+\- Pour commencer un #canal de communication, cliquer sur « sososo ». Dans le panneau de navigation en haut de votre écran, cliquer sur « channels » et ensuite « create channel ».
 
 \
 Si vous avez de la difficulté à installer Keybase, vous pouvez nous écrire à info@lehub.ca et nous ferons de notre mieux pour vous répondre le plus rapidement possible.
