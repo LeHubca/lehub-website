@@ -34,3 +34,43 @@ Nous sommes heureux.ses de vous dévoiler le rapport « Les arguments stratégiq
 <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/HdLzJuuu12o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Ce rapport était au centre des conversations d'un panel le 3 mai à 19h. Lors de sa présentation, Marouane à partagé son recensement des arguments soutenant la valeur stratégique d'une convergence des luttes. Cette présentation s'est faite en dialogue avec Dr Jen Gobby, chercheuse, militante et auteure du rapport « Plus puissants unis : Réflexions du mouvement sur la décarbonisation et la décolonisation du prétendu Canada ».
+
+## 4. Redéfinir le militantisme : partage d'histoire non traditionnelles d'implication sociale
+
+Qu’est-ce que le militantisme ? Qui est activiste ? Quels rapports se cachent derrière ces réflexions ? C'est dans le cadre d'une discussion guidée par Lourdenie Jean que nous créerons un espace pour réfléchir à ces questions et tenter de déconstruire nos visions de l'activisme et de l'engagement, grandement influencées par les structures oppressantes.
+
+## 5. Évoluer et s'épanouir en activisme : histoires et parcours personnels
+
+<div align="center"><iframe width="560" height="315" src="https://youtu.be/3iGPAENM-x0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+Dans les espaces militants, on parle souvent de l'importance de la justice climatique et de l'intersectionnalité. Cependant, on ne parle pas aussi fréquemment de la façon dont les organisateur.rice.s, individuellement, développent ces perspectives. En s'intéressant aux histoires d'organisation et d'évolution personnelle d'Ashley Torres, d'Isabelle L'Héritier et de Louis Ramirez, trois activistes du mouvement climatique, cette discussion, filmée à l'avance, explore comment iels ont appris à fusionner climat et justice sociale et pourquoi c'est important pour iels.
+
+## 6. Réussir une convergence des luttes sociales et climatiques en centrant les marges
+
+
+
+Cet événement fera un retour sur la campagne Pas de justice climatique sans justice sociale, qui a mis en évidence l'urgence et la nécessité de placer les personnes autochtones, noires et racisées ainsi que leurs préoccupations au centre des luttes pour le climat. Si toutes les luttes de justice sociale et raciale semblent connectées avec la crise climatique, l’heure est-elle à la convergence des luttes ? May Chui et Mostafa Henaway tenteront de répondre à cette question en compagnie de Tasnim Rekik.
+
+## 7. Bain de forêt virtuel avec Melissa Mollen Dupuis
+
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/hsfzWF6N654" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+Grâce à Melissa Mollen Dupuis, nous aurons l'occasion de reconnecter tous nos sens avec la nature et d’entendre une perspective autochtone sur la connexion des luttes pour le territoire, la solidarité, la justice sociale et l’interdépendance des peuples avec le milieu naturel. Ce bain de forêt sera accessible de chez toi, alors que Melissa sera en nature.
+
+## 8. Défense du territoire : solidarité avec les mouvements autochtones
+
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/qltU5twV_aQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+L'animatrice de ce panel, Olepika Takpanie Kiguktak, abordera des questions entourant la défense du territoire. À quoi ressemble le travail des défenseurs de la terre et de l'eau ? Quels sont les liens avec le mouvement climatique ? Comment les personnes allochtones peuvent-elles supporter les individus et les groupes autochtones ? Nos invités Skyler Williams et Michaël Paul, dit Kuekuatsheu, sont impliqués dans diverses luttes pour la défense du territoire, notamment 1492 Land Back Lane et l'opposition au projet GNL/Gazoduq. Notre troisième invité, Samuel Rainville, a développé une expertise en sécurisation culturelle.
+
+## 9. YIWA - Femmes autochtones et environnement
+
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/Fvy8J79z60E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+Le premier panel de YIWA (Young Indigenous Women Action) sera animé par la fondatrice, Olepika Takpanie Kiguktak, et donnera la parole à trois femmes autochtones impliquées à travers le Québec : Olivia Lya Thomassie, Uapukun Mestokosho, Maïtée Labrecque Saganash et Laura Fontaine. Elles aborderont des sujets qui sont importants pour elles comme leurs territoires, leurs identités, leurs luttes quotidiennes, leurs parcours inspirants et leurs motivations.
+
+## 10. RéconciliAction : un modèle concret d'allyship pour le mouvement climatique
+
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/Wl73_LNOmAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+Ce panel débutera avec des commentaires d'Ellen Gabriel, Land Defender de la communauté de Kanehsatà:ke, sur les critères d'un allyship productif. Puis le Directeur du HUB, Tom Liacas, animera une discussion avec Louis Ramirez, qui appuie le travail d'Ellen depuis quelque temps. Cette dernière discussion présentera notamment des pistes d'actions concrètes que peuvent prendre les militant.e.s pour appuyer les diverses luttes autochtones.
