@@ -89,11 +89,11 @@ Ce panel débutera avec des commentaires d'Ellen Gabriel, Land Defender de la co
 
 Si vous n'avez pas encore rejoint l'espace de réseautage virtuel du Hub, voici les étapes pour le faire :
 
-1. Télécharger [l'application Keybase](https://keybase.io/). Cliquer le bouton « install » en haut à gauche. Nous vous encourageons à télécharger l'application sur votre ordinateur ainsi que sur votre appareil mobile.
+\- Télécharger [l'application Keybase](https://keybase.io/). Cliquer le bouton « install » en haut à gauche. Nous vous encourageons à télécharger l'application sur votre ordinateur ainsi que sur votre appareil mobile.
 
-2. Ouvrir Keybase et cliquer sur « teams » qui se trouve dans le panneau de navigation situé à gauche.
+\- Ouvrir Keybase et cliquer sur « teams » qui se trouve dans le panneau de navigation situé à gauche.
 
-3. Choisir « Join a team » et entrer le nom de l'équipe, soit « sososo ».
+\- Choisir « Join a team » et entrer le nom de l'équipe, soit « sososo ».
 
 Et voilà, vous avez rejoint la communauté virtuelle !\
 \
