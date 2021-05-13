@@ -83,7 +83,7 @@ Vous pouvez suivre YIWA sur [Facebook](https://www.facebook.com/YIWACTION) et su
 
 <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/Wl73_LNOmAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-Ce panel débutera avec des commentaires d'Ellen Gabriel, Land Defender de la communauté de Kanehsatà:ke, sur les critères d'un allyship productif. Puis le Directeur du HUB, Tom Liacas, animera une discussion avec Louis Ramirez, qui appuie le travail d'Ellen depuis quelque temps. Cette dernière discussion présentera notamment des pistes d'actions concrètes que peuvent prendre les militant.e.s pour appuyer les diverses luttes autochtones.
+Ce panel a débuté avec des commentaires d'Ellen Gabriel, Land Defender de la communauté de Kanehsatà:ke, sur les critères d'un allyship productif. Puis, le directeur du HUB, Tom Liacas, a animé une discussion avec Louis Ramirez, qui appuie le travail d'Ellen depuis quelque temps. Cette discussion a notamment présenté des pistes d'actions concrètes que peuvent prendre les militant.e.s pour appuyer les diverses luttes autochtones.
 
 ## 11. Espace de réseautage virtuel
 
