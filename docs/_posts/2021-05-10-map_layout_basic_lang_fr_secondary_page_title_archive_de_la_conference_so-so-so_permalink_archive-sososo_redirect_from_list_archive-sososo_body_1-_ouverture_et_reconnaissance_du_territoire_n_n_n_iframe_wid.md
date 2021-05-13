@@ -11,9 +11,9 @@ otherlang_url: /archive-frenchconf
 
 <div align="center"><iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/5Mm2vDSgXD0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-Katsi'tsakwas (Ellen Gabriel), *Land Defender* de Kanehsatà:ke, ouvre la **Conférence virtuelle So-so-so !** avec une reconnaissance du territoire politisée. En planifiant cette conférence, notre équipe se sentait mal à l'aise avec l'idée de faire une reconnaissance du territoire typique. Dans nos mouvements, les reconnaissances territoriales sont devenues un automatisme et elles perdent leur sens au fil de cette normalisation.\
+Katsi'tsakwas (Ellen Gabriel), *Land Defender* de Kanehsatà:ke, a ouvert la **Conférence virtuelle So-so-so !** avec une reconnaissance du territoire politisée. En planifiant cette conférence, notre équipe se sentait mal à l'aise avec l'idée de faire une reconnaissance du territoire typique. Dans nos mouvements, les reconnaissances territoriales sont devenues un automatisme et elles perdent leur sens au fil de cette normalisation.\
 \
-Nous voulons remettre en question nos pratiques et c'est pourquoi nous avons travaillé avec Ellen pour produire une version décoloniale d'une reconnaissance du territoire. Il s'agit d'une version qui ouvre la conférence d'une bonne manière, en nous plongeant dans les valeurs et coutumes de rencontre du peuple Kanien'kehá:ka. Dans cette optique, nous souhaitons poursuivre cette conversation autour de la décolonisation de nos mouvements tout au long de la conférence.
+Nous voulions remettre en question nos pratiques et c'est pourquoi nous avons travaillé avec Ellen pour produire une version décoloniale d'une reconnaissance du territoire. Il s'agit d'une version qui ouvrait la conférence d'une bonne manière, en nous plongeant dans les valeurs et coutumes de rencontre du peuple Kanien'kehá:ka. Dans cette optique, nous souhaitions poursuivre cette conversation autour de la décolonisation de nos mouvements tout au long de la conférence.
 
 ## 2. Liste de ressources pour militant.e.s
 
@@ -37,7 +37,7 @@ Ce rapport était au centre des conversations d'un panel le 3 mai à 19h. Lors 
 
 ## 4. Redéfinir le militantisme : partage d'histoire non traditionnelles d'implication sociale
 
-Qu’est-ce que le militantisme ? Qui est activiste ? Quels rapports se cachent derrière ces réflexions ? C'est dans le cadre d'une discussion guidée par Lourdenie Jean, fondatrice de L’environnement, c’est intersectionnel, que nous créerons un espace pour réfléchir à ces questions et tenter de déconstruire nos visions de l'activisme et de l'engagement, grandement influencées par les structures oppressantes.
+Qu’est-ce que le militantisme ? Qui est activiste ? Quels rapports se cachent derrière ces réflexions ? C'est dans le cadre d'une discussion guidée par Lourdenie Jean, fondatrice de L’environnement, c’est intersectionnel, que nous avons créé un espace pour réfléchir à ces questions et tenter de déconstruire nos visions de l'activisme et de l'engagement, grandement influencées par les structures oppressantes.
 
 L’environnement, c’est intersectionnel est une plateforme d’éducation afin d’approfondir notre vision sur la cause environnementale, notamment à travers divers projets déconstruisant notre modèle de consommation.
 
@@ -55,25 +55,25 @@ Vous pouvez accéder au texte de la vidéo juste [ici](https://docs.google.com/d
 
 <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/D1fbQ-92e5I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-Cet événement fera un retour sur la campagne Pas de justice climatique sans justice sociale, qui a mis en évidence l'urgence et la nécessité de placer les personnes autochtones, noires et racisées ainsi que leurs préoccupations au centre des luttes pour le climat. Si toutes les luttes de justice sociale et raciale semblent connectées avec la crise climatique, l’heure est-elle à la convergence des luttes ? May Chui et Mostafa Henaway tenteront de répondre à cette question en compagnie de Tasnim Rekik.
+Cet événement, qui a eu lieu le 7 mai dernier, faisait un retour sur la campagne Pas de justice climatique sans justice sociale, qui a mis en évidence l'urgence et la nécessité de placer les personnes autochtones, noires et racisées ainsi que leurs préoccupations au centre des luttes pour le climat. Si toutes les luttes de justice sociale et raciale semblent connectées avec la crise climatique, l’heure est-elle à la convergence des luttes ? May Chui et Mostafa Henaway ont tenté de répondre à cette question en compagnie de Tasnim Rekik.
 
 ## 7. Bain de forêt virtuel avec Melissa Mollen Dupuis
 
 <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/hsfzWF6N654" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-Grâce à Melissa Mollen Dupuis, nous aurons l'occasion de reconnecter tous nos sens avec la nature et d’entendre une perspective autochtone sur la connexion des luttes pour le territoire, la solidarité, la justice sociale et l’interdépendance des peuples avec le milieu naturel. Ce bain de forêt sera accessible de chez toi, alors que Melissa sera en nature.
+Grâce à Melissa Mollen Dupuis, nous avons eu l'occasion de reconnecter tous nos sens avec la nature et d’entendre une perspective autochtone sur la connexion des luttes pour le territoire, la solidarité, la justice sociale et l’interdépendance des peuples avec le milieu naturel. 
 
 ## 8. Défense du territoire : solidarité avec les mouvements autochtones
 
 <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/qltU5twV_aQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-L'animatrice de ce panel, Olepika Takpanie Kiguktak, abordera des questions entourant la défense du territoire. À quoi ressemble le travail des défenseurs de la terre et de l'eau ? Quels sont les liens avec le mouvement climatique ? Comment les personnes allochtones peuvent-elles supporter les individus et les groupes autochtones ? Nos invités Skyler Williams et Michaël Paul, dit Kuekuatsheu, sont impliqués dans diverses luttes pour la défense du territoire, notamment 1492 Land Back Lane et l'opposition au projet GNL/Gazoduq. Notre troisième invité, Samuel Rainville, a développé une expertise en sécurisation culturelle.
+L'animatrice de ce panel, Olepika Takpanie Kiguktak, a abordé des questions entourant la défense du territoire. À quoi ressemble le travail des défenseurs de la terre et de l'eau ? Quels sont les liens avec le mouvement climatique ? Comment les personnes allochtones peuvent-elles supporter les individus et les groupes autochtones ? Nos invités Skyler Williams et Michaël Paul, dit Kuekuatsheu, sont impliqués dans diverses luttes pour la défense du territoire, notamment 1492 Land Back Lane et l'opposition au projet GNL/Gazoduq. Notre troisième invité, Samuel Rainville, a développé une expertise en sécurisation culturelle.
 
 ## 9. YIWA - Femmes autochtones et environnement
 
 <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/Fvy8J79z60E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-Le premier panel de Young Indigenous Women Action (YIWA) sera animé par la fondatrice, Olepika Takpanie Kiguktak, et donnera la parole à trois femmes autochtones impliquées à travers le Québec : Olivia Lya Thomassie, Uapukun Mestokosho, Maïtée Labrecque Saganash et Laura Fontaine. Elles aborderont des sujets qui sont importants pour elles comme leurs territoires, leurs identités, leurs luttes quotidiennes, leurs parcours inspirants et leurs motivations.
+Le premier panel de Young Indigenous Women Action (YIWA) a été animé par la fondatrice, Olepika Takpanie Kiguktak, et a donné la parole à quatre femmes autochtones impliquées à travers le Québec : Olivia Lya Thomassie, Uapukun Mestokosho, Maïtée Labrecque Saganash et Laura Fontaine. Elles ont abordé des sujets qui sont importants pour elles comme leurs territoires, leurs identités, leurs luttes quotidiennes, leurs parcours inspirants et leurs motivations.
 
 Young Indigenous Women Action (YIWA) a pour mission d’offrir des programmes en lien avec le territoire aux jeunes femmes autochtones dans le but de leur fournir des outils pour l’avenir de leur peuple et de leur environnement. 
 
