@@ -35,7 +35,7 @@ Nous sommes heureux.ses de vous dévoiler le rapport « Les arguments stratégiq
 
 Ce rapport était au centre des conversations d'un panel le 3 mai à 19h. Lors de sa présentation, Marouane à partagé son recensement des arguments soutenant la valeur stratégique d'une convergence des luttes. Cette présentation s'est faite en dialogue avec Dr Jen Gobby, chercheuse, militante et auteure du rapport « Plus puissants unis : Réflexions du mouvement sur la décarbonisation et la décolonisation du prétendu Canada ».
 
-## 4. Redéfinir le militantisme : partage d'histoire non traditionnelles d'implication sociale
+## 4. Redéfinir le militantisme : partage d'histoires non traditionnelles d'implication sociale
 
 Qu’est-ce que le militantisme ? Qui est activiste ? Quels rapports se cachent derrière ces réflexions ? C'est dans le cadre d'une discussion guidée par Lourdenie Jean, fondatrice de L’environnement, c’est intersectionnel, que nous avons créé un espace pour réfléchir à ces questions et tenter de déconstruire nos visions de l'activisme et de l'engagement, grandement influencées par les structures oppressantes.
 
