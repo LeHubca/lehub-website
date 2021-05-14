@@ -6,7 +6,7 @@ lang: fr
 permalink: /formationmouvements/
 otherlang_url: /trainings/
 ---
-Il existe un vaste réservoir de connaissances touchant aux défis typiques des mouvements sociaux décentralisés. Cette formation présente ainsi une synthèse des réflexions stratégiques trouvées dans différentes sources reconnues à travers le monde telles que **[Blueprints for Change](www.blueprintsfc.org)**, **[The Commons Library](https://commonslibrary.org/)** et **[Momentum Organizing](https://www.momentumcommunity.org/)**. Elle comprend cinq séances interactives et virtuelles d’une heure et demie chacune. 
+Il existe un vaste réservoir de connaissances touchant aux défis typiques des mouvements sociaux décentralisés. Cette formation présente ainsi une synthèse des réflexions stratégiques trouvées dans différentes sources reconnues à travers le monde telles que **[Blueprints for Change](https://blueprintsfc.org/)**, **[The Commons Library](https://commonslibrary.org/)** et **[Momentum Organizing](https://www.momentumcommunity.org/)**. Elle comprend cinq séances interactives et virtuelles d’une heure et demie chacune. 
 
 ![](/media/diapo-formationmouvements.png)
 
