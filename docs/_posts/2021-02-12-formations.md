@@ -1,18 +1,12 @@
 ---
 layout: basic
-secondary_page_title: "Formation pour militant.e.s : Comment bâtir et soutenir des mouvements
-  décentralisés"
+secondary_page_title: "Formation pour militant.e.s : Comment bâtir et soutenir
+  des mouvements décentralisés"
 lang: fr
 permalink: /formationmouvements/
 otherlang_url: /trainings/
 ---
-<div align="center">
--- Série gratuite, inscription limitée, première session la semaine du 15 mars --
-</div>
-<br/>
-Il existe un vaste réservoir de connaissances touchant aux défis typiques des mouvements sociaux décentralisés. Cette formation présente ainsi une synthèse des réflexions stratégiques trouvées dans différentes sources reconnues à travers le monde telles que **[Blueprints for Change](http://blueprintsfc.org/)** **[The Commons Library ](https://commonslibrary.org/)**et **[Momentum Organizing](https://www.momentumcommunity.org/)**. Elle comprend cinq séances interactives et virtuelles d’une heure et demie chacune. 
-
-
+Il existe un vaste réservoir de connaissances touchant aux défis typiques des mouvements sociaux décentralisés. Cette formation présente ainsi une synthèse des réflexions stratégiques trouvées dans différentes sources reconnues à travers le monde telles que \*\*\[Blueprints for Change](http://blueprintsfc.org/)\*\* \*\*\[The Commons Library ](https://commonslibrary.org/)\*\*et \*\*\[Momentum Organizing](https://www.momentumcommunity.org/)\*\*. Elle comprend cinq séances interactives et virtuelles d’une heure et demie chacune. 
 
 ![](/media/diapo-formationmouvements.png)
 
@@ -43,10 +37,6 @@ Cette formation est offerte par le [HUB de mobilisation pour la justice climatiq
 **Louis Ramirez**
 
 Louis a entamé son parcours militant à seize ans, en organisant des actions directes contre la hausse des frais de scolarité en Angleterre. Après un détour passant par la philosophie et, ensuite, par la stratégie de marque, il est retourné dans le monde militant en cofondant Extinction Rébellion Québec. Suite à un passage chez The Climate Mobilization, aux États-Unis, il partage aujourd’hui son temps entre les projets de réorganisation des branches britanniques et québécoises de XR, du HUB, et des campagnes de défense des droits autochtones à Kanehsatake.
-
-**Ashley Torres**
-
-Ashley Torres est une leader des étudiant.es pour la justice climatique au Québec, ayant notamment été co-porte-parole de la Coalition étudiante pour un virage environnemental et social (la CEVES) en 2019-2020. Elle étudie la science politique à l’université Concordia. Elle a également été membre et porte-parole du collectif La planète s’invite à l’université. Elle a aussi été l’une des organisatrices d’Ensemble pour le climat, un rassemblement visant à créer des liens entre les jeunes autochtones et les allochtones et à encourager leur implication dans les mobilisations nationales et internationales, afin d’imposer la crise climatique comme étant une priorité dans le programme politique des gouvernements. Les jeunes ayant participé à l’initiative ont entre autres tenu la bannière de tête de la manifestation du 27 septembre 2019 à Montréal, aux côtés de Greta Thunberg.
 
 ### **Compléter le formulaire ci-dessous pour vous inscrire**
 
