@@ -9,7 +9,7 @@ otherlang_url: /securite-de-vos-donnees/
 ---
 ## How we collect and use personal data
 
-The HUB has a firm commitment to internet privacy and digital security. You can visit our website without telling us who you are. The only time we collect your personal data (your name and email address) is when you voluntarily sign up for one of our trainings or conferences on our website, at which point you are added to our Mailchimp email list so you can receive updates on the training and other opportunities the HUB is offering. At anytime, you may unsubscribe by clicking the link at the bottom of our emails. We will never share your personal data, and the only place we store it is on Mailchimp.
+The HUB has a firm commitment to internet privacy and digital security. You can visit our website without telling us who you are. The only time we collect your personal data (your name and email address) is when you voluntarily sign up for one of our trainings or conferences on our website, at which point you are added to our Mailchimp email list so you can receive updates on the training and other opportunities the HUB is offering. At any time, you may unsubscribe by clicking the link at the bottom of our emails. We will never share your personal data, and the only place we store it is on Mailchimp.
 
 ## How we keep your personal information safe
 
