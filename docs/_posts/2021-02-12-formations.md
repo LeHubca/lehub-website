@@ -20,13 +20,23 @@ Le parcours d’apprentissage se résume par les étapes suivantes : 
 
 ###### 1) Comment les mouvements décentralisés réussissent-ils ? Introduction à la stratégie. 
 
+Prochaine séance : Mercredi le 9 juin 2021 de 19h à 20h30, inscription [ici](https://us02web.zoom.us/meeting/register/tZIucOGtrj8sGNeWSa5peuvi68H3hw0mpOfT).
+
 ###### 2) Comment structurer un mouvement décentralisé ? Principes d’organisation distribuée. 
+
+Prochaine séance : Mercredi le 16 juin 2021 de 19h à 20h30, inscription [ici](https://us02web.zoom.us/meeting/register/tZwkd-CurD0pH9VdqgmStj1d8jWprhZMcjLk).
 
 ###### 3) Définir ses structures et processus : Atelier sur la création d'une structure décentralisée. 
 
+Prochaine séance : Mercredi le 23 juin 2021 de 19h à 20h30, inscription [ici](https://us02web.zoom.us/meeting/register/tZ0pd-uurD0pGdIC5KC0IpQM2EEisbDfzBHb).
+
 ###### 4) Travailler ensemble sans s'épuiser : Meilleures pratiques de travail en coalition agile.  
 
+Prochaine séance : Mercredi le 30 juin 2021 de 19h à 20h30, inscription [ici](https://us02web.zoom.us/meeting/register/tZEpf-yuqjgjHtKmWYJaTJ1Zs0b8H0OCHw3_).
+
 ###### 5) S'unir pour changer le système : La logique stratégique de la convergence des luttes. 
+
+Prochaine séance : Mercredi le 7 juillet 2021 de 19h à 20h30, inscription [ici](https://us02web.zoom.us/meeting/register/tZcpd-iqqTMiGdPoqxLLDKDFh04Z3St2SZCf).
 
 Une bibliothèque de ressources traduites en français sera fournie pour accompagner les formations.
 
