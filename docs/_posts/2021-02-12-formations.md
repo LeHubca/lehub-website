@@ -10,7 +10,7 @@ Il existe un vaste réservoir de connaissances touchant aux défis typiques des
 
 ![](/media/diapo-formationmouvements.png)
 
-À travers une série d'exercices pratiques et de discussions, les formateur.trices outilleront les militant.e.s en leur enseignant des méthodes de réflexion stratégique et d'organisation de mouvements. 
+À travers une série d'exercices pratiques et de discussions, les formateur.rice.s outilleront les militant.e.s en leur enseignant des méthodes de réflexion stratégique et d'organisation de mouvements. 
 
 L’objectif est aussi d’inspirer les militant.e.s locaux, grâce à une présentation des meilleures techniques organisationnelles pour mouvements sociaux, inspirées par les grandes luttes sociales dans le monde. 
 
@@ -42,7 +42,7 @@ Une bibliothèque de ressources traduites en français sera fournie pour accompa
 
 ### **Équipe de formation** 
 
-Cette formation est offerte par le [HUB de mobilisation pour la justice climatique](https://www.lehub.ca/), une structure de soutien conçue pour répondre aux besoins des organisateurs.trices issu.e.s du terrain et faisant partie des mouvements sociaux au Québec. Elle s'appuie sur les connaissances collectives de son équipe et de ses formatrices.teurs présentés ci-dessous.
+Cette formation est offerte par le [Hub de mobilisation pour la justice climatique](https://www.lehub.ca/), une structure de soutien conçue pour répondre aux besoins des organisateur.rice.s issu.e.s du terrain et faisant partie des mouvements sociaux au Québec. Elle s'appuie sur les connaissances collectives de son équipe et de ses formateur.rice.s présentés ci-dessous.
 
 **Louis Ramirez**
 
