@@ -1,0 +1,45 @@
+  - name: 'events'
+    create: true
+    label: 'Events'
+    folder: 'docs/jekyll_events/_posts/'
+    slug: '{{slug}}'
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - label: 'Language'
+        name: 'lang'
+        widget: 'select'
+        options:
+          - { label: "English (en)", value: "en" }
+          - { label: "French (fr)", value: "fr" }
+      - label: 'Dates'
+        hint: "Dates in your local timezone"
+        name: dates
+        widget: list
+        required: false
+        fields:
+          - label: 'Start date'
+            name: 'start'
+            widget: 'datetime'
+            default: ''
+            date_format: true
+            time_format: true
+            required: false
+          - label: 'End date'
+            name: 'end'
+            widget: 'datetime'
+            default: ''
+            date_format: true
+            time_format: true
+            required: false
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'event' }
+      - { label: 'Path (for example /events/new-years-eve/)', name: 'permalink', widget: 'string', required: false }
+      - label: "Redirect From (for example /new-year/ ,/yet-another-path/)"
+        name: "redirect_from"
+        widget: "list"
+        required: false
+      - label: "Images"
+        name: "img"
+        widget: "list"
+        required: false
+        field: {label: Image, name: image, widget: image}
+      - { label: 'Content', name: 'body', widget: 'markdown' }

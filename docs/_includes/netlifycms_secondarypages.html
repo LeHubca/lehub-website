@@ -1,0 +1,15 @@
+  - name: 'secondarypages'
+    create: true
+    label: 'Secondary Pages'
+    folder: 'docs/_posts/'
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'basic' }
+      - { label: 'Title (for example "Trainings")', name: 'secondary_page_title', widget: 'string' }
+      - { label: 'Language ("fr" or "en")', name: 'lang', widget: 'string', default: 'en' }
+      - { label: 'Path (for example /trainings/)', name: 'permalink', widget: 'string' }
+      - label: "Redirect From (for example /some-other-path/ ,/yet-another-path/)"
+        name: "redirect_from"
+        widget: "list"
+      - { label: 'Path in other language (for example /formations/)', name: 'otherlang_url', widget: 'string' }
+      - { label: 'Content', name: 'body', widget: 'markdown' }

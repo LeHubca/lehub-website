@@ -1,0 +1,39 @@
+  - name: 'pages'
+    label: 'Pages'
+    editor:
+      preview: false
+    files:
+      - label: 'Français'
+        name: 'francais'
+        file: 'docs/index.html'
+        fields:
+          - { label: 'Image du haut', name: 'image_top', widget: 'image', required: false }
+          - { label: 'Image du haut opacité, e.g. opacity: 0.5', name: 'image_top_css', widget: string, required: false }
+          - { label: 'Layout', name: 'layout', widget: hidden }
+          - { label: 'Titre complet', name: 'title', widget: string }
+          - { label: 'Titre 1', name: 'title1', widget: string, required: false }
+          - { label: 'Titre 2', name: 'title2', widget: string, required: false }
+          - { label: 'Titre 3', name: 'title3', widget: string, required: false }
+          - { label: 'Titre 4', name: 'title4', widget: string, required: false }
+          - { label: 'Other Lang URL', name: 'otherlang_url', widget: hidden }
+          - { label: 'Other Lang name', name: 'otherlang_name', widget: hidden }
+          - { label: 'lang', name: 'lang', widget: hidden }
+          - { label: 'footer', name: 'footer', widget: hidden }
+          - { label: 'Corps', name: 'body', widget: 'markdown' }
+      - label: 'English'
+        name: 'english'
+        file: 'docs/en/index.html'
+        fields:
+          - { label: 'Top image', name: 'image_top', widget: 'image', required: false }
+          - { label: 'Top image css, e.g. opacity: 0.5', name: 'image_top_css', widget: string, required: false }
+          - { label: 'Layout', name: 'layout', widget: hidden }
+          - { label: 'Full title', name: 'title', widget: string }
+          - { label: 'Title 1', name: 'title1', widget: string, required: false }
+          - { label: 'Title 2', name: 'title2', widget: string, required: false }
+          - { label: 'Title 3', name: 'title3', widget: string, required: false }
+          - { label: 'Title 4', name: 'title4', widget: string, required: false }
+          - { label: 'Other Lang URL', name: 'otherlang_url', widget: hidden }
+          - { label: 'Other Lang name', name: 'otherlang_name', widget: hidden }
+          - { label: 'lang', name: 'lang', widget: hidden }
+          - { label: 'footer', name: 'footer', widget: hidden }
+          - { label: 'Body', name: 'body', widget: 'markdown' }

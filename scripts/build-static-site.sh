@@ -19,3 +19,5 @@ docker run --rm \
   --volume="$PWD/docs:/srv/jekyll" \
   jekyll/minimal:4 \
   jekyll build --trace --incremental
+
+./scripts/uli.sh
