@@ -2,8 +2,6 @@
 title: "Decentralized movement building workshop #1"
 lang: en
 dates:
-  - start: ""
-    end: ""
   - start: 2021-06-30T23:00:06.318Z
     end: 2021-07-01T00:30:59.549Z
 layout: event
