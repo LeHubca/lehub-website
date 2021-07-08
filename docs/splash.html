@@ -1,72 +1,34 @@
-<!doctype html>
-<html class="no-js" lang="en">
-
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-	<title>Climate Justice Organizing Hub</title>
-    <meta property="og:title" content="Climate Justice Organizing Hub">
-	<meta property="og:image" content="img/preview/splash.png">
-    <meta property="og:description" content="">
-	<meta property="og:url" content="https://www.lehub.ca/en/">
-	<meta property="og:type" content="website">
-	<meta property="fb:app_id" content="">
-	<meta name="description" content="">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="twitter:card" content="summary_large_image">
-
- 
-      <!-- <link rel="manifest" href="site.webmanifest"> -->
-    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-    <!-- Place favicon.ico in the root directory -->
-
-    <!-- CSS here -->
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-	<link href="https://fonts.googleapis.com/css?family=Roboto Slab" rel="stylesheet">
-    <link rel="stylesheet" href="css/slicknav.css">
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/responsive.css">
-	<link rel="stylesheet" href="css/themify-icons.css">
-	<link href="css/mailchimp.css" rel="stylesheet" type="text/css">
-</head>
-
-<body>
-    <!--[if lte IE 9]>
-            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
-        <![endif]-->
-
-    <!-- slider_area_start -->
-    <div class="splash_area slider_bg_2">
-        <div class="slider_text">
-            <div class="container">
-						<div class="splash_logo">
-						  <img src="img/logo.png" alt="HUB logo">
-						</div>
-                <div class="position_relv">
-                    <div class="row">
-                      <div class="col-xl-5">
-                            <div class="title_text_smaller">
-                                <h3>Climate Justice <br>Organizing Hub</h3>
-                            </div>
-						  	<div class="center">
-                                <a href="index.html" class="boxed-btn-white-2">English</a>
-                            </div>
-                        </div>
-						<div class="col-xl-7">
-							<div class="title_text_smaller">
-                                <h3>Hub de mobilisation <br>pour la justice climatique</h3>
-                            </div>
-							<div class="center">
-                                <a href="acceuil.html" class="boxed-btn-white-2">Fran&ccedil;ais</a>
-                            </div>
-                    	</div>
-					</div>
-                </div>
+---
+layout: july2021
+---
+<div class="splash_area slider_bg_2">
+  <div class="slider_text">
+    <div class="container">
+      <div class="splash_logo">
+        <img src="img/logo.png" alt="HUB logo">
+      </div>
+      <div class="position_relv">
+        <div class="row">
+          <div class="col-xl-5">
+            <div class="title_text_smaller">
+              <h3>Climate Justice <br>Organizing Hub</h3>
             </div>
+            {% assign lang = 'en' %}{% include lang_config.html %}
+            <div class="center">
+              <a href="{{ myconfig.homepage }}" class="boxed-btn-white-2">{{ myconfig.langname }}</a>
+            </div>
+          </div>
+          <div class="col-xl-7">
+            <div class="title_text_smaller">
+              <h3>Hub de mobilisation <br>pour la justice climatique</h3>
+            </div>
+            {% assign lang = 'fr' %}{% include lang_config.html %}
+            <div class="center">
+              <a href="{{ myconfig.homepage }}" class="boxed-btn-white-2">{{ myconfig.langname }}</a>
+            </div>
+          </div>
         </div>
+      </div>
     </div>
-    <!-- slider_area_end -->
-
-</body>
-
-</html>
+  </div>
+</div>

@@ -1,0 +1,5 @@
+{% for config in site.data.config.items %}
+  {% if config.lang == lang %}
+    {% assign myconfig = config %}
+  {% endif %}
+{% endfor %}

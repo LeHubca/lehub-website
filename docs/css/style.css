@@ -957,7 +957,6 @@ h3 {
 /* line 46, C:/Users/SPN Graphics/Desktop/CL September/209/HTML/scss/_slider.scss */
 .slider_area .title_text.title_text2:after {
   position: absolute;
-  background-image: url(../img/banner/path2.png);
   content: "";
   background-repeat: no-repeat;
   background-size: contain;
@@ -1000,7 +999,6 @@ h3 {
 /* line 72, C:/Users/SPN Graphics/Desktop/CL September/209/HTML/scss/_slider.scss */
 .slider_area .title_text::before {
   position: absolute;
-  background-image: url(../img/banner/path.png);
   content: "";
   background-repeat: no-repeat;
   background-size: contain;
@@ -1408,7 +1406,7 @@ h3 {
 @media (max-width: 991px) {
 	.faq_area #accordion .card h5 button.collapsed::before{
 		font-size:25px;
-		
+
 	}
 	.faq_area #accordion .card h5 button:not(.collapsed)::before{
 		font-size:25px;
@@ -1887,7 +1885,7 @@ h6 {
 	font-size: 16px;
 	color: #99E1D9;
 	font-style: italic;
-	
+
 }
 
 .team_area .member img {
@@ -1915,7 +1913,7 @@ h6 {
 }
 
 ol li {
-	list-style-type: decimal; 
+	list-style-type: decimal;
 	font-size: 24px;
 	font-family: "roboto Slab", sans-serif;
 	font-weight: 700;
@@ -1934,7 +1932,7 @@ ol {
 @media (max-width:1200px){
 	.header-element img {
 	max-width: 70%;
- } 
+ }
 }
 
 

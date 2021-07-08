@@ -1,0 +1,49 @@
+  - name: "config"
+    label: "General configuration"
+    editor:
+      preview: false
+    files:
+      - label: "General configuration"
+        name: "config"
+        create: false
+        file: "docs/_data/config.yml"
+        fields:
+          - label: "Language-specific configuration"
+            name: "items"
+            widget: "list"
+            fields:
+              - label: "Title, for example My Website or Mon Site Web"
+                name: "title"
+                widget: "string"
+              - label: "language, for example 'en'"
+                name: "lang"
+                default: "en"
+                widget: "string"
+              - label: "homepage, for example '/en/ or /fr/'"
+                name: "homepage"
+                default: "/en/"
+                widget: "string"
+              - label: "Language name, for example 'English'"
+                name: "langname"
+                default: "English"
+                widget: "string"
+      - label: "Translations"
+        name: "translations"
+        create: false
+        file: "docs/_data/translations.yml"
+        fields:
+          - label: "Translations"
+            name: "translation_items"
+            widget: "list"
+            fields:
+              - label: "Original string in English"
+                name: "title"
+                widget: "string"
+              - label: "String in French"
+                name: "fr"
+                required: false
+                widget: "string"
+              - label: "String in English"
+                required: false
+                name: "en"
+                widget: "string"
