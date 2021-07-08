@@ -2,6 +2,8 @@ items:
   - lang: en
     homepage: /stage-2021/en/
     title: Climate Justice Organizing Hub
+    langname: English
   - lang: fr
     homepage: /stage-2021/fr/
     title: Hub de mobilisation pour la justice climatique
+    langname: Français
