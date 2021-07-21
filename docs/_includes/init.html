@@ -1,0 +1,15 @@
+{% assign debug = "" %}
+{% assign global_css = "css_all" %}
+{% assign global_js = "js_all" %}
+{% assign myconfig = site.data.config.items[0] %}
+{% assign keys = site.data.config.api %}
+{% for config in site.data.config.items %}
+  {% if config.lang == page.lang %}
+    {% assign myconfig = config %}
+  {% endif %}
+{% endfor %}
+{% assign mylangs = myconfig.langs %}
+{% if page.langs %}
+  {% assign mylangs = page.langs %}
+{% endif %}
+{% assign events = site.categories.jekyll_events %}
