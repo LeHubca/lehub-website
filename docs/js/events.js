@@ -23,13 +23,18 @@ let MyEvents = {
     return event.id.replaceAll('/', '');
   },
   addEvent: function(event) {
+    let uuid = this.eventIdString(event.event);
+
     $('.template-event').removeClass('display-only-in-en');
     $('.template-event').removeClass('display-only-in-fr');
     $('.template-event').addClass('display-only-in-' + event.event.lang);
     $('.template-event .event-title').html(event.event.title);
     $('.template-event .event-desc').html(event.event.content);
-    $('.template-event .change-collapse-target').attr('data-target', '#' + this.eventIdString(event.event));
-    $('.template-event .change-collapse-id').attr('id', this.eventIdString(event.event));
+    $('.template-event .change-collapse-target').attr('data-target', '#collapse' + uuid);
+    $('.template-event .change-collapse-id').attr('id', 'collapse' + uuid);
+    $('.template-event .change-heading-id').attr('id', '#heading' + uuid);
+    $('.template-event .change-heading-labelledby').attr('aria-labelledby', 'heading' + uuid);
+
     $('.template-event .event-date').html(this.humanDate(event.start, event.end));
     this.addToVisibleArea('template-event');
   },
