@@ -21,3 +21,4 @@ collections:
 {% include netlifycms_pages.html %}
 {% include netlifycms_pages2021.html %}
 {% include netlifycms_events.html %}
+{% include netlifycms_team.html %}

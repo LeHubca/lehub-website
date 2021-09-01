@@ -1,0 +1,21 @@
+  - name: 'team'
+    create: true
+    label: 'Team members'
+    folder: 'docs/jekyll_team/_posts/'
+    slug: '{{slug}}'
+    fields:
+      - { label: 'Name', name: 'title', widget: 'string' }
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'basic' }
+      - label: "Picture"
+        name: "img"
+        widget: "image"
+        required: false
+      - { label: 'Title, in English (for example Founding director)', name: 'title_en', widget: 'string', required: false }
+      - { label: 'Title, in English (for example Fondateur)', name: 'title_fr', widget: 'string', required: false }
+      - { label: 'Bio, en English', name: 'bio_en', widget: 'markdown', required: false }
+      - { label: 'Bio, in French', name: 'bio_fr', widget: 'markdown', required: false }
+      - label: "Order in the list (-5 comes before 1 comes before 5 comes before 5.2, for example)"
+        name: order
+        widget: number
+        value_type: float
+        required: false
