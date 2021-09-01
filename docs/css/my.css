@@ -1,0 +1,8 @@
+.js-template-hidden {
+  display: none;
+}
+
+.lang-en .display-only-in-fr,
+.lang-fr .display-only-in-en {
+  display: none;
+}

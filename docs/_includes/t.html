@@ -1,0 +1,17 @@
+{% comment %}
+  Usage, for example to translate "home" to the French "accueil":
+
+  assign l="fr"
+  assign o="home"
+  include t.html
+{% endcomment %}
+{% assign original = o %}
+{% assign target = l %}
+{% assign translated = original %}
+{% for translation in site.data.translations.translation_items %}
+  {% if translation.title == original %}
+    {% assign translated = translation[target] %}
+    {% break %}
+  {% endif %}
+{% endfor %}
+{{ translated }}
