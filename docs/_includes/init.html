@@ -13,4 +13,4 @@
   {% assign mylangs = page.langs %}
 {% endif %}
 {% assign events = site.categories.jekyll_events %}
-{% assign events = site.categories.jekyll_team %}
+{% assign team_members = site.categories.jekyll_team | sort: "order" %}
