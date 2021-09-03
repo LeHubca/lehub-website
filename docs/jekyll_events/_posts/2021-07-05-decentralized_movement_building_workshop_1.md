@@ -1,10 +1,9 @@
 ---
-title: "Decentralized movement building workshop #1"
+title: Workshops launching in the fall
 lang: en
 dates:
-  - start: 2021-06-30T23:00:06.318Z
-    end: 2021-07-01T00:30:59.549Z
+  - start: 2021-10-18T23:00:06.318Z
+    end: 2022-01-01T01:30:59.549Z
 layout: event
 ---
-Il existe un vaste réservoir de connaissances touchant aux défis typiques des mouvements sociaux décentralisés. Cette formation présente ainsi une synthèse des réflexions stratégiques trouvées dans différentes sources reconnues à travers le monde telles que. Elle comprend cinq séances interactives et virtuelles d’une heure et demie chacune. For more info on the series, click here.\
-To sign up for this workshop, join our list below.
+Stay tuned as the HUB launches a series of workshops and learning circles for climate/social justice organizers this fall! Topics to come include conflict management in groups, facilitating productive group structure and strategy sessions and anti-oppression resources for group learning. We're working hard to get all this prepped for mid-October.
