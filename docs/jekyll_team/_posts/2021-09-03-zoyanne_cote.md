@@ -14,5 +14,5 @@ bio_fr: Zoyanne (elle) est une étudiante à la mineure en études autochtones �
   groupes, elle revendique une lutte décoloniale, anti-capitaliste et féministe.
   Elle fait partie de l’équipe du HUB depuis avril en tant que coordonnatrice
   des communications et des événements au soi-disant Québec.
-order: -4
+order: 0
 ---
