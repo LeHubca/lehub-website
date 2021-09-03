@@ -1,45 +1,5 @@
-<header>
-  <div class="header-area ">
-    <div id="sticky-header" class="main-header-area ">
-      <div class="container-fluid p-0">
-        <div class="row align-items-center justify-content-between no-gutters">
-          <div class="col-xl-2 col-lg-2">
-            <div class="logo-img">
-              <a href="index.html">
-              <img src="/img/logo.png" alt="Le Hub texte blanc sur fond rose" class="img-fluid">
-              </a>
-            </div>
-          </div>
-          <div class="col-lg-8">
-            <div class="main-menu  d-none d-lg-block">
-              <nav>
-                <ul id="navigation">
-                  <li>
-                    <a href="#about">ABOUT <i class="ti-angle-down"></i></a>
-                    <ul class="submenu">
-                      <li><a href="/en/about/">About the HUB</a></li>
-                      <li><a href="/en/vision/">Vision</a></li>
-                      <li><a href="/en/privacy/">Data Security</a></li>
-                    </ul>
-                  </li>
-                  <li><a href="/en/team/">TEAM</a></li>
-                  <li><a href="/en/offerings/">OFFERINGS</a></li>
-                  <li><a href="/en/upcoming/">UPCOMING</a></li>
-                  <li><a href="#contact">CONTACT</a></li>
-                </ul>
-              </nav>
-            </div>
-          </div>
-          <div class="col-xl-2 col-lg-2 d-none d-lg-block">
-            <div class="buy_ticket">
-              <a href="#inscription" class="boxed-btn-white">Sign Up</a>
-            </div>
-          </div>
-          <div class="col-12">
-            <div class="mobile_menu d-block d-lg-none"></div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</header>
+{% if page.lang == 'fr' %}
+  {% include header_fr.html %}
+{% else %}
+  {% include header_en.html %}
+{% endif %}
