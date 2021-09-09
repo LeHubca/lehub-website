@@ -1472,6 +1472,10 @@ h3 {
   .faq_area #accordion .card .card-header span {
     display: none;
   }
+  .faq_area #accordion .card .card-header span.event-date,
+  .faq_area #accordion .card .card-header span.event-title {
+    display: block;
+  }
 }
 
 /* line 91, C:/Users/SPN Graphics/Desktop/CL September/209/HTML/scss/_faq.scss */
