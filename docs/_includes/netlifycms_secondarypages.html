@@ -4,7 +4,17 @@
     folder: 'docs/_posts/'
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     fields:
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'basic' }
+      - label: 'Layout'
+        name: 'layout'
+        default: 'basic'
+        widget: select
+        options:
+          - { label: "Pre-2021 design", value: "basic" }
+          - { label: "2021 design", value: "july2021" }
+      - label: "Show Sign-Up Form (2021 design only)"
+        name: showform
+        widget: boolean
+        default: false
       - { label: 'Title (for example "Trainings")', name: 'secondary_page_title', widget: 'string' }
       - { label: 'Language ("fr" or "en")', name: 'lang', widget: 'string', default: 'en' }
       - { label: 'Path (for example /trainings/)', name: 'permalink', widget: 'string' }
