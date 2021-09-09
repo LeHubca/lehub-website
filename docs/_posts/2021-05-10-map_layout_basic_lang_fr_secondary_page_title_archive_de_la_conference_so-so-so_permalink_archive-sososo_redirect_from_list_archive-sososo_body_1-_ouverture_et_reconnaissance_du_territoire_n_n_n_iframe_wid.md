@@ -1,5 +1,6 @@
 ---
-layout: basic
+layout: july2021
+showform: true
 secondary_page_title: "Archive : Conférence So-so-so !"
 lang: fr
 permalink: /archive-sososo/
