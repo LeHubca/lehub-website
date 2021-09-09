@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>{{ page.title }} - {{ myconfig.title }}</title>
+    <title>{{ page_title }} - {{ myconfig.title }}</title>
     <meta property="og:title" content="Upcoming - Climate Justice Organizing Hub">
     <meta property="og:image" content="/img/preview/upcoming.png">
     <meta property="og:description" content="">
@@ -37,11 +37,12 @@
           <div class="col-xl-12">
             <div class="serction_title_large mb-95">
               <h3>
-                {{ page.title }}
+                {{ page_title }}
               </h3>
             </div>
           </div>
         </div>
+        {{ content | markdownify }}
         {{ region_after }}
       </div>
     </div>

@@ -14,3 +14,11 @@
 {% endif %}
 {% assign events = site.categories.jekyll_events %}
 {% assign team_members = site.categories.jekyll_team | sort: "order" %}
+{% comment %}
+  See https://github.com/jekyll/jekyll/issues/1956#issuecomment-112174390
+  Use page_title_override if you need to override the title.
+{% endcomment %}
+{% assign page_title = page.title %}
+{% if page_title_override %}
+  {% assign page_title = page_title_override %}
+{% endif %}

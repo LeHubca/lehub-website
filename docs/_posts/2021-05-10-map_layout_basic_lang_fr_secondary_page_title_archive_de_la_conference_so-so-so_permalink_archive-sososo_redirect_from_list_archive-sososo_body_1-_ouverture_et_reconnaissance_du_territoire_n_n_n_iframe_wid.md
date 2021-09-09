@@ -1,6 +1,6 @@
 ---
-layout: july2021
-showform: true
+layout: secondary2021
+hideform: true
 secondary_page_title: "Archive : Conférence So-so-so !"
 lang: fr
 permalink: /archive-sososo/
@@ -22,9 +22,9 @@ Nous voulions remettre en question nos pratiques et c'est pourquoi nous avons tr
 
 ![https://www.lehub.ca/ressources/](/media/docs-mouvements-fr.png)
 
-La première section porte sur l’anti-oppression et la solidarité avec les mouvements pour la justice sociale, la deuxième sur la décolonisation et la solidarité avec les luttes autochtones et la dernière sur comment bâtir et soutenir des mouvements sociaux. 
+La première section porte sur l’anti-oppression et la solidarité avec les mouvements pour la justice sociale, la deuxième sur la décolonisation et la solidarité avec les luttes autochtones et la dernière sur comment bâtir et soutenir des mouvements sociaux.
 
-N'hésitez pas à partager les ressources avec vos ami.e.s ! 
+N'hésitez pas à partager les ressources avec vos ami.e.s !
 
 ## 3. Rapport sur la convergence des luttes
 
@@ -42,7 +42,7 @@ Qu’est-ce que le militantisme ? Qui est activiste ? Quels rapports se cachent 
 
 L’environnement, c’est intersectionnel est une plateforme d’éducation afin d’approfondir notre vision sur la cause environnementale, notamment à travers divers projets déconstruisant notre modèle de consommation.
 
-Vous pouvez suivre L’environnement, c’est intersectionnel sur [Facebook](https://www.facebook.com/lenvironnementcestintersectionnel) et sur [Instagram](https://www.instagram.com/environnement.intersectionnel/). 
+Vous pouvez suivre L’environnement, c’est intersectionnel sur [Facebook](https://www.facebook.com/lenvironnementcestintersectionnel) et sur [Instagram](https://www.instagram.com/environnement.intersectionnel/).
 
 ## 5. Évoluer et s'épanouir en activisme : histoires et parcours personnels
 
@@ -50,7 +50,7 @@ Vous pouvez suivre L’environnement, c’est intersectionnel sur [Facebook](htt
 
 Dans les espaces militants, on parle souvent de l'importance de la justice climatique et de l'intersectionnalité. Cependant, on ne parle pas aussi fréquemment de la façon dont les organisateur.rice.s, individuellement, développent ces perspectives. En s'intéressant aux histoires d'organisation et d'évolution personnelle d'Ashley Torres, d'Isabelle L'Héritier et de Louis Ramirez, trois activistes du mouvement climatique, cette discussion, filmée à l'avance, explore comment iels ont appris à fusionner climat et justice sociale et pourquoi c'est important pour iels.
 
-Vous pouvez accéder au texte de la vidéo juste [ici](https://docs.google.com/document/d/1mGs3Jmkz6vfmibjOPY9-39CaQmo1dPP3GgBK2opIOUI/edit?usp=sharing). 
+Vous pouvez accéder au texte de la vidéo juste [ici](https://docs.google.com/document/d/1mGs3Jmkz6vfmibjOPY9-39CaQmo1dPP3GgBK2opIOUI/edit?usp=sharing).
 
 ## 6. Réussir une convergence des luttes sociales et climatiques en centrant les marges
 
@@ -62,7 +62,7 @@ Cet événement, qui a eu lieu le 7 mai dernier, faisait un retour sur la campag
 
 <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/hsfzWF6N654" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-Grâce à Melissa Mollen Dupuis, nous avons eu l'occasion de reconnecter tous nos sens avec la nature et d’entendre une perspective autochtone sur la connexion des luttes pour le territoire, la solidarité, la justice sociale et l’interdépendance des peuples avec le milieu naturel. 
+Grâce à Melissa Mollen Dupuis, nous avons eu l'occasion de reconnecter tous nos sens avec la nature et d’entendre une perspective autochtone sur la connexion des luttes pour le territoire, la solidarité, la justice sociale et l’interdépendance des peuples avec le milieu naturel.
 
 ## 8. Défense du territoire : solidarité avec les mouvements autochtones
 
@@ -76,9 +76,9 @@ L'animatrice de ce panel, Olepika Takpanie Kiguktak, a abordé des questions ent
 
 Le premier panel de Young Indigenous Women Action (YIWA) a été animé par la fondatrice, Olepika Takpanie Kiguktak, et a donné la parole à quatre femmes autochtones impliquées à travers le Québec : Olivia Lya Thomassie, Uapukun Mestokosho, Maïtée Labrecque Saganash et Laura Fontaine. Elles ont abordé des sujets qui sont importants pour elles comme leurs territoires, leurs identités, leurs luttes quotidiennes, leurs parcours inspirants et leurs motivations.
 
-Young Indigenous Women Action (YIWA) a pour mission d’offrir des programmes en lien avec le territoire aux jeunes femmes autochtones dans le but de leur fournir des outils pour l’avenir de leur peuple et de leur environnement. 
+Young Indigenous Women Action (YIWA) a pour mission d’offrir des programmes en lien avec le territoire aux jeunes femmes autochtones dans le but de leur fournir des outils pour l’avenir de leur peuple et de leur environnement.
 
-Vous pouvez suivre YIWA sur [Facebook](https://www.facebook.com/YIWACTION) et sur [Instagram](https://www.instagram.com/y.i.w.a/). 
+Vous pouvez suivre YIWA sur [Facebook](https://www.facebook.com/YIWACTION) et sur [Instagram](https://www.instagram.com/y.i.w.a/).
 
 ## 10. RéconciliAction : un modèle concret d'allyship pour le mouvement climatique
 

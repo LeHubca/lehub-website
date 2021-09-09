@@ -1,5 +1,11 @@
 {% if page.lang == 'fr' %}
+  {% unless page.hideform %}
+    {% include footer_subscribe_fr.html %}
+  {% endunless %}
   {% include footer_fr.html %}
 {% else %}
+  {% unless page.hideform %}
+    {% include footer_subscribe_en.html %}
+  {% endunless %}
   {% include footer_en.html %}
 {% endif %}
