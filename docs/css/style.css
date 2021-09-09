@@ -1478,6 +1478,10 @@ h3 {
   }
 }
 
+.btn.change-collapse-target {
+  text-align: left;
+}
+
 /* line 91, C:/Users/SPN Graphics/Desktop/CL September/209/HTML/scss/_faq.scss */
 .faq_area .btn-link.focus, .faq_area .btn-link:focus {
   text-decoration: none;
