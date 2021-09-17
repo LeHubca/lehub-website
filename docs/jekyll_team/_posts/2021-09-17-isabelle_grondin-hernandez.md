@@ -2,6 +2,8 @@
 title: Isabelle Grondin-Hernandez
 layout: basic
 img: /media/ab00664a-fd02-49bd-b4a2-d322c9545c06.jpg
+title_en: Trainer
+title_fr: Formatrice
 bio_en: >
   Isabelle (she/her) is dedicated to improving living conditions for everyone in
   the communities she works with. She has been actively involved in the student
@@ -29,4 +31,5 @@ bio_fr: >
 
 
   Grâce au HUB et à la création d'une plateforme éducative nommée Jeutisc sur laquelle elle travaille, Isabelle souhaite démocratiser l'accès aux savoirs porteurs de justice sociale.
+order: -6
 ---
