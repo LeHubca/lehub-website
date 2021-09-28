@@ -7,6 +7,7 @@ dates:
 layout: event
 img:
   - /media/facebook_event_page_kick_off_call_1.png
+  - /media/hubteamapril.png
 ---
 The first of Three Kick Off calls! During the Kick Off call, we'll share the story of the HUB, elaborate on our offerings this fall and make space for Q&A and new ideas.
 
