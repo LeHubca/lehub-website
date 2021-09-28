@@ -1,11 +1,47 @@
-{% if page.lang == 'fr' %}
-  {% unless page.hideform %}
-    {% include footer_subscribe_fr.html %}
-  {% endunless %}
-  {% include footer_fr.html %}
-{% else %}
-  {% unless page.hideform %}
-    {% include footer_subscribe_en.html %}
-  {% endunless %}
-  {% include footer_en.html %}
-{% endif %}
+<!-- footer_start -->
+<footer class="footer footer_bg_1">
+  <a name="contact"></a>
+  <div class="circle_ball d-none d-lg-block">
+    <img src="/img/banner/Footer-thingy.png" alt="feuilles d'un hévéa">
+  </div>
+  <div class="footer_top">
+    <div class="container">
+      <div class="row">
+        <div class="col-xl-4 col-md-4 col-lg-4">
+        </div>
+        <div class="col-xl-4 col-md-4 col-lg-4">
+          <div class="footer_widget">
+            {{ myconfig.footer_1 | markdownify }}
+          </div>
+        </div>
+        <div class="col-xl-4 col-md-4 col-lg-4">
+          <div class="footer_widget">
+            <h3 class="footer_title">
+              Contact
+            </h3>
+            <p>{% assign l=page.lang %}{% assign o="Write us if you have any questions" %}{% include t.html %}</p>
+            <ul>
+              <li><a class="obfuscated-email" data-first="info" data-second="lehub" data-third="ca" href="mailto:{{ myconfig.mail }}">{{ myconfig.mail }}</a></li>
+            </ul>
+          </div>
+          {{ myconfig.footer_2 | markdownify }}
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="copy-right_text">
+    <div class="container">
+      <div class="footer_border"></div>
+      <div class="row">
+        <div class="col-xl-12">
+          <p class="copy_right text-center">
+            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+            Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="ti-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+<!-- footer_end -->

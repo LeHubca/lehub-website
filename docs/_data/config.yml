@@ -1,5 +1,6 @@
 items:
   - lang: en
+    mail: info@lehub.ca
     homepage: /en/
     title: Climate Justice Organizing HUB
     langname: English
@@ -21,6 +22,7 @@ items:
       target="_blank" href="https://www.youtube.com/watch?v=5Mm2vDSgXD0">Ellen
       Gabriel shares more perspective on this land acknowledgement here.</a>
   - lang: fr
+    mail: info@lehub.ca
     homepage: /fr/
     title: HUB de mobilisation pour la justice climatique
     langname: Français
