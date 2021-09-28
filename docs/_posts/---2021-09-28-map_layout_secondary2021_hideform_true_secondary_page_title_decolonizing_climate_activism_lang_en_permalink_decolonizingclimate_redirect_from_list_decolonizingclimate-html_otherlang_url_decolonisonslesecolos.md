@@ -1,4 +1,5 @@
 ---
+title: Decolonizing climate activism
 layout: basic
 hideform: true
 secondary_page_title: Decolonizing climate activism
