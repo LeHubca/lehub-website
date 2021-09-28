@@ -1,4 +1,5 @@
 ---
+"Filename, can be the same as title, required.": Decolonizing test
 layout: basic
 hideform: false
 secondary_page_title: Decolonizing test
