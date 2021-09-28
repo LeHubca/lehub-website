@@ -10,7 +10,9 @@ otherlang_url: /decolonizingclimateoctobre/
 ---
 Grassroots climate justice groups are coming to recognize the direct links between colonialism and the climate crisis and are increasingly learning about Indigenous struggles... But how do we concretely decolonize the environmental movement?  With this training, we will try to reflect on how we can integrate de-colonial practices in our mobilization work. This two-part training begins with counsel from Indigenous Land Defenders and then builds on this with a collective reflection to surface concrete ways we can apply this knowledge in our respective groups.
 
-#### **[This event will be held online via Zoom on October 13th at 7pm ET / 4pm PT.](https://us02web.zoom.us/meeting/register/tZUrfuysqD4iE91D9K1-4GE7N9KU8l6hmAlV?fbclid=IwAR1CnW5nu6eHbmTReD9ACh4BokT4Zo3mo5KnW-t4YRHnui8LQRxBVEdpWCM)**
+##### \*\**This event was organized at the request of our Quebec allies at [CEVES](http://www.ceves.ca/), so the Zoom registration form is primarily French but the speakers will be exchanging in English. Climate Justice activists across so-called Canada are welcome!\*\**
+
+Registration link: **[This event will be held online via Zoom on October 13th at 7pm ET / 4pm PT.](https://us02web.zoom.us/meeting/register/tZUrfuysqD4iE91D9K1-4GE7N9KU8l6hmAlV?fbclid=IwAR1CnW5nu6eHbmTReD9ACh4BokT4Zo3mo5KnW-t4YRHnui8LQRxBVEdpWCM)**
 
 ### [](https://us02web.zoom.us/meeting/register/tZUrfuysqD4iE91D9K1-4GE7N9KU8l6hmAlV?fbclid=IwAR1CnW5nu6eHbmTReD9ACh4BokT4Zo3mo5KnW-t4YRHnui8LQRxBVEdpWCM)Panelists
 
