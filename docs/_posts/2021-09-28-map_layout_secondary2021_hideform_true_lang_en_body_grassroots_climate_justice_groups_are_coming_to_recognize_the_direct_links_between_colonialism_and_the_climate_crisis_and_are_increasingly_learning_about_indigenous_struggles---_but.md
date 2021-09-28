@@ -1,5 +1,5 @@
 ---
-layout: basic
+layout: secondary2021
 hideform: true
 secondary_page_title: Decolonizing climate activism Part One
 lang: en
