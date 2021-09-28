@@ -1,4 +1,5 @@
 ---
+"Filename, can be the same as title, required.": Decolonizing climate activism Part One
 layout: basic
 hideform: true
 secondary_page_title: Decolonizing climate activism Part One
