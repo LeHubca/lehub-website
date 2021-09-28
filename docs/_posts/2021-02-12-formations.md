@@ -1,5 +1,5 @@
 ---
-"Filename, can be the same as title, required.": "Formation pour militant.e.s :
+title: "Formation pour militant.e.s :
   Comment bâtir et soutenir des mouvements décentralisés"
 layout: basic
 hideform: false
