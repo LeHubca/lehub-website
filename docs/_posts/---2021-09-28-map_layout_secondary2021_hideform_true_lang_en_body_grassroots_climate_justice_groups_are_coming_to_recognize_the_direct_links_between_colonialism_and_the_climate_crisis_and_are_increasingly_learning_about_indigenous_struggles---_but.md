@@ -1,7 +1,7 @@
 ---
 layout: secondary2021
 hideform: true
-secondary_page_title: Decolonizing climate activism, part 1 Listening
+secondary_page_title: Decolonizing climate activism Part One
 lang: en
 permalink: /decolonizingclimateoctober/
 redirect_from: []
