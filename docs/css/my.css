@@ -6,3 +6,7 @@
 .lang-fr .display-only-in-en {
   display: none;
 }
+
+.card-body img {
+  max-width: 100%;
+}
