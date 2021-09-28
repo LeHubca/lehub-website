@@ -15,6 +15,9 @@
               - label: "Title, for example My Website or Mon Site Web"
                 name: "title"
                 widget: "string"
+              - label: "Email"
+                name: "mail"
+                widget: "string"
               - label: "language, for example 'en'"
                 name: "lang"
                 default: "en"
@@ -27,6 +30,14 @@
                 name: "langname"
                 default: "English"
                 widget: "string"
+              - label: "Footer column one"
+                name: "footer_1"
+                required: false
+                widget: "markdown"
+              - label: "Footer column two"
+                name: "footer_2"
+                required: false
+                widget: "markdown"
       - label: "Translations"
         name: "translations"
         create: false
