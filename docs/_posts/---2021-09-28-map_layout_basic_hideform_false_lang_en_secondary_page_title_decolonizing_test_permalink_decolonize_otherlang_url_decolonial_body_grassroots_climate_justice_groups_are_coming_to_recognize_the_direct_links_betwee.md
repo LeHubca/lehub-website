@@ -1,5 +1,4 @@
 ---
-title: Decolonizing test
 layout: basic
 hideform: false
 secondary_page_title: Decolonizing test

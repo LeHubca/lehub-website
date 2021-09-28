@@ -1,8 +1,5 @@
 ---
-title: "Formation pour militant.e.s :
-  Comment bâtir et soutenir des mouvements décentralisés"
 layout: basic
-hideform: false
 secondary_page_title: "Formation pour militant.e.s : Comment bâtir et soutenir
   des mouvements décentralisés"
 lang: fr
