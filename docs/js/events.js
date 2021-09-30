@@ -125,9 +125,12 @@ let MyEvents = {
         }
       });
     });
-    this.addEvents(events.sort(function(a, b) {
-      return a.start > b.start;
-    }));
+    console.log(events);
+    const sorted = events.sort(function(a, b) {
+      return a.start > b.start ? 1 : -1;
+    })
+    console.log(sorted);
+    this.addEvents(sorted);
   },
   utcTime: function() {
     // Example: 2021-07-05T19:40:47.382Z
