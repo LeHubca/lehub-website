@@ -4,8 +4,9 @@ lang: en
 dates:
   - start: 2021-09-29T23:30:00.000Z
     end: 2021-09-30T00:30:07.150Z
-layout: event
+layout: secondary2021
 img: []
+permalink: /en/upcoming/kick-off-1
 ---
 ![](/media/facebook_event_page_kick_off_call_1.png)
 

@@ -1,3 +1,12 @@
+{% if hideform %}
+<!-- form hidden -->
+{% else %}
+  {% if page.lang == fr %}
+    {% include footer_subscribe_fr.html %}
+  {% else %}
+    {% include footer_subscribe_en.html %}
+  {% endif %}
+{% endif %}
 <!-- footer_start -->
 <footer class="footer footer_bg_1">
   <a name="contact"></a>

@@ -5,6 +5,7 @@
     slug: '{{slug}}'
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Path (for example /en/upcoming/xyz/)', name: 'permalink', widget: 'string' }
       - label: 'Language'
         name: 'lang'
         widget: 'select'
@@ -31,7 +32,7 @@
             date_format: true
             time_format: true
             required: false
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'event' }
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'secondary2021' }
       - label: "Images"
         name: "img"
         widget: "list"

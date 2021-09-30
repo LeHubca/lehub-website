@@ -4,7 +4,8 @@ lang: fr
 dates:
   - start: 2021-09-23T23:00:00.000Z
     end: ""
-layout: event
+layout: secondary2021
+permalink: /fr/avenir/atelier-anti-oppression
 ---
 De plus en plus, l’intérêt marqué pour lier la justice climatique à la justice sociale se fait entendre. Répondre à ce besoin passe immanquablement par une déconstruction des systèmes oppressifs et leur manière d’opérer à différentes échelles.\
 \

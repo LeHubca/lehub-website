@@ -5,7 +5,8 @@ lang: fr
 dates:
   - start: 2021-10-20T23:00:00.000Z
     end: ""
-layout: event
+layout: secondary2021
+permalink: /fr/avenir/sunir-pour-changer
 ---
 Qu’est-ce que la convergence des luttes ? Quels sont ses avantages ? À quoi ressemble-t-elle en pratique ? Et comment pouvons-nous la réaliser ? Conformément à la mission du HUB, cette dernière séance bâtit un argumentaire pour la convergence des luttes et explore les moyens de la traduire en discours politique par le biais de la stratégie narrative.
 
