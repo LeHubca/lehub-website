@@ -18,13 +18,17 @@ Registration link: **[This event will be held online via Zoom on October 13th a
 
 ### Panelists
 
-![](https://www.lehub.ca/media/jaydene-sm.jpg "Jaydene Lavallie")
+![](/media/jaydene5.png "Jaydene Lavallie")
 
 **Jaydene Lavallie** is a Two-Spirit Michif-Cree woman currently living in Dish with One Spoon Territory (Hamilton, ON). She spends most of her efforts on anti-extractive and land defense struggles but has also dedicated herself to defending Hamilton against gentrification, fighting patriarchy inside and outside of organizing circles, and pushing for animal liberation. 
 
-![](https://www.lehub.ca/media/sakej-sm.jpg "Sakej (James) Ward")
+![](/media/sakej5.png "Sakej (James) Ward")
 
 **Sakej (James) Ward** belongs to the wolf clan. He is Mi’kmaw (Mi’kmaq Nation) from Esgenoopetitj (Burnt Church First Nation, New Brunswick). He holds a Bachelor’s Degree in Political Science and Masters in Indigenous Governance. Sakej has a long history of advocating and protecting First Nations inherent responsibilities and freedoms.
+
+![](/media/kijatai5.png)
+
+**Kijâtai** lives in Montreal and is a member of the Anishnabe Nation. The family on their father's side comes from the Lac-Simon community and her mother's, who is non-indigenous from Quebec, comes from Val-d'Or. They are currently studying journalism at UQAM. Their short-films address indigenous realities in a personal way (Kijâtai, Kabak, Odehimin and Kimiwan). They are also involved throughout organizations such as Puamun Meshkenu, Mikana and Wapikoni. This allows them to work on the creation of bridges between natives and non-natives in addition to raising awareness of the various Indigenous realities.
 
 ##### \*\**This event was organized at the request of our Quebec allies at [CEVES](http://www.ceves.ca/), so the Zoom registration form is primarily French but the speakers will be exchanging in English. Climate Justice activists across so-called Canada are welcome!\*\**
 
