@@ -13,5 +13,5 @@ bio_en: Kenzie (she/they) is a settler residing on the traditional territories
   Kenzie is currently a part of Climate Justice Guelph which she cofounded in
   late 2020. Kenzie also works as the Education Lead for Banking on a Better
   Future.
-order: 1.5
+order: 4
 ---
