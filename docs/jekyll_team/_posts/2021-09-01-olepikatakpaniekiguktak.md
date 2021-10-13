@@ -4,9 +4,40 @@ layout: basic
 img: /media/olepikatakpaniekiguktak.jpeg
 title_en: Indigenous organizing coordinator
 title_fr: Coordinatrice de l'organisation autochtone
-bio_en: |
-  Olepika Takpanie Kiguktak (she/her) was born in Iqaluit, Nunavut. Of Inuk origin, she has spent most of her life in Quebec. Olepika is currently a student at the University of Montreal in philanthropic management and is involved with many organizations, including Puamun Meshkenu, as a youth ambassador. She was involved for a long time in the environmental movement, in particular through her participation in several marches against fossil fuel projects and also sat on the board of directors of the Coule Pas Chez Nous Foundation before realizing that she was not putting her energy in the right places. It was then that she founded YIWA (Young Indigenous Women Action), which aims to organize programs related to the land specifically for Indigenous women. Through this organization, she wishes to provide them with the necessary tools for the future of their peoples and their environments. There is an urgent need to repair the consequences colonization has on Indigenous women. As it seems to be a difficult and constant battle to claim reparations directly from the current system, she prefers to create change here and now: "we must deconstruct to better rebuild".
-bio_fr: |
-  Olepika Takpanie Kiguktak (elle) est née à Iqaluit, au Nunavut. D’origine inuk, elle a passé la majorité de sa vie au Québec. Olepika est présentement étudiante à l’Université de Montréal en gestion philanthropique et contribue à de nombreuses organisations, dont Puamun Meshkenu, en tant qu’ambassadrice jeunesse. Elle s’est impliquée longtemps dans les luttes environnementales notamment par sa participation à plusieurs marches contre des projets d’hydrocarbures et a aussi siégé sur le conseil d’administration de la Fondation Coule Pas Chez Nous avant de réaliser qu’elle ne mettait pas son énergie aux bons endroits. C’est alors qu’elle a fondé YIWA (Young Indigenous Women Action), qui vise à organiser des programmes en lien avec le territoire spécifiquement pour les femmes autochtones. À travers cette organisation, elle souhaite leur fournir les outils nécessaires pour l’avenir de leurs peuples et de leurs environnements. Il est urgent de réparer les conséquences de la colonisation sur les femmes autochtones. Comme cela semble être une bataille difficile et constante de réclamer réparation directement au système actuel, elle préfère créer le changement ici et maintenant : « il faut déconstruire pour mieux reconstruire ».
-order: 3
+bio_en: >
+  Olepika Takpanie Kiguktak (she/her) was born in Iqaluit, Nunavut. Of Inuk
+  origin, she has spent most of her life in Quebec. Olepika is currently a
+  student at the University of Montreal in philanthropic management and is
+  involved with many organizations, including Puamun Meshkenu, as a youth
+  ambassador. She was involved for a long time in the environmental movement, in
+  particular through her participation in several marches against fossil fuel
+  projects and also sat on the board of directors of the Coule Pas Chez Nous
+  Foundation before realizing that she was not putting her energy in the right
+  places. It was then that she founded YIWA (Young Indigenous Women Action),
+  which aims to organize programs related to the land specifically for
+  Indigenous women. Through this organization, she wishes to provide them with
+  the necessary tools for the future of their peoples and their environments.
+  There is an urgent need to repair the consequences colonization has on
+  Indigenous women. As it seems to be a difficult and constant battle to claim
+  reparations directly from the current system, she prefers to create change
+  here and now: "we must deconstruct to better rebuild".
+bio_fr: >
+  Olepika Takpanie Kiguktak (elle) est née à Iqaluit, au Nunavut. D’origine
+  inuk, elle a passé la majorité de sa vie au Québec. Olepika est présentement
+  étudiante à l’Université de Montréal en gestion philanthropique et contribue à
+  de nombreuses organisations, dont Puamun Meshkenu, en tant qu’ambassadrice
+  jeunesse. Elle s’est impliquée longtemps dans les luttes environnementales
+  notamment par sa participation à plusieurs marches contre des projets
+  d’hydrocarbures et a aussi siégé sur le conseil d’administration de la
+  Fondation Coule Pas Chez Nous avant de réaliser qu’elle ne mettait pas son
+  énergie aux bons endroits. C’est alors qu’elle a fondé YIWA (Young Indigenous
+  Women Action), qui vise à organiser des programmes en lien avec le territoire
+  spécifiquement pour les femmes autochtones. À travers cette organisation, elle
+  souhaite leur fournir les outils nécessaires pour l’avenir de leurs peuples et
+  de leurs environnements. Il est urgent de réparer les conséquences de la
+  colonisation sur les femmes autochtones. Comme cela semble être une bataille
+  difficile et constante de réclamer réparation directement au système actuel,
+  elle préfère créer le changement ici et maintenant : « il faut déconstruire
+  pour mieux reconstruire ».
+order: 6
 ---
