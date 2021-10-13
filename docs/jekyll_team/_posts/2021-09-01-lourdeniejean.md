@@ -26,5 +26,5 @@ bio_fr: >
   populaire.<br><br>
 
   Féministe intersectionnelle, conférencière et travailleuse communautaire, elle se perfectionne sur les thématiques touchant de près ou de loin la justice sociale, la sociologie et l’anti-oppression.
-order: 2
+order: 5
 ---
