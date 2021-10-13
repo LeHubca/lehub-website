@@ -31,5 +31,5 @@ bio_fr: >
 
 
   Grâce au HUB et à la création d'une plateforme éducative nommée Jeutisc sur laquelle elle travaille, Isabelle souhaite démocratiser l'accès aux savoirs porteurs de justice sociale.
-order: 2
+order: 3
 ---
