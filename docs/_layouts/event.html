@@ -1,1 +1,10 @@
-{{ content }}
+{% comment %}
+See https://github.com/jekyll/jekyll/issues/1956#issuecomment-112174390
+{% endcomment %}
+{% include init.html %}
+{% capture subtitlesection %}
+{% for date in page.dates %}
+  {{ date.start }} - {{ date.end }}.<span class="space"> </span>  
+{% endfor %}
+{% endcapture %}
+{% include fullpage.html %}

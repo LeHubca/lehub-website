@@ -5,6 +5,7 @@ dates:
   - start: 2021-10-13T23:00:00.000Z
     end: ""
 layout: event
+permalink: /fr/avenir/decoloniser-ecolos/
 ---
 ![](/media/mailchimp-formation_de_colonisation.png)
 
