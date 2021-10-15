@@ -5,8 +5,8 @@ lang: fr
 dates:
   - start: 2021-10-20T23:00:00.000Z
     end: ""
-layout: secondary2021
-permalink: /fr/avenir/sunir-pour-changer
+layout: event
+permalink: /fr/avenir/sunir-pour-changer/
 ---
 ![](/media/23.png)
 
