@@ -6,9 +6,11 @@ lang: fr
 permalink: /formationmouvements/
 otherlang_url: /trainings/
 ---
+![](/media/18.png)
+
 Il existe un vaste réservoir de connaissances touchant aux défis typiques des mouvements sociaux décentralisés. Cette formation présente ainsi une synthèse des réflexions stratégiques trouvées dans différentes sources reconnues à travers le monde telles que **[Blueprints for Change](https://blueprintsfc.org/)**, **[The Commons Library](https://commonslibrary.org/)** et **[Momentum Organizing](https://www.momentumcommunity.org/)**. Elle comprend cinq séances interactives et virtuelles d’une heure et demie chacune. 
 
-![](/media/diapo-formationmouvements.png)
+![](/media/slide2600200.png)
 
 À travers une série d'exercices pratiques et de discussions, les formateur.rice.s outilleront les militant.e.s en leur enseignant des méthodes de réflexion stratégique et d'organisation de mouvements. 
 
@@ -44,9 +46,17 @@ Une bibliothèque de ressources traduites en français sera fournie pour accompa
 
 Cette formation est offerte par le [Hub de mobilisation pour la justice climatique](https://www.lehub.ca/), une structure de soutien conçue pour répondre aux besoins des organisateur.rice.s issu.e.s du terrain et faisant partie des mouvements sociaux au Québec. Elle s'appuie sur les connaissances collectives de son équipe et de ses formateur.rice.s présentés ci-dessous.
 
+![](/media/4.png)
+
 **Louis Ramirez**
 
 Louis a entamé son parcours militant à seize ans, en organisant des actions directes contre la hausse des frais de scolarité en Angleterre. Après un détour passant par la philosophie et, ensuite, par la stratégie de marque, il est retourné dans le monde militant en cofondant Extinction Rébellion Québec. Suite à un passage chez The Climate Mobilization, aux États-Unis, il partage aujourd’hui son temps entre les projets de réorganisation des branches britanniques et québécoises de XR, du HUB, et des campagnes de défense des droits autochtones à Kanehsatake.
+
+![](/media/3.png)
+
+**Isabelle Grondin-Hernandez**
+
+Isabelle (elle) s'active pour l'amélioration des conditions de vie pour tous.tes dans les milieux qu'elle côtoie. Elle prit activement part au mouvement étudiant pour la justice climatique notamment avec la Coalition Étudiante pour un Virage Environnemental et Social (CEVES) dès les débuts de l'organisation. Les rapports Nord-Sud, le capitalisme/anticapitalisme, l'étude critique du droit, ainsi que la sociologie en général sont des domaines qu'elle affectionne particulièrement. Après avoir complété quelques cours au baccalauréat en sociologie, elle a  opté pour des études en droit à l'Université du Québec à Montréal afin de mieux saisir les particularités de l'univers social dans lequel elle s'implique. Grâce au HUB et à la création d'une plateforme éducative nommée Jeutisc sur laquelle elle travaille, Isabelle souhaite démocratiser l'accès aux savoirs porteurs de justice sociale.
 
 ### **Compléter le formulaire ci-dessous pour vous inscrire**
 

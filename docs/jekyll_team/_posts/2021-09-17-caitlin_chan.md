@@ -20,4 +20,5 @@ bio_fr: Caitlin (elle) a grandi sur les territoires non cédés des Nations
   justice climatique depuis 2019, mais a également été impliquée dans
   l'activisme lié au féminisme intersectionnel et à la décolonisation. Elle fait
   actuellement partie du groupe Justice Climatique Montréal.
+order: 0
 ---
