@@ -10,3 +10,9 @@
 .card-body img {
   max-width: 100%;
 }
+
+/* https://stackoverflow.com/a/7469136 */
+.hub-multiline-button {
+  white-space: normal;
+  width: 100%;
+}

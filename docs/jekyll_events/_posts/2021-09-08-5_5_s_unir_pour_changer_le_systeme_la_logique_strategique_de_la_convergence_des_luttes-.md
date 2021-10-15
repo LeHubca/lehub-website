@@ -6,6 +6,7 @@ dates:
   - start: 2021-10-20T23:00:00.000Z
     end: ""
 layout: event
+permalink: /fr/avenir/sunir-pour-changer/
 ---
 ![](/media/23.png)
 
