@@ -7,6 +7,8 @@ dates:
     end: ""
 layout: event
 ---
+![](/media/foi-oct.jpeg)
+
 October 27 at 7pm EST, via Zoom (link to be shared day-of)
 
 <https://www.facebook.com/events/1079573682536386>
