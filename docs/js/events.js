@@ -28,6 +28,10 @@ let MyEvents = {
     $('.template-event').removeClass('display-only-in-fr');
     $('.template-event').addClass('display-only-in-' + event.event.lang);
     $('.template-event .event-title').html(event.event.title);
+    console.log(31);
+    console.log(event);
+    console.log(event.event);
+    console.log(event.event.content);
     $('.template-event .event-desc-internal').html(event.event.content);
     $('.template-event a.event-target').attr('name', uuid);
     $('.template-event a.anchor-link').attr('href', event.event.permalink);
