@@ -26,7 +26,7 @@ let MyEvents = {
    * if not in a div...
    */
   putInDiv: function(markup) {
-    return '<div>' + markup + '</div>';
+    return '<div class="internal-event-desc-markup">' + markup + '</div>';
   },
   addEvent: function(event) {
     let uuid = this.eventIdString(event.event);
