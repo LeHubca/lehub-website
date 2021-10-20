@@ -21,6 +21,13 @@ let MyEvents = {
   eventIdString: function(event) {
     return event.id.replaceAll('/', '');
   },
+  /**
+   * Some events with complex markup will not appear at all when unfolded
+   * if not in a div...
+   */
+  putInDiv: function(markup) {
+    return '<div>' + markup + '</div>';
+  },
   addEvent: function(event) {
     let uuid = this.eventIdString(event.event);
 
@@ -28,11 +35,7 @@ let MyEvents = {
     $('.template-event').removeClass('display-only-in-fr');
     $('.template-event').addClass('display-only-in-' + event.event.lang);
     $('.template-event .event-title').html(event.event.title);
-    console.log(31);
-    console.log(event);
-    console.log(event.event);
-    console.log(event.event.content);
-    $('.template-event .event-desc-internal').html(event.event.content);
+    $('.template-event .event-desc-internal').html(this.putInDiv('<div>' + event.event.content + '</div>'));
     $('.template-event a.event-target').attr('name', uuid);
     $('.template-event a.anchor-link').attr('href', event.event.permalink);
     $('.template-event .change-collapse-target').attr('data-target', '#collapse' + uuid);
