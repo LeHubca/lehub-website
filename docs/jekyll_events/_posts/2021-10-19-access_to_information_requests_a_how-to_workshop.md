@@ -7,7 +7,7 @@ dates:
     end: ""
 layout: event
 ---
-![](/media/foi-oct.jpeg)
+![](/media/foi-oct.jpeg "foi imagw")
 
 October 27 at 7pm EST, via Zoom (link to be shared day-of)
 
