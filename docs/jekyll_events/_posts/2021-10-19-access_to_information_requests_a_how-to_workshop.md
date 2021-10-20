@@ -27,6 +27,6 @@ With Kevin Walby, author of the book *Access to Information and Social Justice
 >
 > \-       How to interpret and mobilize the results of a request
 
-Presented by [Research for the Front Lines](https://jengobby.wordpress.com/current-projects/), [Concordia's Social Justice Centre](https://www.concordia.ca/artsci/research/social-justice-centre.html) and [The Climate Justice Organizing Hub](https://www.lehub.ca/en/).
+Presented by [Research for the Front Lines](https://jengobby.wordpress.com/current-projects/), [Concordia's Social Justice Centre](https://www.concordia.ca/artsci/research/social-justice-centre.html) and [The Climate Justice Organizing HUB](https://www.lehub.ca/en/).
 
 Research for the Front Lines (RfFL) is an interdisciplinary team of researchers, activists and land defenders focused on serving communities experiencing social and environmental [justice issues. ](<>)Our goal is to help communities gather, analyze and communicate information critical to their struggles. We do this by connecting researchers with [community members ](<>)to produce collaborative, community-driven research.
