@@ -14,6 +14,10 @@ let MyEvents = {
     events.forEach(function(e) {
       that.addEvent(e);
     });
+    // Hidden template and visible area had same collbase body target id.
+    // Deleted hidden template event to render only one collapse
+    // Body target id for the event in a page.
+    $('.template-event').remove();
   },
   addEventsNone: function(events) {
     this.addToVisibleArea('template-no-events');
