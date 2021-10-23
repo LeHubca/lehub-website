@@ -12,10 +12,9 @@ bio_en: >
   aid and is passionate about community care and dreaming into practice the
   world we want to live in. She studied Gender, Sexuality, Feminist and Social
   Justice Studies at McGill University.
-bio_fr: >
-  Jacqueline Lee-Tam (elle) a grandi sur les territoires non cédés des Premières
-  nations Squamish, Musqueam et Tsleil-Waututh, dans la ville dite de Vancouver,
-  en tant que colonisatrice d'origine chinoise. Elle réside maintenant à
+bio_fr: Jacqueline Lee-Tam (elle) a grandi sur les territoires non cédés des
+  Premières nations Squamish, Musqueam et Tsleil-Waututh, dans la ville dite de
+  Vancouver. Elle est allochtone d'origine chinoise et elle réside maintenant à
   Tio'tia:ke (Montréal). Elle s'est organisée autour de la résistance aux
   pipelines, du désinvestissement des combustibles fossiles et de l'aide
   mutuelle. Elle est passionnée par les soins communautaires et par le rêve de
