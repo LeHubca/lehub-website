@@ -13,4 +13,6 @@ img:
 
 The goal of this workshop is to equip participants with decision-making reflections and frameworks that help them guide their groups towards establishing a group structure that lines up with the group's purpose and Theory of Change. In this workshop, we cover the inherent tensions between democratic principles and structure, and how certain frameworks lead to more sustainable groups.
 
-<!--EndFragment-->
+[Click here for Zoom Registration Link](https://us02web.zoom.us/meeting/register/tZMofuyvqjsoEtdFaMJ6cdJ8ZOdbJBNL1-LH)
+
+[](https://us02web.zoom.us/meeting/register/tZMofuyvqjsoEtdFaMJ6cdJ8ZOdbJBNL1-LH)<!--EndFragment-->
