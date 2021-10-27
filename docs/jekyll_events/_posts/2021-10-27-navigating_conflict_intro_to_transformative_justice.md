@@ -4,7 +4,7 @@ permalink: /en/upcoming/navigatingconflict/
 lang: en
 dates:
   - start: 2021-11-18T00:30:00.000Z
-    end: ""
+    end: 2021-11-18T02:00:00.000Z
 layout: event
 img:
   - /media/zoom_navigating_conflict_banner.png
