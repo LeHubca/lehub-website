@@ -15,6 +15,7 @@ img:
 
 This workshop aims to collectively surface and explore experiences of conflict that arise in organizing spaces. Holding space for this in the format of a facilitated discussion will hopefully lead to generative reflections and takeaways that nurture healthier relationships with conflict in the future. Further, deepening our understanding of transformative justice together can help us align on imagining new ways of dealing with harm that change the conditions in which harm was created, as opposed to punitive measures that treat harm as isolated and people as disposable.
 
-[Click here for Zoom Registration Link.](https://us02web.zoom.us/meeting/register/tZAkdO6qrDwuH9YNFBmk8QUr1JvBZVbDrdFz)
+**This workshop is free and open to all climate and social justice organizers across so-called Canada.**
 
-[](https://us02web.zoom.us/meeting/84937227452)<!--EndFragment-->
+\
+[Click here for Zoom Registration Link.](https://us02web.zoom.us/meeting/register/tZAkdO6qrDwuH9YNFBmk8QUr1JvBZVbDrdFz)
