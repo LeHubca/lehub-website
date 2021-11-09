@@ -1,7 +1,7 @@
 ---
 layout: secondary2021
 hideform: false
-secondary_page_title: Workshops
+secondary_page_title: Current HUB Workshops
 lang: en
 permalink: /en/workshops/
 otherlang_url: /ateliers/
