@@ -1,5 +1,5 @@
 ---
-layout: basic
+layout: secondary2021
 hideform: false
 secondary_page_title: Workshops
 lang: en
