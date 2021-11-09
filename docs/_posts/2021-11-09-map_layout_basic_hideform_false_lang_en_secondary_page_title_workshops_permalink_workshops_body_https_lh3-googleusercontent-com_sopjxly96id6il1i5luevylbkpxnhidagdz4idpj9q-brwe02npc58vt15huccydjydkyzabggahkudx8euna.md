@@ -6,6 +6,8 @@ lang: en
 permalink: /en/workshops/
 otherlang_url: /ateliers/
 ---
+![](/media/strategy_zoom_banner.png "Strategy Workshop")
+
 ![](https://lh3.googleusercontent.com/sOpjxly96id6il1i5luevYlBkpXnHIDAgdZ4idpJ9q-brWe02npc58vT15hUccYdJYDKYZabGGAhKUdX8EuNAgXBJjlklhPcZij5yptVs7Z2fsPtv2Rl41x_yqjToZfOpGTimJDG)**Facilitating Grassroots Group Strategy Sessions**\
 \
 The goal of this workshop is to equip participants with frameworks and decision-making tools that help guide groups towards creating solid mobilizing and organizing strategies together.\
@@ -16,6 +18,8 @@ This workshop was created because this topic was often requested by climate just
 \
 Facilitators:\
 [Sam Lin and Kenzie Harris](https://www.lehub.ca/en/team/)
+
+![](/media/group_structure_zoom_banner.png "Group Structure Workshop")
 
 ![](https://lh3.googleusercontent.com/xwDZom1lOh0lRDcERbFqMhqtGWyKu0hYHIPzHEEK4yABPX_Sm96Soz-g96woDipTgUAnnRE6b8zGMkeizZsaP9u8Vrr6Eli5zs0CRvGrdSjuenRlAHvQMcQurjCreRq4d7finpEO)**Facilitating Grassroots Group Structure Design**\
 \
@@ -28,6 +32,8 @@ This workshop was created because this topic was often requested by climate just
 Facilitators:\
 [Sam Lin and Kenzie Harris](https://www.lehub.ca/en/team/)
 
+![](/media/zoom_navigating_conflict_banner.png)
+
 ![](https://lh3.googleusercontent.com/sZweSYx2nqkeDlUFUjalsRHPf5vLSZjoFHietPuPylQkIs9ShC97Vfr0ypss5X1mLFkKu5QLPo93rDucNp-pcYTepmPQ_095aVYlzx3k_X_QViIZNdIJAh8cYie-HqS7SXBiQAAp)**Navigating Conflict + Intro to Transformative Justice**\
 \
 This workshop aims to collectively surface and explore experiences of conflict that arise in organizing spaces. Holding space for this in the format of a facilitated discussion, participants collectively generate reflections and takeaways to nurture healthier relationships with conflict in the future.\
@@ -37,6 +43,8 @@ Through reflecting on conflict in movement spaces and deepening our understandin
 This offering centres around key thematic areas that organizers have identified as sources of conflict in ongoing conversations with HUB team members. These themes include white supremacy culture, gatekeeping and the lack of space and capacity to hold space for conflict. In exploring these themes, this workshop draws from thinkers including Tema Okun, Adrienne Maree Brown, Mia Mingus and Kai Cheng Thom.\
 \
 Facilitator: [Kenzie Harris ](https://www.lehub.ca/en/team/)
+
+![](/media/anti-o_zoombanner.png)
 
 \
 ![](https://lh6.googleusercontent.com/-Ij5lyOltEno1GAQDf9WvaNq8fs_mPw2COxIC-WK463DRzNg37mgu25luHQB4n6Hm9YgAQldJMcUhdUkPbTO5OP_YMgVlSVtw3xcS9umd5W6ny7Pe_6Uh-kYHT3mBSKlNhi8HXlR)**Anti-Oppression and Intersectionality**\
