@@ -3,7 +3,7 @@ layout: basic
 hideform: false
 secondary_page_title: Workshops
 lang: en
-permalink: /workshops/
+permalink: /en/workshops/
 otherlang_url: /ateliers/
 ---
 ![](https://lh3.googleusercontent.com/sOpjxly96id6il1i5luevYlBkpXnHIDAgdZ4idpJ9q-brWe02npc58vT15hUccYdJYDKYZabGGAhKUdX8EuNAgXBJjlklhPcZij5yptVs7Z2fsPtv2Rl41x_yqjToZfOpGTimJDG)**Facilitating Grassroots Group Strategy Sessions**\
