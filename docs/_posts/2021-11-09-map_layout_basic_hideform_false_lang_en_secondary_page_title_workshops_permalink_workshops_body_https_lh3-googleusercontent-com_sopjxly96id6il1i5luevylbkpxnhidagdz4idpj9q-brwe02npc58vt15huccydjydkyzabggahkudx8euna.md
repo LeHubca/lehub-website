@@ -8,7 +8,7 @@ otherlang_url: /ateliers/
 ---
 ![](/media/strategy_zoom_banner.png "Strategy Workshop")
 
-![](https://lh3.googleusercontent.com/sOpjxly96id6il1i5luevYlBkpXnHIDAgdZ4idpJ9q-brWe02npc58vT15hUccYdJYDKYZabGGAhKUdX8EuNAgXBJjlklhPcZij5yptVs7Z2fsPtv2Rl41x_yqjToZfOpGTimJDG)**Facilitating Grassroots Group Strategy Sessions**\
+**Facilitating Grassroots Group Strategy Sessions**\
 \
 The goal of this workshop is to equip participants with frameworks and decision-making tools that help guide groups towards creating solid mobilizing and organizing strategies together.\
 \
@@ -21,7 +21,7 @@ Facilitators:\
 
 ![](/media/group_structure_zoom_banner.png "Group Structure Workshop")
 
-![](https://lh3.googleusercontent.com/xwDZom1lOh0lRDcERbFqMhqtGWyKu0hYHIPzHEEK4yABPX_Sm96Soz-g96woDipTgUAnnRE6b8zGMkeizZsaP9u8Vrr6Eli5zs0CRvGrdSjuenRlAHvQMcQurjCreRq4d7finpEO)**Facilitating Grassroots Group Structure Design**\
+**Facilitating Grassroots Group Structure Design**\
 \
 The goal of this workshop is to equip participants with decision-making reflections and frameworks that help them guide their groups towards establishing a group structure that lines up with the group's purpose and Theory of Change.\
 \
@@ -34,7 +34,7 @@ Facilitators:\
 
 ![](/media/zoom_navigating_conflict_banner.png)
 
-![](https://lh3.googleusercontent.com/sZweSYx2nqkeDlUFUjalsRHPf5vLSZjoFHietPuPylQkIs9ShC97Vfr0ypss5X1mLFkKu5QLPo93rDucNp-pcYTepmPQ_095aVYlzx3k_X_QViIZNdIJAh8cYie-HqS7SXBiQAAp)**Navigating Conflict + Intro to Transformative Justice**\
+**Navigating Conflict + Intro to Transformative Justice**\
 \
 This workshop aims to collectively surface and explore experiences of conflict that arise in organizing spaces. Holding space for this in the format of a facilitated discussion, participants collectively generate reflections and takeaways to nurture healthier relationships with conflict in the future.\
 \
@@ -47,7 +47,7 @@ Facilitator: [Kenzie Harris ](https://www.lehub.ca/en/team/)
 ![](/media/anti-o_zoombanner.png)
 
 \
-![](https://lh6.googleusercontent.com/-Ij5lyOltEno1GAQDf9WvaNq8fs_mPw2COxIC-WK463DRzNg37mgu25luHQB4n6Hm9YgAQldJMcUhdUkPbTO5OP_YMgVlSVtw3xcS9umd5W6ny7Pe_6Uh-kYHT3mBSKlNhi8HXlR)**Anti-Oppression and Intersectionality**\
+**Anti-Oppression and Intersectionality**\
 \
 The goal of this workshop is to equip participants with foundational concepts and tools that help guide grassroots groups towards developing anti-oppressive practices in group life. These concepts and tools are offered as a starting place for a longer journey of anti-oppression and intersectionality as an ongoing practice.\
 \
