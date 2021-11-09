@@ -1,5 +1,5 @@
 ---
-layout: secondary2021
+layout: basic
 hideform: false
 secondary_page_title: Current HUB Workshops
 lang: en
