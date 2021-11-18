@@ -8,6 +8,7 @@ otherlang_url: /fr/offres/
 ---
 <ol>
   <li>Tailored workshops and coaching sessions
+    <div class="anchor-header-offset"><a name="workshops"></a></div>
     <p>Drawing on the knowledge of trusted movement
     practitioners, we provide workshops covering topics
     such as group structure, collaborative
@@ -20,6 +21,7 @@ otherlang_url: /fr/offres/
     registration links.</a></p>
   </li>
   <li>Organizing knowledge library
+    <div class="anchor-header-offset"><a name="library"></a></div>
     <p>Organizers are at the center of this, guiding us
     with their challenges, pain points and strategic
     questions. In response to their expressed needs, a
@@ -38,6 +40,7 @@ otherlang_url: /fr/offres/
   </li>
   <li>Community of practice for organizers/mobilizers
   and supporting organizations
+    <div class="anchor-header-offset"><a name="community"></a></div>
     <p>The HUB creates virtual (and eventually real
     convening) spaces to bring organizers and those
     working in movement-generous supporting

@@ -23,7 +23,15 @@
                     </ul>
                   </li>
                   <li><a href="/fr/equipe/">ÉQUIPE</a></li>
-                  <li><a href="/fr/offres/">OFFRES</a></li>
+                  <li>
+                    <a href="/fr/offres/">OFFRES <i class="ti-angle-down"></i></a>
+                    <ul class="submenu">
+                      <!-- force relaod for https://stackoverflow.com/questions/54862267/how-to-close-mobile-menu-on-click-for-anchor-links -->
+                      <li><a class="hide-nav-on-click" href="/fr/offres/?a=1#ateliers">Workshops</a></li>
+                      <li><a class="hide-nav-on-click" href="/fr/offres/?a=2#connaissances">Knowledge Library</a></li>
+                      <li><a class="hide-nav-on-click" href="/fr/offres/?a=3#communaute">Community</a></li>
+                    </ul>
+                  </li>
                   <li><a href="/fr/avenir/">À VENIR</a></li>
                   <li><a href="#contact">CONTACT</a></li>
                   <li><a href="/en/">EN</a></li>

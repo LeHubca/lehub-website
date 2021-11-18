@@ -16,3 +16,19 @@
   white-space: normal;
   width: 100%;
 }
+
+.anchor-header-offset {
+  position: relative;
+}
+
+.anchor-header-offset a {
+  position: absolute;
+  top: -150px;
+}
+
+@media (min-width: 992) {
+  .anchor-header-offset a {
+    position: absolute;
+    top: -200px;
+  }
+}
