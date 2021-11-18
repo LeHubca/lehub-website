@@ -3,6 +3,7 @@ title: Florence Lachapelle
 layout: basic
 img: /media/photoflorence2.jpg
 title_en: Assistant French Communications Coordinator
+title_fr: Assistante coordonnatrice des communications francophones
 bio_en: >-
   
 
@@ -13,5 +14,14 @@ bio_en: >-
 
 
   <!--EndFragment-->
+bio_fr: Florence (elle) a grandi et habite à Tio’tià :ke/Mooniyang/Montréal.
+  Allochtone diplômée du Cégep du Vieux-Montréal en arts visuels, elle poursuit
+  maintenant ses études à l’université Concordia à la mineure en études
+  autochtones. Durant son parcours, elle s’est impliquée dans divers initiatives
+  de justice sociale et climatique, et milite de façon continue au sein de la
+  Coalition étudiante pour un virage environnemental et social – CEVES depuis
+  janvier 2020. Elle y a notamment fait du travail de mobilisation de grève
+  étudiante dans différents établissements scolaires ainsi que de l’organisation
+  d’actions.
 order: 6.5
 ---
