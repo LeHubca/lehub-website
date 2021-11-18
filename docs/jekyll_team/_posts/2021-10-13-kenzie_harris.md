@@ -19,11 +19,11 @@ bio_fr: Kenzie (elle/iel) est un.e allochtone résidant sur les territoires
   Haudenosaunee, des Wendat et de nombreuses autres nations. Iel termine une
   maîtrise en nutrition humaine appliquée à l'Université de Guelph. Kenzie
   s'implique dans le mouvement pour la justice climatique depuis 2019. Ancien·e
-  membre de *Climate Strike Canada*, la plupart de ses efforts ont porté sur le
+  membre de Climate Strike Canada, la plupart de ses efforts ont porté sur le
   désinvestissement des banques dans les combustibles fossiles, la solidarité
   aux luttes autochtones et l'éducation à la justice climatique. Kenzie fait
-  actuellement partie de ​​​​​​​*Climate Justice Guelph*, groupe qu'elle a
-  cofondé à la fin de 2020. Kenzie travaille également comme responsable de
-  l'éducation pour *Banking on a Better Future*.
+  actuellement partie de ​​​​​​​Climate Justice Guelph, groupe qu'elle a cofondé
+  à la fin de 2020. Kenzie travaille également comme responsable de l'éducation
+  pour Banking on a Better Future.
 order: 3
 ---
