@@ -9,6 +9,8 @@ layout: event
 img:
   - /media/cross-canada_check-in_zoom_bilingual_banner_1_.png
 ---
+![](/media/cross-canada_check-in_zoom_bilingual_banner_1_.png)
+
 <!--StartFragment-->
 
 Through many conversations with organizers these past months, we've heard lots of folks express interest in deepening the connective tissue between climate justice (CJ) groups and campaigns across the country.
@@ -23,8 +25,6 @@ With an interactive slide deck circulating before the event, we'll gather update
 🌼 *Guy Brodsky*, an organizer with Divest Canada and Banking on a Better Future, presenting the Banking on a Better Future campaign, a group of grassroots youth organizers from across so-called Canada focused on institutional fossil fuel divestment.\
 🌲 *Isabelle Grondin Hernandez*, member of La CEVES, presenting updates on discussions, reflections and plans for a general strike with the student movement\
 🌺 *Naisha Khan and Aishwarya Puttur*, facilitating a BIPOC circle on the practices and resources needed for BIPOC community care in the climate movement. 
-
- 
 
 We hope to see you there! English and French simultaneous translation will be provided. 
 
