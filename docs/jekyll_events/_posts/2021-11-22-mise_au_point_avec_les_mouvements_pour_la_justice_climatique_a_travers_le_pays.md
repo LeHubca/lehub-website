@@ -6,10 +6,11 @@ dates:
   - start: 2021-12-16T00:00:00.000Z
     end: 2021-12-16T02:00:00.000Z
 layout: event
-img:
-  - /media/1.png
+img: []
 ---
 <!--StartFragment-->
+
+![](/media/1.png)
 
 Suite à de nombreuses conversations avec des organisateurs et organisatrices au cours des derniers mois, nous avons entendu plusieurs personnes exprimer leur intérêt pour un renforcement des liens entre les groupes et les campagnes pour la justice climatique à travers le pays.
 
