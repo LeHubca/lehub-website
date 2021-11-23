@@ -1,10 +1,10 @@
 ---
-title: Cross-Canada Climate Justice Check-In
+title: Cross-Country Climate Justice Check-In
 permalink: /en/upcoming/crosscountrycheckin/
 lang: en
 dates:
-  - start: ""
-    end: ""
+  - start: 2021-12-16T00:00:00.000Z
+    end: 2021-12-16T02:00:00.000Z
 layout: event
 img:
   - /media/cross-canada_check-in_zoom_bilingual_banner_1_.png
