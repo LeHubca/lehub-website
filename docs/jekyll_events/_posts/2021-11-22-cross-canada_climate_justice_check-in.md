@@ -1,6 +1,6 @@
 ---
 title: Cross-Canada Climate Justice Check-In
-permalink: /en/upcoming/crosscanadacheckin/
+permalink: /en/upcoming/crosscountrycheckin/
 lang: en
 dates:
   - start: ""
