@@ -22,6 +22,6 @@ Un système de diapositives interactif sera diffusé avant l'événement et nous
 
 Les participants et les participantes auront l'occasion d'assister à des présentations de personnes travaillant sur des campagnes et des projets menés d'un bout à l'autre du continent, ainsi que de discuter en petits groupes pour explorer ces initiatives plus en détail.
 
-INSCRIPTION OBLIGATOIRE [ICI](https://us02web.zoom.us/meeting/register/tZcsdeytpzgrEtGooyJUUUx2vc_Y2NqWX3Wr?fbclid=IwAR34xk6VsmCM7KKeCDEDaBVSFDjvOsq_MnM5PIINjDXneP__euuARe1eAA4)
+**Vous pouvez vous inscrire en suivant [ce lien](https://us02web.zoom.us/meeting/register/tZcsdeytpzgrEtGooyJUUUx2vc_Y2NqWX3Wr?fbclid=IwAR3XaEssoXCY-tl5VNm_e0Gpxz89QVjP4niXHLzvsmoMAAQW4QdFOJhVFrs) !**
 
 <!--EndFragment-->
