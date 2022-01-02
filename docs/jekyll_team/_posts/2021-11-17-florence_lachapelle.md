@@ -2,8 +2,8 @@
 title: Florence Lachapelle
 layout: basic
 img: /media/photoflorence2.jpg
-title_en: Assistant French Communications Coordinator
-title_fr: Assistante coordonnatrice des communications francophones
+title_en: Quebec Coordination Assistant
+title_fr: Adjointe à la coordination du Québec
 bio_en: >-
   
 
