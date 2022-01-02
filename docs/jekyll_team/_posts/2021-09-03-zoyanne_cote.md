@@ -2,8 +2,8 @@
 title: Zoyanne Côté
 layout: basic
 img: /media/17f799d0-29b8-42bf-9339-06aef69e970b.jpg
-title_en: French Communications Coordinator
-title_fr: Coordonnatrice des communications francophones
+title_en: Quebec Coordinator
+title_fr: Coordonnatrice du Québec
 bio_en: Zoyanne (she/her) is a student minoring in Indigenous Studies at the
   University of Montreal. As an organizer of many years within diverse
   struggles, she works towards a movement that is decolonial, anti-capitalist
