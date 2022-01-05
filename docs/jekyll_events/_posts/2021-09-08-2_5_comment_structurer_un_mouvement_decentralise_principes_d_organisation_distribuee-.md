@@ -10,6 +10,6 @@ layout: event
 ---
 ![](/media/20.png)
 
-Comment structurer une organisation militante ? Cette séance explore une réponse : celle de la mobilisation distribuée, une méthode pour décentraliser les campagnes et miser sur l'autonomie des membres. Elle repose, entre autre, sur les recherches de Blueprints for Change, du Center for Efficient Collaboration et de Marshal Ganz, ainsi que sur une longue tradition d'intérêt pour le leadership non patriarchal en contexte militant.​​​​​​​
+Comment structurer une organisation militante ? Cette séance explore une réponse : celle de la mobilisation distribuée, une méthode pour décentraliser les campagnes et miser sur l’autonomie des membres. Elle repose, entre autre, sur les recherches de Blueprints for Change, du Center for Efficient Collaboration et de Marshal Ganz, ainsi que sur une longue tradition d’intérêt pour le leadership non patriarcal en contexte militant.​​​​​​​
 
 Inscription [ici](https://us02web.zoom.us/meeting/register/tZMlf-CtpjwsHtxyY15NmZCPWSDTHfqvdw5W).
