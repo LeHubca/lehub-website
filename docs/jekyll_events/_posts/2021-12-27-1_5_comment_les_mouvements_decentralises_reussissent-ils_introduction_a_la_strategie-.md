@@ -10,6 +10,6 @@ layout: event
 ---
 ![](/media/19.png)
 
-Cette séance s'intéresse principalement au modèle "momentum" de mobilisation de mouvements sociaux. Elle offre des outils concrets pour penser la stratégie dans un contexte de mobilisation de masse : à où en est notre mouvement ? Quels comportements attendre de nos adversaires ? Quelle partie de la population doit être convaincue, comment ? Et comment pouvons-nous absorber et l'énergie dégagée pour escalader nos moyens de pression ?
+Cette séance s’intéresse principalement au modèle du “momentum” de mobilisation dans les mouvements sociaux. Elle offre des outils concrets pour penser la stratégie dans un contexte de mobilisation de masse : où en est notre mouvement ? Quels comportements attendre de nos adversaires ? Quelle partie de la population doit être convaincue, comment ? Et comment pouvons-nous absorber et utiliser l’énergie dégagée pour escalader nos moyens de pression ?
 
 Inscription [ici](https://us02web.zoom.us/meeting/register/tZEkfu2vrD8uG90RM2i0JmlTO357-l6n7aSO).
