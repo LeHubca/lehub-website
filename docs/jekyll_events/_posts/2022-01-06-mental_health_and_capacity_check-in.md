@@ -9,15 +9,13 @@ dates:
     end: 2022-01-26T01:30:00.000Z
 layout: event
 ---
-
-
 !["Mental Health and Capacity Check-In" in bold sans serif dark teal text on a light cyan background. In the top right and bottom left corner of the image are a cluster of a lilac handdrawn circle, navy dots, and blue waves.](/media/mental_health_and_capacity_check-in_zoom_banner.png "Mental Health and Capacity Check-In")
 
 <!--StartFragment-->
 
-Activism, like any other form of labour, can be emotionally draining. With the current wave of COVID-19 triggering the largest pandemic-related crisis yet, on top of many other crises that already existed before that. The Mental Health and Capacity Check-In is a guided discussion to help navigate through these emotions. Informed by the requests of the HUB community, this session will hold space for climate activists to share feelings around burnout and isolation induced by this latest shutdown. This hour and a half session will be guided by Nmesoma Nweze.
+Activism, like any other form of labour, can be emotionally draining. With the current wave of COVID-19 triggering the largest pandemic-related crisis yet, on top of many other crises that already existed before that, prioritizing mental health and checking in on our collective wellbeing is more important than ever. The Mental Health and Capacity Check-In is a guided discussion to help navigate through these emotions. Informed by the requests of the HUB community, this session will hold space for climate activists to share feelings around burnout and isolation that have been induced by this latest shutdown. This hour and a half session will be guided by Nmesoma Nweze.
 
-This event is free for all climate justice activists across so-called Canada.
+<!--EndFragment-->This event is free for all climate justice activists across so-called Canada.
 
 Facilitator:
 
