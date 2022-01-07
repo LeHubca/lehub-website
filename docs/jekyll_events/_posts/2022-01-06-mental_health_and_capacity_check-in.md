@@ -21,7 +21,7 @@ This event is free for all climate justice activists across so-called Canada.
 
 Facilitator:
 
-![](/media/nmesoma.png "Nmesoma Nweze")
+![A smiling black brown-skinned woman with a clean shaven head lying on a white blanket atop a lawn. She is mostly in the sun with a few shadows from a tree hitting her face and body. She is wearing a grey chunky knit cropped sweater and a multicoloured sarong.](/media/nmesoma.png "Nmesoma Nweze")
 
 🌼Nmesoma Nweze is currently a PhD student in McGill’s Clinical Psychology program. She holds an honours bachelor degree in neuroscience and psychology from the University of Toronto. Her passions and research interests are community psychology, particularly how relationships within Indigenous frameworks can be a vehicle for healing on an individual level and social change on the collective level. She was raised in Iqaluit, Nunavut, where she was introduced to environmental issues through the lenses of Inuit sovereignty and self-governance and culture. Later she engaged with environmental activists through protests and events during her time in Tkaronto. She greatly appreciates the opportunity to help facilitate a space for organizers and activists to be vulnerable, heard, understood, and hopefully come away with their cups refilled. 
 
