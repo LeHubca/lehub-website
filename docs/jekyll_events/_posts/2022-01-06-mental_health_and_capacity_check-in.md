@@ -13,7 +13,7 @@ layout: event
 
 <!--StartFragment-->
 
-Climate Justice Activism, like any other form of labour, can be emotionally draining. With the current wave of COVID-19 triggering the largest pandemic-related crisis yet, on top of many other crises that already existed before that, prioritizing mental health and checking in on our collective wellbeing is more important than ever. The Mental Health and Capacity Check-In is a guided discussion to help navigate through these emotions. Informed by the requests of the HUB community, this session will hold space for climate activists to share feelings around burnout and isolation that have been induced by this latest shutdown. This hour and a half session will be guided by Nmesoma Nweze.
+Climate Justice Activism, like any other form of labour, can be emotionally draining. With the current wave of COVID-19 triggering the largest pandemic-related crisis yet, on top of many other crises that already existed before that, prioritizing mental health and checking in on our collective wellbeing is more important than ever. The Countrywide Community Care Check-In is a guided discussion to help navigate through these emotions. Informed by the requests of the HUB community, this session will hold space for climate activists to share feelings around burnout and isolation that have been induced by this latest shutdown. This hour and a half session will be guided by Nmesoma Nweze.
 
 <!--EndFragment-->
 
