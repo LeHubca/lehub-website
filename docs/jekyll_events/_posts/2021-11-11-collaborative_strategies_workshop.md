@@ -1,5 +1,5 @@
 ---
-title: Collaborative Strategies Workshop
+title: Collaborative Strategy Workshop
 permalink: /en/upcoming/collaborativestrategy/
 lang: en
 dates:
