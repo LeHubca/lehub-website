@@ -1,11 +1,13 @@
 ---
 layout: basic
 hideform: false
-secondary_page_title: Current HUB Workshops
+secondary_page_title: Recurring HUB Workshops
 lang: en
 permalink: /en/workshops/
 otherlang_url: /ateliers/
 ---
+The following are workshops that are being offered monthly and year-round to as many organizers as possible. For more emergent programming, see our [Upcoming Events ](https://www.lehub.ca/en/upcoming/)page.  
+
 ![](/media/strategy_zoom_banner.png "Strategy Workshop")
 
 ### **Facilitating Grassroots Group Strategy Sessions**
@@ -18,8 +20,6 @@ This workshop was created because this topic was often requested by climate just
 \
 Facilitators:\
 [Sam Lin and Kenzie Harris](https://www.lehub.ca/en/team/)
-
-
 
 ![](/media/group_structure_zoom_banner.png "Group Structure Workshop")
 
@@ -34,8 +34,6 @@ This workshop was created because this topic was often requested by climate just
 Facilitators:\
 [Sam Lin and Kenzie Harris](https://www.lehub.ca/en/team/)
 
-
-
 ![](/media/zoom_navigating_conflict_banner.png)
 
 ### **Navigating Conflict + Intro to Transformative Justice**
@@ -47,8 +45,6 @@ Through reflecting on conflict in movement spaces and deepening our understandin
 This offering centres around key thematic areas that organizers have identified as sources of conflict in ongoing conversations with HUB team members. These themes include white supremacy culture, gatekeeping and the lack of space and capacity to hold space for conflict. In exploring these themes, this workshop draws from thinkers including Tema Okun, Adrienne Maree Brown, Mia Mingus and Kai Cheng Thom.\
 \
 Facilitator: [Kenzie Harris ](https://www.lehub.ca/en/team/)
-
-
 
 ![](/media/anti-o_zoombanner.png)
 
