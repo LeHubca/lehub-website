@@ -14,7 +14,7 @@ bio_en: Kenzie (she/they) is a settler residing on the traditional territories
   Kenzie is currently a part of Climate Justice Guelph which she cofounded in
   late 2020. Kenzie also works as the Education Lead for Banking on a Better
   Future.
-bio_fr: Kenzie (elle/iel) est un.e allochtone résidant sur les territoires
+bio_fr: Kenzie (elle/iel) est allochtone et réside sur les territoires
   traditionnels des Mississaugas de Credit, des Anishnabeg, des Chippewa, des
   Haudenosaunee, des Wendat et de nombreuses autres nations. Iel termine une
   maîtrise en nutrition humaine appliquée à l'Université de Guelph. Kenzie
