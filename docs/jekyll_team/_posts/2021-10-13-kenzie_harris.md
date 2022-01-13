@@ -3,7 +3,7 @@ title: Kenzie Harris
 layout: basic
 img: /media/5425b793-4212-48cd-b0e9-4063ea115a0f.jpg
 title_en: Trainer
-title_fr: Formateur.rice
+title_fr: Personne formatrice
 bio_en: Kenzie (she/they) is a settler residing on the traditional territories
   of the Mississaugas of the Credit, the Anishnabeg, the Chippewa, the
   Haudenosaunee, the Wendat people and many other Nations. They are finishing up
