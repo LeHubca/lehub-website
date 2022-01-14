@@ -1,7 +1,7 @@
 ---
 title: HUB de mobilisation pour la justice climatique
 layout: july2021homepage
-permalink: /stage-2021/fr/
+permalink: /fr/
 lang: fr
 ---
 ## Le HUB

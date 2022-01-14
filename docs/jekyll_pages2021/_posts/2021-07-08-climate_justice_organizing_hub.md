@@ -1,7 +1,7 @@
 ---
 title: Climate Justice Organizing Hub
 layout: july2021homepage
-permalink: /stage-2021/en/
+permalink: /en/
 lang: en
 ---
 ## The HUB
