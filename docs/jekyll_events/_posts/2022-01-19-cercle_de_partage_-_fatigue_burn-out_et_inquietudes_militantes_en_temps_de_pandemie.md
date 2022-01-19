@@ -4,7 +4,7 @@ title: Cercle de partage - Fatigue, burn-out et inquiétudes militantes en temps
 permalink: /fr/avenir/cercledepartage/
 lang: fr
 dates:
-  - start: ""
+  - start: 2022-02-03T00:00:00.000Z
     end: ""
 layout: event
 ---
