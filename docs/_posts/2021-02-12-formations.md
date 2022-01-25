@@ -1,7 +1,7 @@
 ---
 layout: basic
-secondary_page_title: "Formation pour militant.e.s : Comment bâtir et soutenir
-  des mouvements décentralisés"
+secondary_page_title: "Formation pour personnes militantes : Comment bâtir et
+  soutenir des mouvements décentralisés"
 lang: fr
 permalink: /formationmouvements/
 otherlang_url: /trainings/
@@ -12,9 +12,11 @@ Il existe un vaste réservoir de connaissances touchant aux défis typiques des
 
 ![](/media/slide2600200.png)
 
-À travers une série d'exercices pratiques et de discussions, les formateur.rice.s outilleront les militant.e.s en leur enseignant des méthodes de réflexion stratégique et d'organisation de mouvements. 
+À travers une série d’exercices pratiques et de discussions, les personnes formatrices outilleront les activistes en leur enseignant des méthodes de réflexion stratégique et d’organisation de mouvements. 
 
-L’objectif est aussi d’inspirer les militant.e.s locaux, grâce à une présentation des meilleures techniques organisationnelles pour mouvements sociaux, inspirées par les grandes luttes sociales dans le monde. 
+L’objectif est aussi d’inspirer les personnes militantes d’ici grâce à une présentation des meilleures techniques organisationnelles pour mouvements sociaux, inspirées par les grandes luttes sociales dans le monde.
+
+
 
 ### **Résumé du contenu**
 
