@@ -16,15 +16,11 @@ Il existe un vaste réservoir de connaissances touchant aux défis typiques des
 
 L’objectif est aussi d’inspirer les personnes militantes d’ici grâce à une présentation des meilleures techniques organisationnelles pour mouvements sociaux, inspirées par les grandes luttes sociales dans le monde.
 
-
-
 ### **Résumé du contenu**
 
 Le parcours d’apprentissage se résume par les étapes suivantes : 
 
 ###### 1) Comment les mouvements décentralisés réussissent-ils ? Introduction à la stratégie. 
-
-Prochaine séance : Mercredi le 15 septembre 2021 à 19h, inscription [ici](https://us02web.zoom.us/meeting/register/tZErc-GurDIrE9ZpJg9vrfSWJtPXA_-RfN1k).
 
 ###### 2) Comment structurer un mouvement décentralisé ? Principes d’organisation distribuée. 
 
@@ -32,33 +28,27 @@ Prochaine séance : Mercredi le 22 septembre 2021 à 19h, inscription [ici](http
 
 ###### 3) Définir ses structures et processus : Atelier sur la création d'une structure décentralisée. 
 
-Prochaine séance : Mercredi le 29 septembre 2021 à 19h, inscription [ici](https://us02web.zoom.us/meeting/register/tZIvc-CuqDMtGdPXqGkXJdRfghOFE0nqq27z).
+Prochaine séance : Mercredi le 9 février 2022 à 19h, inscription [ici](https://us02web.zoom.us/meeting/register/tZUudOmhrjwuHNUixdbLeZmxWqjuAer3XVqZ).
 
 ###### 4) Travailler ensemble sans s'épuiser : Meilleures pratiques de travail en coalition agile.  
 
-Prochaine séance : Mercredi le 6 octobre 2021 à 19h, inscription [ici](https://us02web.zoom.us/meeting/register/tZ0sdOygpjkrGNGb-H9PMBa6JGylnygAuByw).
+Prochaine séance : Mardi le 22 février 2022 à 19h, inscription [ici](https://us02web.zoom.us/meeting/register/tZYtcumsrj4qHtEonXw6fXtG4L8cAdY99yH4).
 
 ###### 5) S'unir pour changer le système : La logique stratégique de la convergence des luttes. 
 
-Prochaine séance : Mercredi le 20 octobre 2021 à 19h, inscription [ici](https://us02web.zoom.us/meeting/register/tZAlcO6srjMoG9KquLKzZoY02wuJco-MggWL).
+Prochaine séance : Mercredi le 9 mars 2022 à 19h, inscription [ici](https://us02web.zoom.us/meeting/register/tZItcemuqTksGNLigH5-6XkxGmwOTVj9Uenl).
 
 Une bibliothèque de ressources traduites en français sera fournie pour accompagner les formations.
 
 ### **Équipe de formation** 
 
-Cette formation est offerte par le [Hub de mobilisation pour la justice climatique](https://www.lehub.ca/), une structure de soutien conçue pour répondre aux besoins des organisateur.rice.s issu.e.s du terrain et faisant partie des mouvements sociaux au Québec. Elle s'appuie sur les connaissances collectives de son équipe et de ses formateur.rice.s présentés ci-dessous.
-
-![](/media/4.png)
-
-**Louis Ramirez**
-
-Louis a entamé son parcours militant à seize ans, en organisant des actions directes contre la hausse des frais de scolarité en Angleterre. Après un détour passant par la philosophie et, ensuite, par la stratégie de marque, il est retourné dans le monde militant en cofondant Extinction Rébellion Québec. Suite à un passage chez The Climate Mobilization, aux États-Unis, il partage aujourd’hui son temps entre les projets de réorganisation des branches britanniques et québécoises de XR, du HUB, et des campagnes de défense des droits autochtones à Kanehsatake.
+Cette formation est offerte par le [HUB de mobilisation pour la justice climatique](https://www.lehub.ca/), une structure de soutien conçue pour répondre aux besoins organisationnels des personnes issues des mouvements populaires au Québec et au Canada. Elle s'appuie sur les connaissances des membres de son équipe et des personnes formatrices présentées ci-dessous.
 
 ![](/media/3.png)
 
 **Isabelle Grondin-Hernandez**
 
-Isabelle (elle) s'active pour l'amélioration des conditions de vie pour tous.tes dans les milieux qu'elle côtoie. Elle prit activement part au mouvement étudiant pour la justice climatique notamment avec la Coalition Étudiante pour un Virage Environnemental et Social (CEVES) dès les débuts de l'organisation. Les rapports Nord-Sud, le capitalisme/anticapitalisme, l'étude critique du droit, ainsi que la sociologie en général sont des domaines qu'elle affectionne particulièrement. Après avoir complété quelques cours au baccalauréat en sociologie, elle a  opté pour des études en droit à l'Université du Québec à Montréal afin de mieux saisir les particularités de l'univers social dans lequel elle s'implique. Grâce au HUB et à la création d'une plateforme éducative nommée Jeutisc sur laquelle elle travaille, Isabelle souhaite démocratiser l'accès aux savoirs porteurs de justice sociale.
+Isabelle (elle) s'active pour l'amélioration des conditions de vie dans les milieux qu'elle côtoie. Elle prit activement part au mouvement étudiant pour la justice climatique, notamment avec la Coalition Étudiante pour un Virage Environnemental et Social (CEVES) dès les débuts de l'organisation. Les rapports Nord-Sud, le capitalisme/anticapitalisme, l'étude critique du droit, ainsi que la sociologie en général sont des domaines qu'elle affectionne particulièrement. Après avoir complété quelques cours au baccalauréat en sociologie, elle a opté pour des études en droit à l'Université du Québec à Montréal (UQÀM) afin de mieux saisir les particularités de l'univers social dans lequel elle s'implique. Grâce au HUB et à la création d'une plateforme éducative nommée Jeutisc sur laquelle elle travaille, Isabelle souhaite démocratiser l'accès aux savoirs porteurs de justice sociale.
 
 ### **Compléter le formulaire ci-dessous pour vous inscrire**
 
