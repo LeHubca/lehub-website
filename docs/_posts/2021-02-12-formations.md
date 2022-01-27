@@ -22,6 +22,8 @@ Le parcours d’apprentissage se résume par les étapes suivantes : 
 
 ###### 1) Comment les mouvements décentralisés réussissent-ils ? Introduction à la stratégie. 
 
+Cette séance s’intéresse principalement au modèle du “momentum” de mobilisation dans les mouvements sociaux. Elle offre des outils concrets pour penser la stratégie dans un contexte de mobilisation de masse… Où en est notre mouvement ? Quels comportements attendre de nos adversaires ? Quelle partie de la population doit être convaincue, comment ? Et comment pouvons-nous absorber et utiliser l’énergie dégagée pour escalader nos moyens de pression ?
+
 Prochaine séance : À venir.
 
 ###### 2) Comment structurer un mouvement décentralisé ? Principes d’organisation distribuée. 
