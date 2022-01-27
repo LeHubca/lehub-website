@@ -22,11 +22,11 @@ Le parcours d’apprentissage se résume par les étapes suivantes : 
 
 ###### 1) Comment les mouvements décentralisés réussissent-ils ? Introduction à la stratégie. 
 
-
+Prochaine séance : À venir.
 
 ###### 2) Comment structurer un mouvement décentralisé ? Principes d’organisation distribuée. 
 
-Prochaine séance : Mercredi le 22 septembre 2021 à 19h, inscription [ici](https://us02web.zoom.us/meeting/register/tZYtf-yrqDosH9HterTEoygUEV0-y71CckzL).
+Prochaine séance : À venir.
 
 ###### 3) Définir ses structures et processus : Atelier sur la création d'une structure décentralisée. 
 
