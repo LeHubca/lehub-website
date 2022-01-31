@@ -1,5 +1,5 @@
 ---
-title: Atelier anti-oppression pour militant.e.s écolos - 102
+title: Atelier anti-oppression pour personnes militantes - 102
 permalink: /fr/avenir/antiopp102/
 lang: fr
 dates:
@@ -7,7 +7,7 @@ dates:
     end: ""
 layout: event
 ---
-![](/media/illustration_sans_titre_27.jpg)
+![](/media/antiopp102.png)
 
 De plus en plus, l’intérêt marqué pour lier la justice climatique à la justice sociale se fait entendre. Répondre à ce besoin passe immanquablement par une déconstruction des systèmes oppressifs et leur manière d’opérer à différentes échelles.
 
@@ -15,15 +15,11 @@ Sous la forme d’ateliers, le contenu sera divisé en deux angles respectifs. L
 
 Cette série comprend deux séances interactives et virtuelles de deux heures.
 
-
-
 Résumé du contenu : Anti-oppression 101
 
 * Discussion visant à décortiquer certaines affirmations populaires et problématiques normalisées au sein du mouvement écologique.
 * Comprendre divers exemples de privilèges récurrents au sein de la lutte environnementale à travers un exercice permettant de pratiquer la capacité à les repérer.
 * Définir l’oppression systémique en profondeur en utilisant un outil visuel pour expliquer les différentes parties inter-reliées afin d’identifier plus explicitement en quoi la cause environnementale est de nature intersectionnelle, d’où l’importance d’un allyship actif.
-
-
 
 Résumé du contenu : Anti-oppression 102
 
