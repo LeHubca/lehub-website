@@ -9,7 +9,7 @@ dates:
 layout: event
 img: []
 ---
-![](/media/1.png)
+![](/media/formtransparent.png)
 
 Il existe un vaste réservoir de connaissances touchant aux défis typiques des mouvements sociaux décentralisés. Cette formation présente ainsi une synthèse des réflexions stratégiques trouvées dans différentes sources reconnues à travers le monde telles que **[Blueprints for Change](https://blueprintsfc.org/)**, **[The Commons Library](https://commonslibrary.org/)** et **[Momentum Organizing](https://www.momentumcommunity.org/)**. 
 
