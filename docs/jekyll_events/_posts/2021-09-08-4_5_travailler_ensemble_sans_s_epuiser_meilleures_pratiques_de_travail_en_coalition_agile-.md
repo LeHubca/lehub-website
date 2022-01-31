@@ -9,7 +9,7 @@ dates:
 layout: event
 img: []
 ---
-![](/media/22.png)
+![](/media/5.png)
 
 Une fois qu'un mouvement est lancé, il est commun de se tourner vers l'intérieur de celui-ci et sur les dynamiques concurrentielles avec d'autres mouvements qui se développent. Dans cet atelier, nous explorerons comment travailler ensemble en coalitions « agiles » - comment créer des réseaux d'organisations qui poussent dans la même direction sans être parfaitement alignées sur tous les points ?
 
