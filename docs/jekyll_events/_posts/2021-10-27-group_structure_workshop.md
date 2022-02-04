@@ -7,6 +7,8 @@ dates:
     end: 2021-11-11T02:00:03.191Z
   - start: 2022-01-28T00:00:00.000Z
     end: 2022-01-28T02:30:00.000Z
+  - start: 2022-02-25T00:00:00.000Z
+    end: 2022-02-25T01:30:00.000Z
 layout: event
 img:
   - /media/group_structure_zoom_banner.png
@@ -21,6 +23,6 @@ This workshop was created because this topic was often requested by climate just
 
 **This workshop is free and open to all climate and social justice organizers across so-called Canada**
 
-[Click here for Zoom Registration Link.](https://us02web.zoom.us/meeting/register/tZ0oduGuqjovG9wD9uvuYKMzkzixBPlePfuX)
+[Click here for Zoom Registration Link.](https://us02web.zoom.us/meeting/register/tZwtdu-opjsuHdz8N4CeRwyWyTp3taTotI12)
 
 [](https://us02web.zoom.us/meeting/register/tZ0oduGuqjovG9wD9uvuYKMzkzixBPlePfuX)[](https://us02web.zoom.us/meeting/register/tZMofuyvqjsoEtdFaMJ6cdJ8ZOdbJBNL1-LH)<!--EndFragment-->
