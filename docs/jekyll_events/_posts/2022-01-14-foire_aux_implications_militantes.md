@@ -7,7 +7,7 @@ dates:
     end: ""
 layout: event
 ---
-![](/media/copie_de_foire_aux_actions_militantes_600_x_200_px_.png)
+![](/media/mailchimp_-_foire_aux_implications_militantes.png)
 
 Le HUB de mobilisation pour la justice climatique organise sa première foire aux implications militantes le jeudi 3 mars 2022 prochain dès 19h sur Zoom✨
 
