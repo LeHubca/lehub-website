@@ -7,6 +7,8 @@ dates:
     end: 2021-12-09T02:00:00.000Z
   - start: 2022-02-17T00:00:00.000Z
     end: 2022-02-17T01:30:00.000Z
+  - start: 2022-03-09T23:00:00.000Z
+    end: 2022-03-10T00:30:00.000Z
 layout: event
 ---
 !["Anti-Oppression Workshop" in a light cyan text on a lilac circle. The lilac circle is on a teal background and is framed by a eucalyptus branch to the left and tulips to the right. In the bottom right corner is the HUB logo.](/media/anti-o_zoombanner.png "Anti-Oppression Workshop")
