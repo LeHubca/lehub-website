@@ -17,7 +17,7 @@ img:
 ---
 <!--StartFragment-->
 
-!["Group Structure Workshop" in bold sans serif teal letters in a mint green oval, which in turn is on a cyan background. To the left of the text is a icon of a black and white outstretched hand holding a seedling and to the right of the text is a black and white branch of lilies. Both icons are surrounded by multi-coloured abstract shapes. In the bottom right is the HUB logo, all caps white bold letters in a magenta square.](/media/group_structure_zoom_banner.png)
+!["Group Structure Workshop" in bold sans serif teal letters in a mint green oval, which in turn is on a cyan background. To the left of the text is a icon of a black and white outstretched hand holding a seedling and to the right of the text is a black and white branch of lilies. Both icons are surrounded by multi-coloured abstract shapes. In the bottom right is the HUB logo, all caps white bold letters in a magenta square.](/media/group_structure_zoom_banner.png "Group Structure Workshop")
 
 The goal of this workshop is to equip participants with decision-making reflections and frameworks that help them guide their groups towards establishing a group structure that lines up with the group's purpose and Theory of Change. In this workshop, we cover the inherent tensions between democratic principles and structure, and how certain frameworks lead to more sustainable groups.
 
