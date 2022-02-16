@@ -29,4 +29,6 @@ This workshop was created because this topic was often requested by climate just
 
 [Click here for the March 23 Zoom Registration Link.](https://us02web.zoom.us/meeting/register/tZEucO-rqDksHdaQtRDRO7SokNgx6Wg-wO9x)
 
-[](https://us02web.zoom.us/meeting/register/tZEucO-rqDksHdaQtRDRO7SokNgx6Wg-wO9x)[](https://us02web.zoom.us/meeting/register/tZ0oduGuqjovG9wD9uvuYKMzkzixBPlePfuX)[](https://us02web.zoom.us/meeting/register/tZMofuyvqjsoEtdFaMJ6cdJ8ZOdbJBNL1-LH)<!--EndFragment-->
+[Click here for the April 20 Zoom Registration Link.](https://us02web.zoom.us/meeting/register/tZ0pd-6pqzkpHtLPXsmWz9U_9lrkbl6QMGQM)
+
+[](https://us02web.zoom.us/meeting/register/tZ0pd-6pqzkpHtLPXsmWz9U_9lrkbl6QMGQM)[](https://us02web.zoom.us/meeting/register/tZEucO-rqDksHdaQtRDRO7SokNgx6Wg-wO9x)[](https://us02web.zoom.us/meeting/register/tZ0oduGuqjovG9wD9uvuYKMzkzixBPlePfuX)[](https://us02web.zoom.us/meeting/register/tZMofuyvqjsoEtdFaMJ6cdJ8ZOdbJBNL1-LH)<!--EndFragment-->
