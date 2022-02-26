@@ -9,7 +9,7 @@ layout: event
 ---
 ![](/media/1.png)
 
-Rejoignez-nous le mercredi 16 mars prochain pour un cercle de solidarité organisé par le HUB en partenariat avec Research for the Front Lines ! ,
+Rejoignez-nous le mercredi 16 mars prochain pour un cercle de solidarité organisé par le HUB en partenariat avec Research for the Front Lines !
 
 Waba Moko (Shannon Chief) présentera, en conversation avec la Dre Jen Gobby, le projet de recherche du moratoire sur la chasse à l'orignal mené par les Anishnabe. Les personnes participantes auront l'occasion de poser des questions et découvrir comment elles peuvent participer à ce projet de recherche grâce à Research for the Front Lines, une initiative qui met en relation des personnes qui sont aux premières lignes des luttes pour la justice sociale et environnementale avec des personnes chercheuses qui ont des compétences, du temps et de la main-d'œuvre à offrir. 
 
