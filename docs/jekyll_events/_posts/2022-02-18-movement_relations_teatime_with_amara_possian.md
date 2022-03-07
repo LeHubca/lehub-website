@@ -2,9 +2,7 @@
 title: "Movement Relations: Teatime with Amara Possian"
 permalink: /en/upcoming/movementrelations/
 lang: en
-dates:
-  - start: 2022-03-08T00:00:00.000Z
-    end: 2022-03-08T01:30:00.000Z
+dates: []
 layout: event
 ---
 !["MOVEMENT RELATIONS: TEATIME WITH AMARA POSSIAN" in a bold magenta sans serif font centred on a mint background. To the left of the text is a image of two hands in a pinkie lock surrounded by multicoloured abstract shapes. To the right, the HUB logo.](/media/tea_time_with_amara_possian_zoom_banner_600_200_px_.png "Movement Relations: Teatime with Amara Possian")
