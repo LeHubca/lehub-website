@@ -9,8 +9,10 @@ dates:
     end: 2022-01-28T02:30:00.000Z
   - start: 2022-02-25T00:00:00.000Z
     end: 2022-02-25T01:30:00.000Z
-  - start: 2022-03-23T23:00:00.000Z
-    end: 2022-03-24T00:30:00.000Z
+  - start: 2022-03-24T00:00:00.000Z
+    end: 2022-03-24T01:30:00.000Z
+  - start: 2022-04-21T00:00:00.000Z
+    end: 2022-04-21T01:30:00.000Z
 layout: event
 img:
   - /media/group_structure_zoom_banner.png
