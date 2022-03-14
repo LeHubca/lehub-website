@@ -23,6 +23,4 @@ This workshop is free for all climate justice activists across so-called Canada.
 
 <!--EndFragment-->
 
-[Click here for the March 9 Zoom Registration Link](https://us02web.zoom.us/meeting/register/tZcod-6ppzgsHNPzDupGn9ngB2Ipi6YSplmM)
-
 [Click here for the April 13 Zoom Registration Link](https://us02web.zoom.us/meeting/register/tZAtfu2vpj4vG9ZeuD4jw-S31_-_2VSjrZ0l)
