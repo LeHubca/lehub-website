@@ -14,5 +14,5 @@ bio_en: Payton Mitchell (she/her) is a Settler who grew up on unceded
   Payton’s work has focused on issues that impact her home region. Including
   First Nations land claims; justice for Migrant Farm Workers as well as the
   rights and safety of fossil fuel workers and their communities.
-order: -15
+order: 8.75
 ---
