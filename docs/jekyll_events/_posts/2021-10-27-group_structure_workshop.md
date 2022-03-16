@@ -13,6 +13,8 @@ dates:
     end: 2022-03-24T01:30:00.000Z
   - start: 2022-04-21T00:00:00.000Z
     end: 2022-04-21T01:30:00.000Z
+  - start: 2022-05-17T19:00:00.000Z
+    end: 2022-05-17T20:30:00.000Z
 layout: event
 img:
   - /media/group_structure_zoom_banner.png
@@ -31,4 +33,6 @@ This workshop was created because this topic was often requested by climate just
 
 [Click here for the April 20 Zoom Registration Link.](https://us02web.zoom.us/meeting/register/tZ0pd-6pqzkpHtLPXsmWz9U_9lrkbl6QMGQM)
 
-[](https://us02web.zoom.us/meeting/register/tZ0pd-6pqzkpHtLPXsmWz9U_9lrkbl6QMGQM)[](https://us02web.zoom.us/meeting/register/tZEucO-rqDksHdaQtRDRO7SokNgx6Wg-wO9x)[](https://us02web.zoom.us/meeting/register/tZ0oduGuqjovG9wD9uvuYKMzkzixBPlePfuX)[](https://us02web.zoom.us/meeting/register/tZMofuyvqjsoEtdFaMJ6cdJ8ZOdbJBNL1-LH)<!--EndFragment-->
+[Click here for the May 17 Zoom Registration Link.](https://us02web.zoom.us/meeting/register/tZUrd--hqDMtH90_pEk5lCPj2z0RiU8xFEQP)
+
+[](https://us02web.zoom.us/meeting/register/tZUrd--hqDMtH90_pEk5lCPj2z0RiU8xFEQP)[](https://us02web.zoom.us/meeting/register/tZ0pd-6pqzkpHtLPXsmWz9U_9lrkbl6QMGQM)[](https://us02web.zoom.us/meeting/register/tZEucO-rqDksHdaQtRDRO7SokNgx6Wg-wO9x)[](https://us02web.zoom.us/meeting/register/tZ0oduGuqjovG9wD9uvuYKMzkzixBPlePfuX)[](https://us02web.zoom.us/meeting/register/tZMofuyvqjsoEtdFaMJ6cdJ8ZOdbJBNL1-LH)<!--EndFragment-->
