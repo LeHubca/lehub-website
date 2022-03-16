@@ -11,6 +11,8 @@ dates:
     end: 2022-03-10T00:30:00.000Z
   - start: 2022-04-14T00:00:00.000Z
     end: 2022-04-14T01:30:00.000Z
+  - start: 2022-05-10T19:00:00.000Z
+    end: 2022-05-10T20:30:00.000Z
 layout: event
 ---
 !["Anti-Oppression Workshop" in a light cyan text on a lilac circle. The lilac circle is on a teal background and is framed by a eucalyptus branch to the left and tulips to the right. In the bottom right corner is the HUB logo.](/media/anti-o_zoombanner.png "Anti-Oppression Workshop")
@@ -24,3 +26,5 @@ This workshop is free for all climate justice activists across so-called Canada.
 <!--EndFragment-->
 
 [Click here for the April 13 Zoom Registration Link](https://us02web.zoom.us/meeting/register/tZAtfu2vpj4vG9ZeuD4jw-S31_-_2VSjrZ0l)
+
+[Click here for the May 10 Zoom Registration Link](https://us02web.zoom.us/meeting/register/tZEqdO6tpjgiEtN4yyWYBi39KxpDjNQEWRM8)
