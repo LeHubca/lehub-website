@@ -29,8 +29,6 @@ This workshop was created because this topic was often requested by climate just
 
 **This workshop is free and open to all climate and social justice organizers across so-called Canada**
 
-[Click here for the March 23 Zoom Registration Link.](https://us02web.zoom.us/meeting/register/tZEucO-rqDksHdaQtRDRO7SokNgx6Wg-wO9x)
-
 [Click here for the April 20 Zoom Registration Link.](https://us02web.zoom.us/meeting/register/tZ0pd-6pqzkpHtLPXsmWz9U_9lrkbl6QMGQM)
 
 [Click here for the May 17 Zoom Registration Link.](https://us02web.zoom.us/meeting/register/tZUrd--hqDMtH90_pEk5lCPj2z0RiU8xFEQP)
