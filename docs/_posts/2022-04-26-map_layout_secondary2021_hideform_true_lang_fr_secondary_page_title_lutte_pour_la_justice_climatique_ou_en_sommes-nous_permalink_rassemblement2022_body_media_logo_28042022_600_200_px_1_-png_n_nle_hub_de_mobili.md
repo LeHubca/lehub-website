@@ -25,7 +25,6 @@ Une programmation plus complète est à venir dans les prochains jours. Restez �
 \
 **PERSONNES INVITÉES**
 
-
 ![](/media/tomliacas.jpg)
 \
 **Tom Liacas**\
