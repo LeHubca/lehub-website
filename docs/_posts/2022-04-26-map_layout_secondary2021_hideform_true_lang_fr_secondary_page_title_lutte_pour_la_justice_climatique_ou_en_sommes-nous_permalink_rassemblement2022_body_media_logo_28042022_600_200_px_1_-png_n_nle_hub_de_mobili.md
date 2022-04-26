@@ -4,7 +4,7 @@ hideform: true
 secondary_page_title: "Lutte pour la justice climatique : Où en sommes-nous ?"
 lang: fr
 permalink: /rassemblement2022/
-otherlang_url: /eventmay2022/
+otherlang_url: /event2022/
 ---
 ![](/media/logo_28042022_600_200_px_1_.png)
 
