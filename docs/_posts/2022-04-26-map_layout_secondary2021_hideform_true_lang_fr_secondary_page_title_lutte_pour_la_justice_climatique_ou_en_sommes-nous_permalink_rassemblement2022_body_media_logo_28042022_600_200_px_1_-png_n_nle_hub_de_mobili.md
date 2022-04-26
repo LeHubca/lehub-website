@@ -25,7 +25,9 @@ Une programmation plus complète est à venir dans les prochains jours. Restez �
 \
 **PERSONNES INVITÉES**
 
-![](/media/tomliacas.jpg)
+![](/media/sans_titre_1_.png)
+
+
 \
 **Tom Liacas**\
 Avant de fonder le HUB, Tom (il) a travaillé comme consultant en mobilisation sociale au service d'ONGs aux États-Unis, au Royaume-Uni, au Canada, en Australie et en Nouvelle-Zélande. En tant que chercheur et analyste, il a publié plusieurs rapports sur les pratiques de campagne émergentes et publie fréquemment dans la Stanford Social Innovation Review. Afin de partager ouvertement ses connaissances avec d'autres activistes, Tom consacre ses heures de bénévolat à la mise en place du réseau Blueprints for Change, qui produit des guides pratiques gratuits à l'intention des responsables du changement progressif.
@@ -36,4 +38,4 @@ Rushdia Mehreen est actuellement étudiante au doctorat à l'UQAM et concentre s
 \
 \
 **Albert Lalonde**\
-Albert Lalonde est 
+Albert Lalonde est
