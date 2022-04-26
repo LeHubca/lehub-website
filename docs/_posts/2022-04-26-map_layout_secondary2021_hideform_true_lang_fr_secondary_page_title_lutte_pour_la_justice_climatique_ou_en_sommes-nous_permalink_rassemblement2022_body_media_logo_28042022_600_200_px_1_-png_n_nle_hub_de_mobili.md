@@ -16,12 +16,11 @@ Activités de la journée confirmées :\
 👉🏽Atelier d'impression artisanale d’affiches militantes\
 👉🏽Repas et collations végétariennes et végétaliennes fournies pour les personnes participantes\
 👉🏽Espaces de rencontre et de réseautage ouverts à travers la journée\
-👉🏽Grande discussion panel avec plusieurs personnes invitées : 3 grandes pensées sur la construction des mouvements sociaux et comment en tirer profit pour le mouvement pour la justice climatique ?
-
+👉🏽Grande discussion panel avec plusieurs personnes invitées : 3 grandes pensées sur la construction des mouvements sociaux et comment en tirer profit pour le mouvement pour la justice climatique ?\
 \
-Une programmation plus complète est à venir dans les prochains jours. Restez à l’affût !
-
-\*Nous suivrons attentivement les consignes de la Santé publique pour assurer la sécurité des personnes participantes.
+Une programmation plus complète est à venir dans les prochains jours. Restez à l’affût !\
+\
+*Nous suivrons attentivement les consignes de la Santé publique pour assurer la sécurité des personnes participantes.
 
 \
 **PERSONNES INVITÉES**
