@@ -33,3 +33,6 @@ Avant de fonder le HUB, Tom (il) a travaillé comme consultant en mobilisation s
 \
 **Rushdia Mehreen**\
 Rushdia Mehreen est actuellement étudiante au doctorat à l'UQAM et concentre sa recherche sur les mouvements sociaux. Elle s’implique dans les mouvements étudiants et pour la justice sociale depuis plus d'une décennie. Entre 2010 et 2012, elle a activement pris part à la mobilisation étudiante pour la première grève générale illimitée à l’Université Concordia. En plus de son implication dans le mouvement en 2012, elle était membre du Comité aux luttes sociales de l'ASSÉ/CLASSE (qui a démissionné en bloc en 2013). Rushdia est impliquée entre autres dans les luttes anticoloniales, antiracistes, pour la justice migratoire et avec le groupe Politics & Care.
+\
+\
+**Albert Lalonde**\
