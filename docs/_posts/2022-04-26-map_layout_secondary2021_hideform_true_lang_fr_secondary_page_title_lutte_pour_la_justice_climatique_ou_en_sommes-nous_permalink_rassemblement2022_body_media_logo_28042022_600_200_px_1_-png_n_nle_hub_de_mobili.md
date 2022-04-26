@@ -1,0 +1,26 @@
+---
+layout: secondary2021
+hideform: true
+secondary_page_title: "Lutte pour la justice climatique : Où en sommes-nous ?"
+lang: fr
+permalink: /rassemblement2022/
+otherlang_url: /eventmay2022/
+---
+![](/media/logo_28042022_600_200_px_1_.png)
+
+Le HUB de mobilisation pour la justice climatique vous invite à son rassemblement « Lutte pour la justice climatique : Où en sommes-nous ? » le samedi 28 mai prochain de 12h à 19h au [Ausgang Plaza](https://www.ausgangplaza.com/) (6524 Rue Saint-Hubert, Montréal).
+
+Au cours de la journée, nous aurons plusieurs conversations et activités artistiques afin de bâtir des liens et de voir où nous en sommes vraiment, en 2022, dans le mouvement pour la justice climatique.
+
+Activités de la journée confirmées :
+
+* Atelier d'impression artisanale d’affiches militantes
+* Repas et collations végétariennes et végétaliennes fournies pour les personnes participantes
+* Espaces de rencontre et de réseautage ouverts à travers la journée
+* Grande discussion panel avec plusieurs personnes invitées : 3 grandes pensées sur la construction des mouvements sociaux et comment en tirer profit pour le mouvement pour la justice climatique ?
+
+Une programmation plus complète est à venir dans les prochains jours. Restez à l’affût !
+
+\*Nous suivrons attentivement les consignes de la Santé publique pour assurer la sécurité des personnes participantes.
+
+**INSCRIPTION OBLIGATOIRE [ICI](https://lepointdevente.com/billets/xd0220413002)**
