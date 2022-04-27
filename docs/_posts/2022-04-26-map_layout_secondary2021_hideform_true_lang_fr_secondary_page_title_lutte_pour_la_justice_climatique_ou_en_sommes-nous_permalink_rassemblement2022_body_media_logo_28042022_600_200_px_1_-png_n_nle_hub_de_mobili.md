@@ -20,8 +20,8 @@ Activités de la journée confirmées :\
 \
 Une programmation plus complète est à venir dans les prochains jours. Restez à l’affût !\
 \
+\
 *Nous suivrons attentivement les consignes de la Santé publique pour assurer la sécurité des personnes participantes.
-
 \
 **PERSONNES INVITÉES**\
 <img align="left" width="100" height="100" src="/media/tomavril.png">**Tom Liacas**\
