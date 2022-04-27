@@ -28,9 +28,11 @@ Une programmation plus complète est à venir dans les prochains jours. Restez �
 Avant de fonder le HUB, Tom (il) a travaillé comme consultant en mobilisation sociale au service d'ONGs aux États-Unis, au Royaume-Uni, au Canada, en Australie et en Nouvelle-Zélande. En tant que chercheur et analyste, il a publié plusieurs rapports sur les pratiques de campagne émergentes et publie fréquemment dans la Stanford Social Innovation Review. Afin de partager ouvertement ses connaissances avec d'autres activistes, Tom consacre ses heures de bénévolat à la mise en place du réseau Blueprints for Change, qui produit des guides pratiques gratuits à l'intention des responsables du changement progressif.
 \
 \
+\
 **Rushdia Mehreen**\
 Rushdia Mehreen est actuellement étudiante au doctorat à l'UQAM et concentre sa recherche sur les mouvements sociaux. Elle s’implique dans les mouvements étudiants et pour la justice sociale depuis plus d'une décennie. Entre 2010 et 2012, elle a activement pris part à la mobilisation étudiante pour la première grève générale illimitée à l’Université Concordia. En plus de son implication dans le mouvement en 2012, elle était membre du Comité aux luttes sociales de l'ASSÉ/CLASSE (qui a démissionné en bloc en 2013). Rushdia est impliquée entre autres dans les luttes anticoloniales, antiracistes, pour la justice migratoire et avec le groupe Politics & Care.
 \
 \
-**Albert Lalonde**\
-Albert Lalonde est
+\
+<img align="left" width="100" height="100" src="/media/albertavril.png">**Albert Lalonde**\
+Albert Lalonde est un-e militant-e pour la justice climatique basé à Tiohtià:ke/Mooniyang (Montréal). Iel s’est notamment fait-e connaître en tant que membre de fondation et co-porte-parole du collectif Pour le futur Montréal, derrière les grèves pour le climat les vendredis au secondaire depuis 2019. Iel est membre de fondation et ex co-porte-parole de la Coalition étudiante pour un virage environnemental et social (CEVES), union de groupes étudiants qui a entre autres organisé les grèves et manifestations mondiales pour la justice climatique à Montréal, Québec et Sherbrooke depuis 2019. Albert fait partie du groupe de 15 jeunes qui poursuivent le gouvernement canadien pour sa responsabilité dans la crise climatique dans le cadre de la poursuite La Rose c. Sa Majesté la Reine. Iel travaille également pour la Fondation David Suzuki à titre de consultant-e en communications et mobilisation.
