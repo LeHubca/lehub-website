@@ -27,9 +27,7 @@ Une programmation plus complète est à venir dans les prochains jours. Restez �
 
 ![](/media/tomavril.png)
 
-<img align="left" width="100" height="100" src="/media/tomavril.png">
-
-**Tom Liacas**\
+<img align="left" width="100" height="100" src="/media/tomavril.png">**Tom Liacas**\
 Avant de fonder le HUB, Tom (il) a travaillé comme consultant en mobilisation sociale au service d'ONGs aux États-Unis, au Royaume-Uni, au Canada, en Australie et en Nouvelle-Zélande. En tant que chercheur et analyste, il a publié plusieurs rapports sur les pratiques de campagne émergentes et publie fréquemment dans la Stanford Social Innovation Review. Afin de partager ouvertement ses connaissances avec d'autres activistes, Tom consacre ses heures de bénévolat à la mise en place du réseau Blueprints for Change, qui produit des guides pratiques gratuits à l'intention des responsables du changement progressif.
 \
 \
