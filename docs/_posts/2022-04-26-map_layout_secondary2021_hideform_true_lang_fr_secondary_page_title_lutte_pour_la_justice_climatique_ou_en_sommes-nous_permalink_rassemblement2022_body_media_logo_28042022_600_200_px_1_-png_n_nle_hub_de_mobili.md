@@ -41,3 +41,14 @@ Albert Lalonde est un-e militant-e pour la justice climatique basé à Tiohtià:
 \
 <img align="left" width="100" height="100" src="/media/jenavril.png">**Jen Gobby**\
 Jen Gobby (elle) est une militante-universitaire basée dans une région rurale du Québec. Elle est fondatrice de MudGirls Natural Building Collective et organise avec Climate Justice Montréal. Elle a complété son doctorat à McGill en 2019 dans le cadre d'un partenariat avec le projet Économie pour l'anthropocène. Elle est maintenant boursière postdoctorale à l'Université Concordia au Département de géographie, de planification et d'environnement. Elle a passé les 5 dernières années à réfléchir en collaboration avec des défenseurs des terres et des militants de la justice environnementale sur la façon dont nous pouvons pousser plus puissamment pour un changement social à grande échelle. Actuellement, elle documente et mette en avant les manières dont les mouvements sociaux et les communautés internalisent/mobilisent le contexte de crise sanitaire dans leurs luttes pour des changements transformateurs dans le système économique, politique et social. Elle travaille également sur un projet avec Indigenous Climate Action pour élaborer une politique climatique dirigée par les peuples autochtones. Elle fait partie du comité directeur du SHIFT Centre for Social Transformation de Concordia.
+\
+\
+\
+<img align="left" width="100" height="100" src="/media/hady.png">**Hady Demba Anne Dit Kodoye Anne**\
+Hady Demba Anne Dit Kodoye Anne 
+Maitrise en lettre françaises a l’Université de Nouakchott Mauritanie
+Membre fondateur de la ligue des jeune de l’AMN (Alliance pour une Mauritanie Nouvelle)
+Membre Fondateur de l’AJD (Alliance pour la Justice et La democratie) Mauritanie
+President de MAFGC ( Mauritanian Association of friendship of Greater Cincinnati ) Ohio USA
+Charge de la communication de PSA LTD (Pulaar speaking Association) USA
+Membre et Porte-parole de SSF (Solidarité Sans Frontière) Montréal Canada
