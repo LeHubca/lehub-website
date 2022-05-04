@@ -21,6 +21,4 @@ layout: event
 
 The goal of this workshop is to equip participants with frameworks and decision-making tools that help guide groups collaboratively towards creating solid strategies. This is not just a primer on the principles of solid strategy (though it does cover that) but mostly a session for group facilitators that helps them guide their own groups towards finding a balance between the desire for collaborative decision making with the need to focus and narrow down to create solid strategy.
 
-[Click here for the May 3 Zoom Registration Link](https://us02web.zoom.us/meeting/register/tZEqdO6tpjgiEtN4yyWYBi39KxpDjNQEWRM8)
-
 [Click here for the June 8 Zoom Registration Link](https://us02web.zoom.us/meeting/register/tZcrd-igrj8jHdDt23s0ghqOvTb8-Hbk4K_S)
