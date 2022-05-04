@@ -45,10 +45,5 @@ Jen Gobby (elle) est une militante-universitaire basée dans une région rurale 
 \
 \
 <img align="left" width="100" height="100" src="/media/hady.png">**Hady Demba Anne Dit Kodoye Anne**\
-Hady Demba Anne Dit Kodoye Anne 
-Maitrise en lettre françaises a l’Université de Nouakchott Mauritanie
-Membre fondateur de la ligue des jeune de l’AMN (Alliance pour une Mauritanie Nouvelle)
-Membre Fondateur de l’AJD (Alliance pour la Justice et La democratie) Mauritanie
-President de MAFGC ( Mauritanian Association of friendship of Greater Cincinnati ) Ohio USA
-Charge de la communication de PSA LTD (Pulaar speaking Association) USA
-Membre et Porte-parole de SSF (Solidarité Sans Frontière) Montréal Canada
+Hady a une maitrise en lettre françaises de l’Université de Nouakchott en Mauritanie. Il est un membre fondateur de la Ligue des jeunes de l’Alliance pour une Mauritanie Nouvelle (AMN) et de l’Alliance pour la Justice et la Démocratie (AJD) en Mauritanie.
+Il a été ensuite président de la Mauritanian Association of friendship of Greater Cincinnati (MAFGC) aux États-Unis, puis en charge des communications de Pulaar speaking Association (PSA LTD), toujours aux États-Unis. Il est actuellement membre et porte-parole de Solidarité Sans Frontière (SSF), à Montréal.
