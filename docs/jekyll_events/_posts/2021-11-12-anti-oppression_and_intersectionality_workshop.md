@@ -11,8 +11,6 @@ dates:
     end: 2022-03-10T00:30:00.000Z
   - start: 2022-04-13T19:30:00.000Z
     end: 2022-04-13T21:00:00.000Z
-  - start: 2022-05-10T19:00:00.000Z
-    end: 2022-05-10T20:30:00.000Z
   - start: 2022-06-15T23:00:00.000Z
     end: 2022-06-16T00:30:00.000Z
 layout: event
@@ -26,7 +24,5 @@ This workshop leads participants through foundational concepts to using an anti-
 This workshop is free for all climate justice activists across so-called Canada.
 
 <!--EndFragment-->
-
-[Click here for the May 10 Zoom Registration Link.](https://us02web.zoom.us/meeting/register/tZMvc-yprDojGNWEq6tX1Og6dseJWtVUS4S2)
 
 [Click here for the June 15 Zoom Registration Link.](https://us02web.zoom.us/meeting/register/tZYucO6srjkvHtATopegtLey7f9VIDkNzcAG)
