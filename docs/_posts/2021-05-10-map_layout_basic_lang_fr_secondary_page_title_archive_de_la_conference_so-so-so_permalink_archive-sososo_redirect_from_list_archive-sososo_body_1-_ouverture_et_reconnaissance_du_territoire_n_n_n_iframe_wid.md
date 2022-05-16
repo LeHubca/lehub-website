@@ -30,7 +30,6 @@ N'hésitez pas à partager les ressources avec vos ami.e.s !
 
 Nous sommes heureux.ses de vous dévoiler le rapport « Les arguments stratégiques en faveur d'une convergence des luttes », produit par Marouane Joundi, en collaboration avec l'équipe du HUB. 
 
-[**Vous pouvez télécharger le rapport ici**.](https://www.lehub.ca/media/rapportconvergencedesluttes.pdf)
 
 <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/HdLzJuuu12o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
