@@ -13,14 +13,14 @@ Le HUB de mobilisation pour la justice climatique vous invite à son rassembleme
 Au cours de la journée, nous aurons plusieurs conversations et activités artistiques afin de bâtir des liens et de voir où nous en sommes vraiment, en 2022, dans le mouvement pour la justice climatique.\
 \
 Activités de la journée confirmées :\
-👉🏽Atelier d'impression artisanale d’affiches militantes\
+👉🏽Atelier de sérigraphie artisanale avec une illustration d'Emily Thiessen\
 👉🏽Repas et collations végétariennes et végétaliennes fournies pour les personnes participantes\
 👉🏽Espaces de rencontre et de réseautage ouverts à travers la journée\
-👉🏽Grande discussion panel avec plusieurs personnes invitées : 3 grandes pensées sur la construction des mouvements sociaux et comment en tirer profit pour le mouvement pour la justice climatique ?\
+👉🏽Grande discussion panel pour échanger et apprendre sur la construction des mouvements sociaux et comment en tirer profit pour le mouvement pour la justice climatique. La discussion réunira plusieurs personnes qui luttent dans les milieux de la justice sociale et/ou climatique, notamment Rushdia Mehreen, Hady Demba Anne, Jen Gobby,Tom Liacas ainsi qu'Albert Lalonde, qui animera la discussion.\
 \
 Une programmation plus complète est à venir dans les prochains jours. Restez à l’affût !\
 \
-*Nous suivrons attentivement les consignes de la Santé publique pour assurer la sécurité des personnes participantes.\
+*Afin d’assurer la sécurité et respecter les différents niveaux de confort de toutes les personnes participantes, nous demandons aux personnes invitées de nous joindre seulement si elles sont adéquatement vaccinées (2x ou plus). De plus, le port du masque sera requis pour toutes les activités. Le masque pourra cependant être retiré pour boire ou manger et les personnes qui prennent parole lors du panel pourront l’enlever lors de leur présentation. Nous encourageons fortement toutes les personnes participantes à faire un test rapide avant l’événement et, évidemment, de ne pas se joindre à nous si leur résultat est positif. Merci de votre collaboration et au plaisir de vous y voir !\
 \
 \
 **PANÉLISTES**\
