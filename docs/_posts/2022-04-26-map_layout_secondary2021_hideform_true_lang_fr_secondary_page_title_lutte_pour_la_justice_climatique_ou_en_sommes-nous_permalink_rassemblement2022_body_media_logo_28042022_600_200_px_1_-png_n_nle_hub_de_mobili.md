@@ -6,8 +6,6 @@ lang: fr
 permalink: /rassemblement2022/
 otherlang_url: /event2022/
 ---
-
-
 Le HUB de mobilisation pour la justice climatique vous invite à son rassemblement « Lutte pour la justice climatique : Où en sommes-nous ? » le samedi 28 mai prochain de 12h à 19h au [Ausgang Plaza](https://www.ausgangplaza.com/) (6524 Rue Saint-Hubert, Montréal).\
 \
 **INSCRIPTION OBLIGATOIRE [ICI](https://lepointdevente.com/billets/xd0220413002)**\
@@ -35,7 +33,7 @@ Avant de fonder le HUB, Tom (il) a travaillé comme consultant en mobilisation s
 **Rushdia Mehreen**\
 Rushdia Mehreen est actuellement étudiante au doctorat à l'UQAM et concentre sa recherche sur les mouvements sociaux. Elle s’implique dans les mouvements étudiants et pour la justice sociale depuis plus d'une décennie. Entre 2010 et 2012, elle a activement pris part à la mobilisation étudiante pour la première grève générale illimitée à l’Université Concordia. En plus de son implication dans le mouvement en 2012, elle était membre du Comité aux luttes sociales de l'ASSÉ/CLASSE (qui a démissionné en bloc en 2013). Rushdia est impliquée entre autres dans les luttes anticoloniales, antiracistes, pour la justice migratoire et avec le groupe Politics & Care.
 
-**Imany Bégin-Paul et Natanaël Bégin-Paul**\
+<img align="left" width="100" height="100" src="/media/imany.png"><img align="left" width="100" height="100" src="/media/natanael.png">**Imany Bégin-Paul et Natanaël Bégin-Paul**\
 Les sœurs Paul, innues du Nitassinan, ont vu, depuis leur plus jeune âge, les membres de leur famille se battre pour la défense des droits des Premiers Peuples et la protection de leurs cultures. Les valeurs qu’elles portent aujourd’hui leur ont été transmises grâce aux enseignements de leurs aînés au fil du temps.
 
 Aujourd'hui, elles ont créé, pour honorer leurs ancêtres et les futures générations à venir, Tshuapamitin. Signifiant "Je te vois", Tshuapamitin s’est donné pour mission d'œuvrer à la justice sociale en sensibilisant les différentes sphères publiques sur les réalités et les perspectives des membres des Premières Nations, Inuits et Métis. Les différentes actions prises par les soeurs sont issues d’une volonté de combattre le racisme systémique, la discrimination, de briser les murs entre les réalités des Premiers Peuples et celle des Allochtones
