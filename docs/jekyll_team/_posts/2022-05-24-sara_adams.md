@@ -10,11 +10,11 @@ bio_en: Sara (she/her) is an educator, facilitator and organizer who grew up on
   Research for the Front Lines. She is a committed socialist and feminist
   dedicated to building a livable world for all.
 bio_fr: Sara (elle) est une formatrice, facilitatrice et organisatrice qui a
-  grandi sur les territoires non cédés de la nation algonquine dans ce qu'on
-  appelle Ottawa. Basée à Tio'tia:ke (Montréal), Sara est impliquée dans le
-  mouvement pour la justice climatique depuis 2019 et est actuellement engagée
-  auprès de Climate Justice Montréal et de Research for the Front Lines. Elle
-  est une socialiste et féministe engagée qui se consacre à la construction d'un
-  monde vivable pour tous et toutes.
+  grandi sur les territoires non cédés de la nation algonquine, à soi-disant
+  Ottawa. Sara s'implique dans le mouvement pour la justice climatique à
+  Tio'tià:ke (Montréal) depuis 2019 et est actuellement active auprès de Climate
+  Justice Montréal et de Research for the Frontlines. Elle est une socialiste et
+  féministe dévouée qui se consacre à la construction d'un monde viable pour
+  tous et toutes.
 order: 3
 ---
