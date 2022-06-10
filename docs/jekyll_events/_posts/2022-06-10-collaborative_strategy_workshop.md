@@ -1,10 +1,10 @@
 ---
 title: Collaborative Strategy Workshop
-permalink: /en/upcoming/
+permalink: /en/upcoming/xyz/
 lang: en
 dates:
-  - start: ""
-    end: ""
+  - start: 2022-07-19T23:00:00.000Z
+    end: 2022-07-20T00:30:00.000Z
 layout: event
 img:
   - /media/collaborative_strategy_facebook_cover_1_.png
