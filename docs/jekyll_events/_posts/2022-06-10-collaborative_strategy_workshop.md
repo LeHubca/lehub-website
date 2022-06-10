@@ -1,6 +1,6 @@
 ---
 title: Collaborative Strategy Workshop
-permalink: /en/upcoming/xyz/
+permalink: /en/upcoming/
 lang: en
 dates:
   - start: 2022-07-19T23:00:00.000Z
