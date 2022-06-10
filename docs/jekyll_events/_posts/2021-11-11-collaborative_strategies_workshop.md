@@ -15,10 +15,12 @@ dates:
     end: 2022-05-03T20:30:00.000Z
   - start: 2022-06-08T23:00:00.000Z
     end: 2022-06-09T00:30:00.000Z
+  - start: 2022-07-19T23:00:00.000Z
+    end: 2022-07-11T00:30:00.000Z
 layout: event
 ---
-!["Strategy Workshop" in a bold olive text on a cyan circle. The cyan circle is on a light green background and is framed by an outreaching hand to the left and flowers to the right. In the bottom right corner is the HUB logo.](/media/strategy_zoom_banner.png "Collaborative Strategy Workshop")
+!["Strategy Workshop" in a bold white text in a pink bubble. The pink bubble is on a purple and blue faded background and is framed by flowers on the left and a blue squiggle to the right. In the bottom right corner is the HUB logo.](/media/collaborative_strategy_workshop.png "Collaborative Strategy Workshop")
 
-The goal of this workshop is to equip participants with frameworks and decision-making tools that help guide groups collaboratively towards creating solid strategies. This is not just a primer on the principles of solid strategy (though it does cover that) but mostly a session for group facilitators that helps them guide their own groups towards finding a balance between the desire for collaborative decision making with the need to focus and narrow down to create solid strategy.
+The goal of this workshop is to help participants create realistic and attainable group campaign strategies. In addition to introducing participants to the principles of good strategy, this workshop teaches participants how to facilitate group strategy-making sessions so that they can find a balance between collaborative decision-making and creating detailed and realizable group strategy.[](https://us02web.zoom.us/meeting/register/tZcrd-igrj8jHdDt23s0ghqOvTb8-Hbk4K_S)
 
-[Click here for the June 8 Zoom Registration Link](https://us02web.zoom.us/meeting/register/tZcrd-igrj8jHdDt23s0ghqOvTb8-Hbk4K_S)
+[Click here for the July 19 Zoom Registration link. ](https://us02web.zoom.us/meeting/register/tZUkcu-oqD4vEtBQwWVy46N1VHLMC93kNURn)
