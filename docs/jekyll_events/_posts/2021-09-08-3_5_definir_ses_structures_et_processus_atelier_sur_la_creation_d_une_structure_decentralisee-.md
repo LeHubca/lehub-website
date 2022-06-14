@@ -20,4 +20,4 @@ L’objectif est aussi d’inspirer les personnes militantes d’ici grâce à u
 
 Bien qu’elle puisse être suivie toute seule, cette séance met en pratique les concepts de la session précédente. En une heure et demie, nous explorerons le processus par lequel une organisation distribuée peut se concevoir et commencerons le travail d'élaboration de structures et de processus. Il est préférable que les personnes participantes aient un projet en tête si elles veulent en tirer un maximum d’apprentissages. Sinon, un cas générique sera proposé.
 
-Inscription [ici](https://us02web.zoom.us/meeting/register/tZModuiqrD4sGdD6m84p5FJTb8HTl9NDVCWh).
+**Inscription [ici](https://us02web.zoom.us/meeting/register/tZModuiqrD4sGdD6m84p5FJTb8HTl9NDVCWh).**
