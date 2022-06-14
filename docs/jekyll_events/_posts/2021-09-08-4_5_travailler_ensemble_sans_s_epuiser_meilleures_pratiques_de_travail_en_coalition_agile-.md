@@ -21,4 +21,4 @@ L’objectif est aussi d’inspirer les personnes militantes d’ici grâce à u
 
 Une fois qu’un mouvement est lancé, il est commun de se tourner vers l’intérieur de celui-ci et sur les dynamiques concurrentielles avec d’autres mouvements qui se développent. Dans cet atelier, nous explorerons comment travailler ensemble en coalitions « agiles »… Comment créer des réseaux d’organisations qui poussent dans la même direction sans être parfaitement alignées sur tous les points ?
 
-Inscription [ici](https://us02web.zoom.us/meeting/register/tZcvce6hrTwvG9b0W-hdeczHhHtnv62hiq1V).
+**Inscription [ici](https://us02web.zoom.us/meeting/register/tZcvce6hrTwvG9b0W-hdeczHhHtnv62hiq1V).**
