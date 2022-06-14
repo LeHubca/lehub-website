@@ -1,6 +1,5 @@
 ---
-title: Climate Justice Community Picnic and Discussion with the HUB team –
-  Friday, July 8th from 5-7pm at Trout Lake
+title: Climate Justice Community Picnic and Discussion with the HUB team
 permalink: /en/upcoming/events/
 lang: en
 dates:
