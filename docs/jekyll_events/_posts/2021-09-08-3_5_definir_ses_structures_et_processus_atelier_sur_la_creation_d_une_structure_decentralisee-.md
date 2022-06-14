@@ -4,7 +4,7 @@ title: "[3/5] Définir ses structures et processus : Atelier sur la création
 permalink: /fr/avenir/definir-structures/
 lang: fr
 dates:
-  - start: 2022-02-10T00:00:00.000Z
+  - start: 2022-08-16T23:00:00.000Z
     end: ""
 layout: event
 ---
@@ -16,8 +16,8 @@ Elle comprend cinq séances interactives et virtuelles d’une heure et demie c
 
 L’objectif est aussi d’inspirer les personnes militantes d’ici grâce à une présentation des meilleures techniques organisationnelles pour mouvements sociaux, inspirées par les grandes luttes sociales dans le monde.
 
-![](/media/4.png)
+![](/media/se_ance3_5.png)
 
-Bien qu’elle puisse être suivie toute seule, cette séance met en pratique les concepts de la session précédente. En une heure trente, nous explorerons le processus par lequel une organisation distribuée peut se concevoir et commencerons le travail d'élaboration de structures et de processus. Il est préférable que les participant.e.s aient un projet en tête s’iels veulent en tirer un maximum d’apprentissages. Sinon, un cas générique sera proposé.
+Bien qu’elle puisse être suivie toute seule, cette séance met en pratique les concepts de la session précédente. En une heure et demie, nous explorerons le processus par lequel une organisation distribuée peut se concevoir et commencerons le travail d'élaboration de structures et de processus. Il est préférable que les personnes participantes aient un projet en tête si elles veulent en tirer un maximum d’apprentissages. Sinon, un cas générique sera proposé.
 
-Inscription [ici](https://us02web.zoom.us/meeting/register/tZUudOmhrjwuHNUixdbLeZmxWqjuAer3XVqZ).
+Inscription [ici](https://us02web.zoom.us/meeting/register/tZModuiqrD4sGdD6m84p5FJTb8HTl9NDVCWh).
