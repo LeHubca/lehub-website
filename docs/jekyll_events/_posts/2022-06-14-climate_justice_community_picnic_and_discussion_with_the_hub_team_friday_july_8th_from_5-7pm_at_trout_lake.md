@@ -1,12 +1,12 @@
 ---
-title: Climate Justice Community Picnic and Discussion with the HUB team
+title: Climate Justice Community Picnic and Discussion with the HUB Team
 permalink: /en/upcoming/events/
 lang: en
 dates:
   - start: ""
     end: ""
-  - start: 2022-07-08T21:00:00.000Z
-    end: 2022-07-08T23:00:00.000Z
+  - start: 2022-07-09T00:00:00.000Z
+    end: 2022-07-09T02:00:00.000Z
 layout: event
 img:
   - /media/email_1.png
