@@ -10,6 +10,7 @@ dates:
 layout: event
 img:
   - /media/email_1.png
+  - /media/email_1.png
 ---
 🌱 Come join folks from the Climate Justice Organizing HUB ([lehub.ca](http://lehub.ca/)) in so-called Vancouver for a picnic and discussion at Trout Lake on Friday, July 8th!\
 \
