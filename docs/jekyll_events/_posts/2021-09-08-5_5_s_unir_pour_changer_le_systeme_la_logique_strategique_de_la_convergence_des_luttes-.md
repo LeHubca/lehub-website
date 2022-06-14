@@ -4,7 +4,7 @@ title: "[5/5] S’unir pour changer le système : La logique stratégique de la
 permalink: /fr/avenir/sunir-pour-changer/
 lang: fr
 dates:
-  - start: 2022-03-10T00:00:00.000Z
+  - start: 2022-09-06T23:00:00.000Z
     end: ""
 layout: event
 ---
@@ -20,4 +20,4 @@ L’objectif est aussi d’inspirer les personnes militantes d’ici grâce à u
 
 Qu’est-ce que la convergence des luttes ? Quels sont ses avantages ? À quoi ressemble-t-elle en pratique ? Et comment pouvons-nous la réaliser ? Conformément à la mission du HUB, cette dernière séance bâtit un argumentaire pour la convergence des luttes et explore les moyens de la traduire en discours politique par le biais de la stratégie narrative.
 
-**Inscription [ici](https://us02web.zoom.us/meeting/register/tZItcemuqTksGNLigH5-6XkxGmwOTVj9Uenl).**
+**Inscription [ici](https://us02web.zoom.us/meeting/register/tZAqc-qgrzkpG9c0wuPDv-8BkfLhkW6wj1so).**
