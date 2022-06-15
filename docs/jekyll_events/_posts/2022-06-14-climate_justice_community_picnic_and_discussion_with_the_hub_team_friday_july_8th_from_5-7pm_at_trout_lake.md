@@ -13,7 +13,7 @@ img:
 
 ✊🏾 We'll be hanging out and hosting a discussion facilitated by HUB team members Jacqueline, Naomi, Michelle and Sameen, about where the climate justice movement is at now, how much more power needs to be built towards systems change, and how we can build that base together.
 
-🗣 This dialogue is intended as a drop of some big-picture movement ideas informed by research, personal organizing experience and historical perspectives, to help climate justice organizers think of where they’re at in the movement-building cycle.
+🗣 This dialogue is intended as a drop of some big-picture movement ideas informed by research, personal organizing experience and historical perspectives, in order to help climate justice organizers think of where they’re at in the movement-building cycle.
 
 🧺 Picnic-style snacks and drinks will be provided.
 
