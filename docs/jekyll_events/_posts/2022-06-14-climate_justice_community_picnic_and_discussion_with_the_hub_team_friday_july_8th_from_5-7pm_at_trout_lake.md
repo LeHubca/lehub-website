@@ -3,13 +3,10 @@ title: Climate Justice Community Picnic and Discussion with the HUB Team
 permalink: /en/upcoming/events/
 lang: en
 dates:
-  - start: ""
-    end: ""
   - start: 2022-07-09T00:00:00.000Z
     end: 2022-07-09T02:00:00.000Z
 layout: event
 img:
-  - /media/email_1.png
   - /media/email_1.png
 ---
 🌱 Come join folks from the Climate Justice Organizing HUB ([lehub.ca](http://lehub.ca/)) in so-called Vancouver for a picnic and discussion at Trout Lake on Friday, July 8th!
