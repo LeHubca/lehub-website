@@ -15,8 +15,8 @@ dates:
     end: 2022-05-03T20:30:00.000Z
   - start: 2022-06-08T23:00:00.000Z
     end: 2022-06-09T00:30:00.000Z
-  - start: 2022-07-19T23:00:00.000Z
-    end: 2022-07-11T00:30:00.000Z
+  - start: 2022-08-03T23:00:00.000Z
+    end: 2022-08-04T00:30:00.000Z
 layout: event
 ---
 !["Strategy Workshop" in a bold white text in a pink bubble. The pink bubble is on a purple and blue faded background and is framed by flowers on the left and a blue squiggle to the right. In the bottom right corner is the HUB logo.](/media/collaborative_strategy_workshop.png "Collaborative Strategy Workshop")
