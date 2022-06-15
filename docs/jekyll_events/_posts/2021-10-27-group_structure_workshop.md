@@ -10,7 +10,7 @@ img: []
 ---
 <!--StartFragment-->
 
-!["Group Structure Workshop" in bold sans serif teal letters in a light blue speech bubble, surrounded by a bunch of white flowers in teh bottom left corner and several blue squiggles to the left and right. The HUB logo is in the bottom right corner. ](/media/group_structure_workshop_zoom_banner.png "Group Structure Workshop")
+!["Group Structure Workshop" in bold sans serif white letters in a darker blue speech bubble, surrounded by a bunch of white flowers in the bottom left corner and several blue squiggles to the left and right. The HUB logo is in the bottom right corner. ](/media/group_structure_workshop_zoom_banner_1_.png "Group Structure Workshop")
 
 The goal of this workshop is to equip participants with decision-making reflections and frameworks that help them establish a group structure that lines up with their group's purpose and Theory of Change. In this workshop, participants will learn about the inherent tensions between democratic principles and structure, as well as how certain frameworks can lead to more sustainable groups.
 
