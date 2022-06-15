@@ -19,8 +19,12 @@ dates:
     end: 2022-08-04T00:30:00.000Z
 layout: event
 ---
-!["Strategy Workshop" in a bold white text in a pink bubble. The pink bubble is on a purple and blue faded background and is framed by flowers on the left and a blue squiggle to the right. In the bottom right corner is the HUB logo.](/media/collaborative_strategy_workshop_websitezoom_banner.png "Collaborative Strategy Workshop")
+!["Strategy Workshop" in a bold white text in a purple text box. To the left is a group of white flowers and to the right is a blue squiggle. In the bottom right is the HUB logo.](/media/collaborative_strategy_workshop_websitezoom_banner.png "Collaborative Strategy Workshop")
 
-The goal of this workshop is to help participants create realistic and attainable group campaign strategies. In addition to introducing participants to the principles of good strategy, this workshop teaches participants how to facilitate group strategy-making sessions so that they can find a balance between collaborative decision-making and creating detailed and realizable group strategy.[](https://us02web.zoom.us/meeting/register/tZcrd-igrj8jHdDt23s0ghqOvTb8-Hbk4K_S)
+The goal of this workshop is to help participants create realistic and attainable group campaign strategies. In addition to introducing participants to the principles of good strategy, this workshop teaches participants how to facilitate group strategy-making sessions so that they can find a balance between collaborative decision-making and creating detailed and realizable group strategy.
+
+This workshop was created because this topic was often requested by climate justice organizers. The material that makes up these slides is drawn from a collaboration between several senior movement thinkers including Amara Possian, Tom Liacas, and many other folks in the Momentum Training Community, Mobilisation Lab and Blueprints for Change.
+
+**This workshop is free and open to all climate and social justice organizers across so-called Canada.**[](https://us02web.zoom.us/meeting/register/tZcrd-igrj8jHdDt23s0ghqOvTb8-Hbk4K_S)
 
 [](https://us02web.zoom.us/meeting/register/tZAlcO2vqzsoG92Cwe8IHkIZdB4-MOWA-cwk)Click here to register for the August 3rd workshop: <https://us02web.zoom.us/meeting/register/tZUofumoqjspE9wcNBTO0XY6SgfBP6LgcDBV>.[](https://us02web.zoom.us/meeting/register/tZAlcO2vqzsoG92Cwe8IHkIZdB4-MOWA-cwk)
