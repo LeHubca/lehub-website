@@ -14,7 +14,7 @@ img: []
 
 The goal of this workshop is to equip participants with decision-making reflections and frameworks that help them establish a group structure that lines up with their group's purpose and Theory of Change. In this workshop, participants will learn about the inherent tensions between democratic principles and structure, as well as how certain frameworks can lead to more sustainable groups.
 
-This workshop was created because this topic was often requested by climate justice organizers. The material that makes up these slides was drawn from a collaboration between several senior movement thinkers including Amara Possian, Tom Liacas, and many other folks in the Momentum Training Community, Mobilisation Lab and Blueprints for Change.
+This workshop was created because this topic was often requested by climate justice organizers. The material that makes up these slides is drawn from a collaboration between several senior movement thinkers including Amara Possian, Tom Liacas, and many other folks in the Momentum Training Community, Mobilisation Lab and Blueprints for Change.
 
 **This workshop is free and open to all climate and social justice organizers across so-called Canada.**
 
