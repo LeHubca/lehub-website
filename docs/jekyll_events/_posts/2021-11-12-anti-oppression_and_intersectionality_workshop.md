@@ -11,10 +11,8 @@ dates:
     end: 2022-03-10T00:30:00.000Z
   - start: 2022-04-13T19:30:00.000Z
     end: 2022-04-13T21:00:00.000Z
-  - start: 2022-06-15T23:00:00.000Z
-    end: 2022-06-16T00:30:00.000Z
-  - start: 2022-08-09T23:00:00.000Z
-    end: 2022-08-10T00:30:00.000Z
+  - start: 2022-08-10T23:00:00.000Z
+    end: 2022-08-11T00:30:00.000Z
 layout: event
 ---
 !["Anti-Oppression Workshop" in a light cyan text in a blue background. In the top left is an icon of two hands holding pinkies, with a purple circle benhind and a pink circle below on the right hand side, with a blue squiggle above.In the bottom right corner is the HUB logo.](/media/anti-oppression_and_intersectionality_websitezoom_banner.png "Anti-Oppression Workshop")
@@ -29,4 +27,4 @@ This workshop was created because this topic was often requested by climate just
 
 <!--EndFragment-->
 
-Register here for the August 9th workshop: <https://us02web.zoom.us/meeting/register/tZUqce6qrz0oGNeKMAApjAct-mmteG7s4VV5>.
+[Register here for the August 9th workshop.](https://us02web.zoom.us/meeting/register/tZUqce6qrz0oGNeKMAApjAct-mmteG7s4VV5)
