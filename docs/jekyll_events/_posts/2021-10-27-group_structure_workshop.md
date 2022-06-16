@@ -18,6 +18,6 @@ This workshop was created because this topic was often requested by climate just
 
 **This workshop is free and open to all climate and social justice organizers across so-called Canada.**
 
-[Register for the July 19th Group Structure Workshop here](https://us02web.zoom.us/meeting/register/tZAlcO2vqzsoG92Cwe8IHkIZdB4-MOWA-cwk).
+[Register for the July 20th Group Structure Workshop here](https://us02web.zoom.us/meeting/register/tZAlcO2vqzsoG92Cwe8IHkIZdB4-MOWA-cwk).
 
 [](https://us02web.zoom.us/meeting/register/tZcsceCpqTorHNRGu2sDzADBTwK3O7zLXNxt)[](https://us02web.zoom.us/meeting/register/tZUrd--hqDMtH90_pEk5lCPj2z0RiU8xFEQP)[](https://us02web.zoom.us/meeting/register/tZ0pd-6pqzkpHtLPXsmWz9U_9lrkbl6QMGQM)[](https://us02web.zoom.us/meeting/register/tZEucO-rqDksHdaQtRDRO7SokNgx6Wg-wO9x)[](https://us02web.zoom.us/meeting/register/tZ0oduGuqjovG9wD9uvuYKMzkzixBPlePfuX)[](https://us02web.zoom.us/meeting/register/tZMofuyvqjsoEtdFaMJ6cdJ8ZOdbJBNL1-LH)<!--EndFragment-->
