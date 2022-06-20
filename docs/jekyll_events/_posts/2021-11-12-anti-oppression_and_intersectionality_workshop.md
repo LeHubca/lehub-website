@@ -27,4 +27,4 @@ This workshop was created because this topic was often requested by climate just
 
 <!--EndFragment-->
 
-[Register here for the August 9th workshop.](https://us02web.zoom.us/meeting/register/tZUqce6qrz0oGNeKMAApjAct-mmteG7s4VV5)
+[Register here for the August 10th workshop.](https://us02web.zoom.us/meeting/register/tZUqce6qrz0oGNeKMAApjAct-mmteG7s4VV5)
