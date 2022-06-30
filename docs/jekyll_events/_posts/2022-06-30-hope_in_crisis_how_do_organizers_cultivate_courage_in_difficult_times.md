@@ -3,8 +3,8 @@ title: "Hope in Crisis: How Do Organizers Cultivate Courage in Difficult Times?"
 permalink: /en/upcoming/workshops/
 lang: en
 dates:
-  - start: ""
-    end: ""
+  - start: 2022-07-12T23:00:00.000Z
+    end: 2022-07-13T00:00:00.000Z
 layout: event
 img:
   - /media/july_12_ig_live_facebook_post_1_.png
