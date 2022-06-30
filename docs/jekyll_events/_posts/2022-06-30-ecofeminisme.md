@@ -1,6 +1,6 @@
 ---
 title: Écologies marginales - projections et discussions
-permalink: /fr/avenir/ecofeminisme/
+permalink: /fr/avenir/ecologiesmarginales/
 lang: fr
 dates:
   - start: 2022-07-10T22:00:00.000Z
