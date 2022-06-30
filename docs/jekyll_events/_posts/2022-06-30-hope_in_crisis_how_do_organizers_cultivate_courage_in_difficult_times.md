@@ -6,6 +6,8 @@ dates:
   - start: ""
     end: ""
 layout: event
+img:
+  - /media/july_12_ig_live_facebook_post_1_.png
 ---
 The HUB will be coming to you LIVE on Instagram on July 12th at 4pm PST/7pm EST!
 
