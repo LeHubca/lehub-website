@@ -39,7 +39,7 @@ Décolonisons l’écologie : Reportage au coeur des luttes décoloniales et éc
 
 <!--StartFragment-->
 
-Le HUB de mobilisation pour la justice climatique vous invite à une projection du documentaire Ce monde n'est pas fait pour nous réalisé par Marine Habert. La projection sera suivie d'une discussion avec Myriam Bahaffou, militante et chercheuse écoféministe.
+Le HUB de mobilisation pour la justice climatique vous invite à une projection du documentaire Ce monde n'est pas fait pour nous réalisé par Marine Habert. La projection sera suivie d'une discussion avec Myriam Bahaffou, chercheuse et militante écoféministe.
 
 Ce monde n'est pas fait pour nous - récits consteallaires écoféministes. Un film de Marine Habert.
 
