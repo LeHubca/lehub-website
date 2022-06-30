@@ -1,5 +1,5 @@
 ---
-title: Écoféminisme
+title: Écologies marginales - projections et discussions
 permalink: /fr/avenir/ecofeminisme/
 lang: fr
 dates:
