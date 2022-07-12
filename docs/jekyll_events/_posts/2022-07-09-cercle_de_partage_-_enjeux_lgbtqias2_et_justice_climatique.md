@@ -11,11 +11,13 @@ layout: event
 
 Dans l’optique de décloisonner les luttes pour la justice climatique, le HUB souhaite ouvrir un espace de discussion libre sur les enjeux LGBTQIA2S+ et leurs liens avec la crise climatique.\
 \
-Nous invitons les personnes participantes à partager leurs réflexions, aussi embryonnaires soient-elles. Voici quelques questions de départ, mais nous vous encourageons fortement à en explorer d’autres si le cœur vous en dit :\
-- De quelles façons les identités LGBTQIA2S+ peuvent-elles être un facteur de marginalisation et de vulnérabilisation au temps de la crise climatique ?\
-- De quelles manières les luttes sociales peuvent-elles et doivent-elles mener à un post-capitalisme porteur de libération queer ?\
-- Comment détruire la conception eurocentrique binaire et coloniale de la nature et de l'environnement qui s'inscrit à la racine de nombreuses oppressions ?\
-- Qu'est-ce qui fait qu'un groupe est accueillant pour des personnes LGBTQIA2S+ ?\
+Nous invitons les personnes participantes à partager leurs réflexions, aussi embryonnaires soient-elles. Voici quelques questions de départ, mais nous vous encourageons fortement à en explorer d’autres si le cœur vous en dit :
+
+* De quelles façons les identités LGBTQIA2S+ peuvent-elles être un facteur de marginalisation et de vulnérabilisation au temps de la crise climatique ?
+* De quelles manières les luttes sociales peuvent-elles et doivent-elles mener à un post-capitalisme porteur de libération queer ?
+* Comment détruire la conception eurocentrique binaire et coloniale de la nature et de l'environnement qui s'inscrit à la racine de nombreuses oppressions ?
+* Qu'est-ce qui fait qu'un groupe est accueillant pour des personnes LGBTQIA2S+ ?
+
 \
 Bien sûr, peu de réponses satisfaisantes sont susceptibles d’émerger sans une analyse intersectionnelle large, prenant en compte tous les facteurs à l’origine des inégalités de privilège profondes entre personnes LGBTQIA2S+. Nous nous engageons à œuvrer à ce que l’espace soit le plus sécuritaire possible afin que chaque personne se sente à l’aise de partager son expérience vécue. Des personnes seront notamment responsables de garder le senti.\
 \
