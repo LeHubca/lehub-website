@@ -25,5 +25,5 @@ bio_fr: Kenzie (elle/iel) est allochtone et réside sur les territoires
   actuellement partie de ​​​​​​​Climate Justice Guelph, groupe qu'elle a cofondé
   à la fin de 2020. Kenzie travaille également comme responsable de l'éducation
   pour Banking on a Better Future.
-order: 3
+order: 4
 ---
