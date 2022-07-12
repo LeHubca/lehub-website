@@ -20,5 +20,5 @@ bio_fr: Avant de fonder le HUB, Tom (il) a travaillé comme consultant en
   consacre ses heures de bénévolat à la mise en place du réseau Blueprints for
   Change, qui produit des guides pratiques gratuits à l'intention des
   responsables du changement progressif.
-order: 8
+order: 5
 ---
