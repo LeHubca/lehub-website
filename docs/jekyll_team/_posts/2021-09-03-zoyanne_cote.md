@@ -1,7 +1,7 @@
 ---
 title: Zoyanne Côté
 layout: basic
-img: /media/17f799d0-29b8-42bf-9339-06aef69e970b.jpg
+img: /media/img_1931.jpeg
 title_en: Francophone Coordinator
 title_fr: Coordonnatrice francophone
 bio_en: Zoyanne (she/her) is a student minoring in Indigenous Studies at the
