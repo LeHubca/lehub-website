@@ -2,8 +2,8 @@
 title: Jacqueline Lee-Tam
 layout: basic
 img: /media/jacquelineleetam.jpeg
-title_en: Co-director
-title_fr: Co-directrice
+title_en: Director
+title_fr: Directrice
 bio_en: >
   Jacqueline Lee-Tam (she/her) grew up on the unceded territories of the
   Squamish, Musqueam and Tsleil-Waututh First Nations, in so-called Vancouver as
