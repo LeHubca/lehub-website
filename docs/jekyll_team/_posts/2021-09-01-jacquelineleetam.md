@@ -21,5 +21,5 @@ bio_fr: Jacqueline Lee-Tam (elle) a grandi sur les territoires non cédés des
   mettre en pratique le monde dans lequel nous souhaitons vivre. Elle a fait des
   études sur le genre, la sexualité, le féminisme et la justice sociale à
   l'Université McGill.
-order: 7
+order: 1
 ---
