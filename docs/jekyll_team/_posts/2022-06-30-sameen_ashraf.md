@@ -16,7 +16,7 @@ bio_fr: Sameen Ashraf (elle/iel) est une formatrice et facilitatrice d'ateliers
   Elle est née au Bangladesh et a grandi sur les territoires non cédés des
   Premières Nations q̓ʷɑ:n̓ƛ̓ən̓ (Kwantlen), SEMYOME (Semiahmoo), q̓ic̓əy̓
   (Katzie), kʷikʷəƛ̓əm (Kwikwetlem) et qiqéyt (Qayqayt). Sameen a obtenu un
-  diplôme en psychologie de l'Université Simon Fraser et a développé et animé
-  des ateliers d'antiracisme et d'anti-oppression depuis 2018.
+  diplôme en psychologie de l'Université Simon Fraser. Iel développe et anime
+  des ateliers sur l'antiracisme et l'anti-oppression depuis 2018.
 order: 17
 ---
