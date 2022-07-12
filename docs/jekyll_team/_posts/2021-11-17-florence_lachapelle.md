@@ -23,5 +23,5 @@ bio_fr: Florence (elle) a grandi et habite à Tio’tià :ke/Mooniyang/Montréa
   janvier 2020. Elle y a notamment fait du travail de mobilisation de grève
   étudiante dans différents établissements scolaires ainsi que de l’organisation
   d’actions.
-order: 6.5
+order: 4
 ---
