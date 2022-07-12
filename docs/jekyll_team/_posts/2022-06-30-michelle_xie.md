@@ -3,6 +3,7 @@ title: Michelle Xie
 layout: basic
 img: /media/michelle_xie.jpg
 title_en: Trainer
+title_fr: Formatrice
 bio_en: Michelle Xie (she/her) is a community organizer, facilitator, and
   sociology student at the University of British Columbia. She resides on the
   unceded homelands of the Musqueam, Squamish, and Tsleil-Waututh peoples,
@@ -12,4 +13,5 @@ bio_en: Michelle Xie (she/her) is a community organizer, facilitator, and
   shift power into the hands of the people. Michelle is currently a coordinator
   with Climate Justice UBC and is also the Climate Resilient Communities Lead at
   the UBC Sustainability Hub.
+order: 18
 ---
