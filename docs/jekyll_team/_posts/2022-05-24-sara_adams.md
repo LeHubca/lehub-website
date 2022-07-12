@@ -3,6 +3,7 @@ title: Sara Adams
 layout: basic
 img: /media/img_20210526_103409_379.jpg
 title_en: Anglophone Coordinator
+title_fr: Coordonatrice anglophone
 bio_en: Sara (she/her) is an educator, facilitator and organizer who grew up on
   the unceded territories of the Algonquin nation in so-called Ottawa. Based in
   Tio’tia:ke (Montréal), Sara has been involved in climate justice organizing
