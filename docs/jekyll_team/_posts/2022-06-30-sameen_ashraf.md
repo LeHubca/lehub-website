@@ -10,4 +10,5 @@ bio_en: Sameen Ashraf (she/they) is an educator and workshop facilitator who
   (Kwikwetlem), and qiqéyt (Qayqayt) First Nations. Sameen graduated from Simon
   Fraser University with a degree in psychology and has developed and
   facilitated anti-racism and anti-oppression workshops since 2018.
+order: 17
 ---
