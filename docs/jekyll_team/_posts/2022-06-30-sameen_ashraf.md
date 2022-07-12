@@ -3,6 +3,7 @@ title: Sameen Ashraf
 layout: basic
 img: /media/img_3127_1_.jpg
 title_en: Trainer
+title_fr: Formatrice
 bio_en: Sameen Ashraf (she/they) is an educator and workshop facilitator who
   believes that climate justice and racial justice are inextricably intertwined.
   She was born in Bangladesh and grew up on the unceded territories of the
