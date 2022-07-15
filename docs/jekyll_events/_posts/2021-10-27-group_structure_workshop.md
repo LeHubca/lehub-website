@@ -3,8 +3,6 @@ title: Group Structure Workshop
 permalink: /en/upcoming/groupstructureworkshop/
 lang: en
 dates:
-  - start: 2022-06-22T23:00:00.000Z
-    end: 2022-06-23T00:30:00.000Z
   - start: 2022-07-20T23:00:00.000Z
     end: 2022-07-21T00:30:00.000Z
 layout: event
