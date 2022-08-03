@@ -3,8 +3,8 @@ layout: secondary2021
 hideform: false
 secondary_page_title: Movement visioning discussions
 lang: en
-permalink: movementvisiontalks
-otherlang_url: discussionsvisionmovements
+permalink: /movementvisiontalks/
+otherlang_url: /discussionsvisionmovements/
 ---
 Starting in May of 2022, the HUB team and friends kicked off a series of movement visioning discussions in multiple locations across so-called Canada and Québec. 
 
