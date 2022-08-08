@@ -8,7 +8,7 @@ otherlang_url: /discussionsvisionmovements/
 ---
 ![](/media/howmuchfurthermed.png)
 
-Starting in May of 2022, the HUB team and friends kicked off a series of movement visioning discussions in multiple locations across so-called Canada and Québec.<br/><br/>These dialogues with climate justice organizers were kicked off by a drop of some big-picture movement ideas from HUB founder Tom Liacas with input from the HUB team as a whole, as well as HUB advisor Amara Possian, with input from a team of organizers she has been working with to “frontload” a new social movement organization to tackle the climate crisis and growing economic inequality. <br/><br/>City by city and region by region, we hope to keep these dialogues going to gather as many perspectives from the climate justice movement as possible and then communicate them back to you.<br/><br/>Below you will find some of the material we use to kick off local dialogues as well as accounts of what went down in different places where these talks have already happened.<br/>Quick links on this page:<br/>
+Starting in May of 2022, the HUB team and friends kicked off a series of movement visioning discussions in multiple locations across so-called Canada and Québec.<br/><br/>These dialogues with climate justice organizers were kicked off by a drop of some big-picture movement ideas from HUB founder Tom Liacas with input from the HUB team as a whole, as well as HUB advisor Amara Possian, with input from a team of organizers she has been working with to “frontload” a new social movement organization to tackle the climate crisis and growing economic inequality. <br/><br/>City by city and region by region, we hope to keep these dialogues going to gather as many perspectives from the climate justice movement as possible and then communicate them back to you.<br/><br/>Below you will find some of the material we use to kick off local dialogues as well as accounts of what went down in different places where these talks have already happened.<br/><br/>Quick links on this page:<br/><br/>
 \*\*\[→ 'How much further till systems change' thoughts from Amara Possian and Tom Liacas recorded on video](#video)<br/>
 \[→ Google doc visioning discussion guide](#guide)<br/>
 \[→ Vancouver event](#vancouver)<br/>
@@ -17,7 +17,15 @@ Starting in May of 2022, the HUB team and friends kicked off a series of movemen
 <br/>
 <a name="video"></a>
 
+### Video with kickoff thoughts from Tom and Amara
+
+This dialogue on video is kicked off by a drop of some big-picture movement ideas from HUB founder Tom Liacas with input from the HUB team as a whole, as well as HUB advisor Amara Possian with input from a team of organizers she has been working with to “frontload” a new social movement organization to tackle the climate crisis and growing economic inequality.
+
+These kickoff ideas are informed by research, personal organizing experience and historical perspectives, and presented to help climate justice organizers think through where they’re at in the movement-building cycle.
+
 <a name="guide"></a>
+
+### Visioning/discussion guide
 
 We prepared this guide to help local hosts facilitate their own version of the movement visioning talk.
 
@@ -27,6 +35,12 @@ Inside, you'll find kickoff ideas are informed by research, personal organizing 
 
 <a name="vancouver"></a>
 
+### Vancouver talk - June x
+
 <a name="montreal"></a>
 
+### Montreal talk - May 28th
+
 <a name="toronto"></a>
+
+### Toronto talk - May x
