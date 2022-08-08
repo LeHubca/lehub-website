@@ -16,23 +16,22 @@ Starting in May of 2022, the HUB team and friends kicked off a series of movemen
 [→ Toronto event](#toronto)**<br/>
 <br/>
 <a name="video"></a>
-
 ### Video with kickoff thoughts from Tom and Amara
 
-This dialogue on video is kicked off by a drop of some big-picture movement ideas from HUB founder Tom Liacas with input from the HUB team as a whole, as well as HUB advisor Amara Possian with input from a team of organizers she has been working with to “frontload” a new social movement organization to tackle the climate crisis and growing economic inequality.<br/><br/>
-These kickoff ideas are informed by research, personal organizing experience and historical perspectives, and presented to help climate justice organizers think through where they’re at in the movement-building cycle.
 
-<a name="guide"></a>
+This dialogue on video is kicked off by a drop of some big-picture movement ideas from HUB founder Tom Liacas with input from the HUB team as a whole, as well as HUB advisor Amara Possian with input from a team of organizers she has been working with to “frontload” a new social movement organization to tackle the climate crisis and growing economic inequality.<br/><br/>
+These kickoff ideas are informed by research, personal organizing experience and historical perspectives, and presented to help climate justice organizers think through where they’re at in the movement-building cycle.<a name="guide"></a>
 
 ### Visioning/discussion guide
 
 We prepared this guide to help local hosts facilitate their own version of the movement visioning talk.<br/><br/>
 Inside, you'll find kickoff ideas are informed by research, personal organizing experience and historical perspectives, and presented to help climate justice organizers think through where they’re at in the movement-building cycle. <br/><br/>
-**[→ Access the discussion guide here as a google doc and feel free to make yourselves a copy!](https://docs.google.com/document/d/1lRdAIXUYJgW4PmzbYRs8t2ZgPd7AcIPCVpWUcQIPvnw/edit#heading=h.vowe6359cnaw)**
+**[→ Access the discussion guide here as a google doc and feel free to make yourselves a copy!](https://docs.google.com/document/d/1lRdAIXUYJgW4PmzbYRs8t2ZgPd7AcIPCVpWUcQIPvnw/edit#heading=h.vowe6359cnaw)**<a name="vancouver"></a>
 
 ### Vancouver talk - June x
-<a name="vancouver"></a>
-### Montreal talk - May 28th
 <a name="montreal"></a>
-### Toronto talk - May x
+
+### Montreal talk - May 28th
 <a name="toronto"></a>
+
+### Toronto talk - May x
