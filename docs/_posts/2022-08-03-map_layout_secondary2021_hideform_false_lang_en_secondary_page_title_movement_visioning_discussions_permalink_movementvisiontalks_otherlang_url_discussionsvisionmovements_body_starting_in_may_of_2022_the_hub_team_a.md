@@ -30,11 +30,9 @@ We prepared this guide to help local hosts facilitate their own version of the m
 Inside, you'll find kickoff ideas are informed by research, personal organizing experience and historical perspectives, and presented to help climate justice organizers think through where they’re at in the movement-building cycle. <br/><br/>
 **[→ Access the discussion guide here as a google doc and feel free to make yourselves a copy!](https://docs.google.com/document/d/1lRdAIXUYJgW4PmzbYRs8t2ZgPd7AcIPCVpWUcQIPvnw/edit#heading=h.vowe6359cnaw)**
 
-<a name="vancouver"></a>
 ### Vancouver talk - June x
-<a name="montreal"></a>
+<a name="vancouver"></a>
 ### Montreal talk - May 28th
-
-<a name="toronto"></a>
-
+<a name="montreal"></a>
 ### Toronto talk - May x
+<a name="toronto"></a>
