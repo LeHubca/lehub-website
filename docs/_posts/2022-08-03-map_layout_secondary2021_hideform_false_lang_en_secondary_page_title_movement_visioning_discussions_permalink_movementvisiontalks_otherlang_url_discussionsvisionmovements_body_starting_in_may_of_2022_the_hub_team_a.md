@@ -23,7 +23,7 @@ This dialogue on video is kicked off by a drop of some big-picture movement idea
 These kickoff ideas are informed by research, personal organizing experience and historical perspectives, and presented to help climate justice organizers think through where they’re at in the movement-building cycle.<a name="guide"></a>
 
 ### Visioning/discussion guide
-
+![](/media/guidethumb.png)
 We prepared this guide to help local hosts facilitate their own version of the movement visioning talk.<br/><br/>
 Inside, you'll find kickoff ideas are informed by research, personal organizing experience and historical perspectives, and presented to help climate justice organizers think through where they’re at in the movement-building cycle. <br/><br/>
 **[→ Access the discussion guide here as a google doc and feel free to make yourselves a copy!](https://docs.google.com/document/d/1lRdAIXUYJgW4PmzbYRs8t2ZgPd7AcIPCVpWUcQIPvnw/edit#heading=h.vowe6359cnaw)**<a name="vancouver"></a>
