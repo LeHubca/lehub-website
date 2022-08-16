@@ -3,8 +3,8 @@ title: Cercle de partage - Enjeux LGBTQIAS2+ et justice climatique
 permalink: /fr/avenir/cercleaout/
 lang: fr
 dates:
-  - start: 2022-08-23T22:00:00.000Z
-    end: 2022-08-24T00:00:00.000Z
+  - start: 2022-09-15T22:00:00.000Z
+    end: 2022-09-16T00:00:00.000Z
 layout: event
 ---
 ![](/media/mailchimp_cercle_de_partage_lgbtqia2s_.png)
