@@ -2,7 +2,9 @@
 title: Anti-Oppression and Intersectionality 101 Workshop
 permalink: /en/upcoming/antioppression/
 lang: en
-dates: []
+dates:
+  - start: 2022-09-21T23:00:00.000Z
+    end: 2022-09-22T00:30:00.000Z
 layout: event
 ---
 ![]()
