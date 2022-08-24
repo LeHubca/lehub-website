@@ -23,15 +23,15 @@ Starting in May of 2022, the HUB team and friends kicked off a series of movemen
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0hRVXQ2pzao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 This dialogue on video is kicked off by a drop of some big-picture movement ideas from HUB founder Tom Liacas with input from the HUB team as a whole, as well as HUB advisor Amara Possian with input from a team of organizers she has been working with to “frontload” a new social movement organization to tackle the climate crisis and growing economic inequality.<br/><br/>
-These kickoff ideas are informed by research, personal organizing experience and historical perspectives, and presented to help climate justice organizers think through where they’re at in the movement-building cycle.<a name="guide"></a>
+These kickoff ideas are informed by research, personal organizing experience and historical perspectives, and presented to help climate justice organizers think through where they’re at in the movement-building cycle.
+<a name="guide"></a>
 
-Highlighted moments in this video:\
-\
-[0:00](https://www.youtube.com/watch?v=0hRVXQ2pzao&t=0s) Introduction \
-[4:10](https://www.youtube.com/watch?v=0hRVXQ2pzao&t=250s) Discussion theme 1: Where are we at now? \
-[15:04](https://www.youtube.com/watch?v=0hRVXQ2pzao&t=904s) Tom and Amara present Bill Moyer's Movement Action Plan [\
-23:54](https://www.youtube.com/watch?v=0hRVXQ2pzao&t=1434s) Discussion theme 2: How much further? \
-[30:17](https://www.youtube.com/watch?v=0hRVXQ2pzao&t=1817s) Tom and Amara look at the turnout numbers for 2019 climate protests in Québec. \
+Highlighted moments in this video:<br/><br/>
+[0:00](https://www.youtube.com/watch?v=0hRVXQ2pzao&t=0s) Introduction <br/>
+[4:10](https://www.youtube.com/watch?v=0hRVXQ2pzao&t=250s) Discussion theme 1: Where are we at now? <br/>
+[15:04](https://www.youtube.com/watch?v=0hRVXQ2pzao&t=904s) Tom and Amara present Bill Moyer's Movement Action Plan <br/>[
+23:54](https://www.youtube.com/watch?v=0hRVXQ2pzao&t=1434s) Discussion theme 2: How much further? <br/>
+[30:17](https://www.youtube.com/watch?v=0hRVXQ2pzao&t=1817s) Tom and Amara look at the turnout numbers for 2019 climate protests in Québec. <br/>
 [39:17](https://www.youtube.com/watch?v=0hRVXQ2pzao&t=2357s) Discussion theme 3: How do we get there?
 
 ### Visioning/discussion guide
