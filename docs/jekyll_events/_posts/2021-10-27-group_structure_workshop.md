@@ -8,8 +8,6 @@ dates:
 layout: event
 img: []
 ---
-The HUB's Structure 101 Workshop is coming up on September 7 at 7pm EST! 🌱\
-\
 The goal of this workshop is to empower participants to build a transparent and effective group structure that lines up with their group's purpose and Theory of Change.\
 \
 In this workshop, participants will learn how to successfully build non-hierarchical groups with an effective, democratic decision-making process and transparent group structure.\
