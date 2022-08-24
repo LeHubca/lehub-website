@@ -32,9 +32,10 @@ We prepared this guide to help local hosts facilitate their own version of the m
 ### Vancouver talk - July 8th
 
 On July 8th, the HUB hosted an in-person gathering in so-called Vancouver for local climate justice organizers. As participants enjoyed a picnic-style gathering and getting to see new and old faces alike, they also engaged in a facilitated discussion about the state of the climate movement and what next steps need to be taken to scale up our impact. 
-<a name="montreal"></a>
 
+A breakout discussion group pictured below, while respecting activist privacy of course!
 ![](/media/vancouverpic.png)
+<a name="montreal"></a>
 
 
 ### Montreal talk - May 28th
@@ -42,9 +43,10 @@ On July 8th, the HUB hosted an in-person gathering in so-called Vancouver for lo
 On May 28th, the HUB hosted an in-person gathering in Tiohti:áke (also known as Montréal) for a day-long event. During the event, participants had the opportunity to socialize with other local climate and social justice organizers, as well as try their hand at making silkscreen-printed t-shirts and create their own linocut prints. A table with resources on the rights of protestors and activists was also available for general access. 
 
 The main panel discussion of the event included members of various organizations fighting for social and environmental justice. One of the core learnings from the event was the importance of progressive organizations to organize and build together in order to construct a powerful convergence of struggles. 
-<a name="toronto"></a>
 
+Pictured below are MC Albert Lalonde, panelists Jen Gobby, Hady Kodoye Anne, Rushdia Mehreen and moderator Tom Liacas
 ![](/media/montrealpic.jpg)
+<a name="toronto"></a>
 
 
 ### Toronto talk - May 12th
@@ -53,6 +55,7 @@ On May 12th, the HUB hosted an in-person evening gathering in Tkaronto (also kno
 
 Following short reflections offered by Tom on the topics mentioned above, participants broke out into facilitated discussion groups to share their insights about the current state of the climate movement and what opportunities lie ahead for building power at this moment in the movement building cycle. 
 
+Pictured here are some Toronto folks discussing and having fun, respecting activist privacy of course!
 ![](/media/torontopic.png)
 
 
