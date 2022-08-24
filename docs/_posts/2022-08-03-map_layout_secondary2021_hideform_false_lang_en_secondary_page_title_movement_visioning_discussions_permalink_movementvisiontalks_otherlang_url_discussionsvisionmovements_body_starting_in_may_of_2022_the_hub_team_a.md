@@ -36,6 +36,13 @@ We prepared this guide to help local hosts facilitate their own version of the m
 
 ### Montreal talk - May 28th
 
+On May 28th, the HUB hosted an in-person gathering in Tiohti:áke (also known as Montréal) for a day-long event. During the event, participants had the opportunity to socialize with other local climate and social justice organizers, as well as try their hand at making silkscreen-printed t-shirts and create their own linocut prints. A table with resources on the rights of protestors and activists was also available for general access. 
+
+The main panel discussion of the event included members of various organizations fighting for social and environmental justice. One of the core learnings from the event was the importance of progressive organizations to organize and build together in order to construct a powerful convergence of struggles. 
+
+![](/media/montrealpic.jpg)
+
+
 <a name="toronto"></a>
 
 ### Toronto talk - May 12th
