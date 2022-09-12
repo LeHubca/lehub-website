@@ -6,8 +6,4 @@ lang: en
 permalink: /website-training/how-to-center-image
 otherlang_url: /website-training/how-to-center-image
 ---
-<div style="text-align:center;">
-
-![Icon of person walking in yellow button](/media/badge_shared_badge.png "Icon of person walking in yellow button")
-
-</div>
+<div style="text-align:center;"><img src="/media/badge_shared_badge.png" alt="Icon of person walking in yellow button"/></div>
