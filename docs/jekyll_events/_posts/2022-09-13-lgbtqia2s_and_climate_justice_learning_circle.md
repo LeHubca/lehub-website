@@ -21,4 +21,4 @@ What makes a group welcoming to LGBTQIA2S+ people?\
 \
 \*We wish to open this space for LGBTQIA2S+ folks only. Thank you! \*\
 \
-Register at the link in bio 🔥
+Register for this event [here.](https://us02web.zoom.us/meeting/register/tZwsdumgrDIoGN3ZhqhvURIGPdxdfyYMCc9q?fbclid=IwAR2S0XbHkjk4JQiI_tG4JUqrrZQirKFWzPKCoKb-KlaKEXgHzwDKLqenHIc)
