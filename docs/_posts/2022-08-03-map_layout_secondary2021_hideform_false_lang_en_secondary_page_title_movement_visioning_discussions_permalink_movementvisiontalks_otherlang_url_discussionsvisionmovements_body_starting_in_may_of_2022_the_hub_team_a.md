@@ -21,7 +21,7 @@ Starting in May of 2022, the HUB team and friends kicked off a series of movemen
 
 ### Video with kickoff thoughts from Tom and Amara
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0hRVXQ2pzao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/0hRVXQ2pzao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 This dialogue on video is kicked off by a drop of some big-picture movement ideas from HUB founder Tom Liacas with input from the HUB team as a whole, as well as HUB advisor Amara Possian with input from a team of organizers she has been working with to “frontload” a new social movement organization to tackle the climate crisis and growing economic inequality.<br/><br/>
 These kickoff ideas are informed by research, personal organizing experience and historical perspectives, and presented to help climate justice organizers think through where they’re at in the movement-building cycle.
 <a name="guide"></a>
