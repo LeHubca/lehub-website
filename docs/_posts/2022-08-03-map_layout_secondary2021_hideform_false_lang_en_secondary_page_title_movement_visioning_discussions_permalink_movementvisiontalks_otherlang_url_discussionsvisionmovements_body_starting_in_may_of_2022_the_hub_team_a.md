@@ -10,7 +10,6 @@ Starting in May of 2022, the HUB team and friends kicked off a series of movemen
 <div style="text-align:center;"><img src="/media/hubmovementvisioningtalks.png" alt="movement visioning banner"/></div>
 <br/>City by city and region by region, we hope to keep these dialogues going to gather as many perspectives from the climate justice movement as possible and then communicate them back to you.<br/><br/>Below you will find some of the material we use to kick off local dialogues as well as accounts of what went down in different places where these talks have already happened.<br/><br/>
 <div style="text-align:center;"><img src="/media/howmuchfurthermed.png" alt="movement visioning banner"/></div>
-<div style="text-align:center;">
 
 ## Quick links on this page:
 
