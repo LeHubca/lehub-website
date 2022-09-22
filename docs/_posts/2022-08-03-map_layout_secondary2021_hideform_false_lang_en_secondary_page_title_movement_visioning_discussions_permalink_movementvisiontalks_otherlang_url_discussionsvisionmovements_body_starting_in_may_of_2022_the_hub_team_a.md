@@ -10,15 +10,18 @@ Starting in May of 2022, the HUB team and friends kicked off a series of movemen
 <div style="text-align:center;"><img src="/media/hubmovementvisioningtalks.png" alt="movement visioning banner"/></div>
 <br/>City by city and region by region, we hope to keep these dialogues going to gather as many perspectives from the climate justice movement as possible and then communicate them back to you.<br/><br/>Below you will find some of the material we use to kick off local dialogues as well as accounts of what went down in different places where these talks have already happened.<br/>
 <div style="text-align:center;"><img src="/media/howmuchfurthermed.png" alt="movement visioning banner"/></div>
+<div style="text-align:center;"> 
 
-## Quick links on this page:
+## Quick links on this page:</div>
+<div style="text-align:center;"> 
 
 **→ [Kickoff thoughts from Amara Possian and Tom Liacas recorded on video](#video)<br/>
 → [Google doc visioning discussion guide](#guide)<br/>
 → [Vancouver event](#vancouver)<br/>
 → [Montreal event](#montreal)<br/>
-→ [Toronto event](#toronto)**<br/></div>
-<br/>
+→ [Toronto event](#toronto)**
+</div>
+
 <a name="video"></a>
 
 
