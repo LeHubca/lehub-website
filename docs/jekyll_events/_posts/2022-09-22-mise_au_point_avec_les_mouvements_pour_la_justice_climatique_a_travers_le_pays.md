@@ -1,5 +1,5 @@
 ---
-title: Mise au point avec les mouvements pour la justice climatique à travers le pays
+title: Cross-Country Climate Justice Check-In
 permalink: /en/upcoming/checkindec2022/
 lang: en
 dates:
