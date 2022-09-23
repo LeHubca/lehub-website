@@ -12,9 +12,7 @@ Starting in May of 2022, the HUB team and friends kicked off a series of movemen
 <div style="text-align:center;"><img src="/media/howmuchfurthermed.png" alt="movement visioning banner"/></div>
 <div style="text-align:center;"> 
 
-## Quick links on this page:</div>
-
-<div style="text-align:center;"> 
+## Quick links on this page:
 
 → [Kickoff thoughts from Amara Possian and Tom Liacas recorded on video](#video)<br/>
 → [Google doc visioning discussion guide](#guide)<br/>
@@ -34,7 +32,7 @@ This dialogue on video is kicked off by a drop of some big-picture movement idea
 These kickoff ideas are informed by research, personal organizing experience and historical perspectives, and presented to help climate justice organizers think through where they’re at in the movement-building cycle.
 <a name="guide"></a>
 
-Highlighted moments in this video:<br/><br/>
+**Highlighted moments in this video:**<br/><br/>
 [0:00](https://www.youtube.com/watch?v=0hRVXQ2pzao&t=0s) Introduction <br/>
 [4:10](https://www.youtube.com/watch?v=0hRVXQ2pzao&t=250s) Discussion theme 1: Where are we at now? <br/>
 [15:04](https://www.youtube.com/watch?v=0hRVXQ2pzao&t=904s) Tom and Amara present Bill Moyer's Movement Action Plan <br/>[
