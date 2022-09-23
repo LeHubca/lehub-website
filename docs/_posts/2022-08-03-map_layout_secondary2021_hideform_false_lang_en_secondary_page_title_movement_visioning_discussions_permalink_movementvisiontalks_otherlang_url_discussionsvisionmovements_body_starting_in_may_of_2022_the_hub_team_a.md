@@ -16,12 +16,11 @@ Starting in May of 2022, the HUB team and friends kicked off a series of movemen
 
 <div style="text-align:center;"> 
 
-**
 → [Kickoff thoughts from Amara Possian and Tom Liacas recorded on video](#video)<br/>
 → [Google doc visioning discussion guide](#guide)<br/>
 → [Vancouver event](#vancouver)<br/>
 → [Montreal event](#montreal)<br/>
-→ [Toronto event](#toronto)**
+→ [Toronto event](#toronto)
 
 </div>
 
