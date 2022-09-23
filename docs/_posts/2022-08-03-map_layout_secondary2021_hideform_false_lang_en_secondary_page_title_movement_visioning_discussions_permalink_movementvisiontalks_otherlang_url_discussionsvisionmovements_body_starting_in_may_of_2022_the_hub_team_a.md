@@ -8,9 +8,10 @@ otherlang_url: /discussionsvisionmovements/
 ---
 Starting in May of 2022, the HUB team and friends kicked off a series of movement visioning discussions in multiple locations across so-called Canada and Québec.<br/><br/>These dialogues with climate justice organizers were kicked off by a drop of some big-picture movement ideas from HUB founder Tom Liacas with input from the HUB team as a whole, as well as HUB advisor Amara Possian, with input from a team of organizers she has been working with to “frontload” a new social movement organization to tackle the climate crisis and growing economic inequality.<br/>
 <div style="text-align:center;"><img src="/media/hubmovementvisioningtalks.png" alt="movement visioning banner"/></div>
-<br/>City by city and region by region, we hope to keep these dialogues going to gather as many perspectives from the climate justice movement as possible and then communicate them back to you.<br/><br/>Below you will find some of the material we use to kick off local dialogues as well as accounts of what went down in different places where these talks have already happened.<br/>
-<div style="text-align:center;"><img src="/media/howmuchfurthermed.png" alt="movement visioning banner"/></div>
-<div style="text-align:center;"> 
+<br/>City by city and region by region, we hope to keep these dialogues going to gather as many perspectives from the climate justice movement as possible and then communicate them back to you.<br/><br/>Below you will find some of the material we use to kick off local dialogues as well as accounts of what went down in different places where these talks have already happened.<br/><br/>
+
+<div style="text-align:center;">
+<img src="/media/howmuchfurthermed.png" alt="movement visioning banner">
 
 ## Quick links on this page:
 
@@ -33,7 +34,8 @@ These kickoff ideas are informed by research, personal organizing experience and
 <a name="guide"></a>
 
 **Highlighted moments in this video:**
-<br/><br/>
+<br/>
+
 [0:00](https://www.youtube.com/watch?v=0hRVXQ2pzao&t=0s) Introduction <br/>
 [4:10](https://www.youtube.com/watch?v=0hRVXQ2pzao&t=250s) Discussion theme 1: Where are we at now? <br/>
 [15:04](https://www.youtube.com/watch?v=0hRVXQ2pzao&t=904s) Tom and Amara present Bill Moyer's Movement Action Plan <br/>[
