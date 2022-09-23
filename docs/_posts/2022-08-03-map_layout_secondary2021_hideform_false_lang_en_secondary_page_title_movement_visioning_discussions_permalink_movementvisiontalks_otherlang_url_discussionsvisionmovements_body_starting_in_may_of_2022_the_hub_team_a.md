@@ -8,7 +8,8 @@ otherlang_url: /discussionsvisionmovements/
 ---
 Starting in May of 2022, the HUB team and friends kicked off a series of movement visioning discussions in multiple locations across so-called Canada and Québec.<br/><br/>These dialogues with climate justice organizers were kicked off by a drop of some big-picture movement ideas from HUB founder Tom Liacas with input from the HUB team as a whole, as well as HUB advisor Amara Possian, with input from a team of organizers she has been working with to “frontload” a new social movement organization to tackle the climate crisis and growing economic inequality.<br/>
 <div style="text-align:center;"><img src="/media/hubmovementvisioningtalks.png" alt="movement visioning banner"/></div>
-<br/>City by city and region by region, we hope to keep these dialogues going to gather as many perspectives from the climate justice movement as possible and then communicate them back to you.<br/><br/>Below you will find some of the material we use to kick off local dialogues as well as accounts of what went down in different places where these talks have already happened.
+<br/>City by city and region by region, we hope to keep these dialogues going to gather as many perspectives from the climate justice movement as possible and then communicate them back to you.<br/><br/>Want to host a climate justice movement-visioning discussion in your town/region/territory with support from the HUB?
+[Apply to become a local host using this form] (https://docs.google.com/forms/d/e/1FAIpQLScWI4UJMj-J-rEIEsYFBqY6ZwO2VlMDZaLYIDQzicIsI73sQ/viewform)<br/><br/> Below you will find some of the material we use to kick off local dialogues as well as accounts of what went down in different places where these talks have already happened.
 
 ## Quick links on this page:
 
@@ -37,7 +38,6 @@ These kickoff ideas are informed by research, personal organizing experience and
 
 ### Visioning/discussion guide
 We prepared this guide to help local hosts facilitate their own version of the movement visioning talk. Inside, you'll find kickoff ideas are informed by research, personal organizing experience and historical perspectives, and presented to help climate justice organizers think through where they’re at in the movement-building cycle. 
-
 <div style="text-align:center;">
 <img src="/media/howmuchfurthermed.png" alt="movement visioning banner"></div>
 
