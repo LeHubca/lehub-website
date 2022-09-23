@@ -15,7 +15,6 @@ Additionally, learning the skills to build cultures of care in our grassroots gr
 \
 In this first workshop in the HUB's Care series, participants will leave the session with the knowledge and tools to:\
 \
-*identify and advocate for your and others' care needs*promote group safety through the SCARF model\
-*incorporate Care Webs in your organizing groups*give and receive constructive feedback by using healthy communication principles
+identify and advocate for your and others' care needs, promote group safety through the SCARF model, incorporate Care Webs in your organizing groups, and give and receive constructive feedback by using healthy communication principles. 
 
 [S﻿ign up here!](https://us02web.zoom.us/meeting/register/tZEtcu-vpzojE9dP1UKLFG2_KTmou_OMApUq)
