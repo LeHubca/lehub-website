@@ -27,8 +27,7 @@ This dialogue on video is kicked off by a drop of some big-picture movement idea
 These kickoff ideas are informed by research, personal organizing experience and historical perspectives, and presented to help climate justice organizers think through where they’re at in the movement-building cycle.
 <a name="guide"></a>
 
-**Highlighted moments in this video:**
-
+**Highlighted moments in this video:**<br/><br/>
 [0:00](https://www.youtube.com/watch?v=0hRVXQ2pzao&t=0s) Introduction <br/>
 [4:10](https://www.youtube.com/watch?v=0hRVXQ2pzao&t=250s) Discussion theme 1: Where are we at now? <br/>
 [15:04](https://www.youtube.com/watch?v=0hRVXQ2pzao&t=904s) Tom and Amara present Bill Moyer's Movement Action Plan <br/>[
@@ -37,14 +36,13 @@ These kickoff ideas are informed by research, personal organizing experience and
 [39:17](https://www.youtube.com/watch?v=0hRVXQ2pzao&t=2357s) Discussion theme 3: How do we get there?
 
 ### Visioning/discussion guide
-
 We prepared this guide to help local hosts facilitate their own version of the movement visioning talk. Inside, you'll find kickoff ideas are informed by research, personal organizing experience and historical perspectives, and presented to help climate justice organizers think through where they’re at in the movement-building cycle. 
 
 <div style="text-align:center;">
-<img src="/media/howmuchfurthermed.png" alt="movement visioning banner">
+<img src="/media/howmuchfurthermed.png" alt="movement visioning banner"></div>
 
 **[→ Access the discussion guide here as a google doc and feel free to make yourselves a copy!](https://docs.google.com/document/d/1lRdAIXUYJgW4PmzbYRs8t2ZgPd7AcIPCVpWUcQIPvnw/edit#heading=h.vowe6359cnaw)**
-</div>
+
 
 <a name="vancouver"></a>
 
