@@ -3,8 +3,8 @@ title: Structure 101 Workshop
 permalink: /en/upcoming/structure101workshop/
 lang: en
 dates:
-  - start: 2022-09-07T23:00:00.000Z
-    end: 2022-09-08T00:30:00.000Z
+  - start: 2022-10-06T02:00:00.000Z
+    end: 2022-10-06T03:30:00.000Z
 layout: event
 img: []
 ---
@@ -16,4 +16,4 @@ In this workshop, participants will learn how to successfully build non-hierarch
 \
 Additionally, participants will be introduced to several group structure frameworks and learn how certain frameworks can lead to more sustainable & successful grassroots groups.
 
-Register for this workshop [here.](https://us02web.zoom.us/meeting/register/tZYtcuqopz4tE9ADf0oCMKB4F3oU8y6Us7zD)
+Register for the[ Oct 5 PST wor](https://us02web.zoom.us/meeting/register/tZArdOCtpjwoHNA1EXM_uivgqYru4TKQ0YL2)kshop [](https://us02web.zoom.us/meeting/register/tZArdOCtpjwoHNA1EXM_uivgqYru4TKQ0YL2)
