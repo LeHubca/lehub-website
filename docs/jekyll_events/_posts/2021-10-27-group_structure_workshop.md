@@ -16,4 +16,6 @@ In this workshop, participants will learn how to successfully build non-hierarch
 \
 Additionally, participants will be introduced to several group structure frameworks and learn how certain frameworks can lead to more sustainable & successful grassroots groups.
 
-Register for the[ Oct 5 PST wor](https://us02web.zoom.us/meeting/register/tZArdOCtpjwoHNA1EXM_uivgqYru4TKQ0YL2)kshop [](https://us02web.zoom.us/meeting/register/tZArdOCtpjwoHNA1EXM_uivgqYru4TKQ0YL2)
+[Register for the Oct 5 PST workshop here](https://us02web.zoom.us/meeting/register/tZArdOCtpjwoHNA1EXM_uivgqYru4TKQ0YL2)
+
+[R﻿egister for the Oct 26 EST workshop here.](https://us02web.zoom.us/meeting/register/tZUqdO2qqzssHNY3VZRYZH4US_dq9MG2PxSc)[](https://us02web.zoom.us/meeting/register/tZArdOCtpjwoHNA1EXM_uivgqYru4TKQ0YL2)
