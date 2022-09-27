@@ -18,3 +18,5 @@ Pour ce faire, le HUB organise un appel virtuel pancanadien ouvert à l'ensemble
 Nous espérons vous y voir ! Une interprétation simultanée entre l'anglais et le français sera disponible.
 
 I﻿nscription **[ici](https://us02web.zoom.us/meeting/register/tZEscOyqqTosG9aUQy4kJT5roAAgevIoBSvP)**.
+
+![](/media/hub_scf.png)
