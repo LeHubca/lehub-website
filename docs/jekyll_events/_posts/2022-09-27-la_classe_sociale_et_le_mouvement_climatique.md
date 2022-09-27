@@ -17,4 +17,4 @@ Une traduction simultanée sera disponible en EN et FR.
 
 I﻿nscription obligatoire **[ici](https://us02web.zoom.us/meeting/register/tZ0pcuCorD8vH9e_pScHqMmW2TwgYnI6W0D5)**.
 
-![](/media/sans_titre_6_.png)
+![](/media/hub_scf.png)
