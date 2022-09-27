@@ -4,7 +4,7 @@ permalink: /fr/avenir/classesocialeetmouvementclimatique/
 lang: fr
 dates:
   - start: 2022-11-02T23:00:00.000Z
-    end: 2022-11-03T00:30:00.000Z
+    end: ""
 layout: event
 ---
 ![](/media/facebook_event_image_600_200_px_.png)
