@@ -5,8 +5,6 @@ lang: en
 dates:
   - start: 2022-10-19T23:00:00.000Z
     end: 2022-10-20T00:30:00.000Z
-  - start: 2022-10-20T23:00:00.000Z
-    end: 2022-10-21T00:30:00.000Z
 layout: event
 ---
 ![](/media/1.png)
