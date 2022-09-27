@@ -13,10 +13,8 @@ layout: event
 
 The goal of this workshop is to help participants create realistic and attainable group campaign strategies. In addition to introducing participants to the principles of good strategy, this workshop teaches participants how to facilitate group strategy-making sessions so that they can find a balance between collaborative decision-making and creating detailed and realizable group strategy.
 
-
-
 F﻿or Oct 19: [Register here! ](https://us02web.zoom.us/meeting/register/tZMrcuqvrjgrEtaTOFtWcy2y7sdM0g5SUmq0)[](https://us02web.zoom.us/meeting/register/tZcrd-igrj8jHdDt23s0ghqOvTb8-Hbk4K_S)
 
-F﻿or Oct 20: [Register here!](https://us02web.zoom.us/meeting/register/tZYpf-itqDgtG9DAKsAv5dKJx20tyvITFYW-)
+
 
 [](https://us02web.zoom.us/meeting/register/tZUofumoqjspE9wcNBTO0XY6SgfBP6LgcDBV)[](https://us02web.zoom.us/meeting/register/tZUofumoqjspE9wcNBTO0XY6SgfBP6LgcDBV)
