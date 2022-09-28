@@ -1,7 +1,7 @@
 ---
 title: Isabelle Grondin-Hernandez
 layout: basic
-img: /media/ab00664a-fd02-49bd-b4a2-d322c9545c06.jpg
+img: /media/photoisabelle.png
 title_en: Trainer
 title_fr: Formatrice
 bio_en: >
