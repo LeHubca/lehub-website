@@ -30,3 +30,5 @@ Les sessions de consultation du HUB auront lieu les jours suivants, de 14h à 15
 Aucune inscription n'est nécessaire. Il vous suffit de vous rendre sur le lien juste **[ici](https://us02web.zoom.us/s/85365560630#success)**.\
 \
 Nous espérons vous y voir🌿
+
+![](/media/hub_scf.png)
