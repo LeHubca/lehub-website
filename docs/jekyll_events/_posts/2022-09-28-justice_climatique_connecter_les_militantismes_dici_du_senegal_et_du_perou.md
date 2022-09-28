@@ -10,4 +10,8 @@ layout: event
 ---
 ![](/media/200822_600x200_v2.png)
 
-Inscription obligatoire juste **[ici](<https://us02web.zoom.us/meeting/register/tZElfuyuqD4pGdd9mcy4VaiIgtqr6gYKYfmR>)**.
+D﻿escription à venir
+
+Inscription obligatoire juste **[ici](https://us02web.zoom.us/meeting/register/tZElfuyuqD4pGdd9mcy4VaiIgtqr6gYKYfmR)**.
+
+![](/media/hub_scf.png)
