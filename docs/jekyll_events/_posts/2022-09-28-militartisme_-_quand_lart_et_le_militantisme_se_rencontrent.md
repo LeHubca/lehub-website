@@ -8,3 +8,7 @@ dates:
 layout: event
 ---
 ![](/media/210822_600x200.png)
+
+D﻿escription à venir
+
+![](/media/hub_scf.png)
