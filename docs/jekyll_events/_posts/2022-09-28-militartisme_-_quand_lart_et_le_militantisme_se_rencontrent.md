@@ -25,4 +25,6 @@ Nous vous demandons de porter un masque et de rester chez vous en cas de symptô
 
 
 
+**P﻿our réserver un billet, c'est juste [ici](https://lepointdevente.com/billets/8lx221021001).**
+
 ![](/media/hub_scf.png)
