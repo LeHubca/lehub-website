@@ -9,7 +9,8 @@ layout: event
 ---
 ![](/media/210822_600x200.png)
 
-Pour répondre à ce besoin toujours brûlant de lier la création artistique et l'action politique, le HUB et OXFAM-Québec organisent cette soirée artistique militante atelier-discussion le 21 octobre prochain, à 18h.\
+Pour répondre à ce besoin toujours brûlant de lier la création artistique et l'action politique, le HUB et OXFAM-Québec organisent cette soirée artistique militante atelier-discussion le 21 octobre prochain, à 18h.
+
 Jorge Castillo, Noemi Reyes et Lamine Mamadou Diagne qui militent pour la justice climatique au Pérou ainsi qu'au Sénégal seront des nôtres pour cette soirée de création artistique! Nous fournirons du matériel d'art (linogravure, peinture, coloriage, poésie), mais nous vous encourageons également à apporter votre matériel si ça vous dit ! Comment ça va se dérouler ? On met de la musique, on sort nos crayons et nos pinceaux, on jase de poésie, de performance, de théâtre, de dessin, et de comment tout ça a un immense potentiel révolutionnaire. Si vous voulez une soirée relax empreinte d'art et de belles discussions sur la justice climatique au Pérou, au Sénégal et ici, cet événement est fait pour vous !
 
 Accessibilité\
