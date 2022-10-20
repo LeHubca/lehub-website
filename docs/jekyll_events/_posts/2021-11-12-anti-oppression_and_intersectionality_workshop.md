@@ -13,6 +13,4 @@ The goal of this workshop is to equip participants with foundational concepts an
 
 Topics include environmentalism in the context of settler colonialism and how to be an effective ally in the climate movement. 
 
-[F﻿or Oct 11, register here.](https://us02web.zoom.us/meeting/register/tZwodeGtrjwuG9CXaJanI8QCkYzbkKsuzNQf)
-
-F﻿or October 27 (PST offering), [register here!](https://us02web.zoom.us/meeting/register/tZUlfuuspj0rHtVKhe3vO8WyW9hY-Vgqi-mj)
+F﻿or October 27 (PST timezone) [register here!](https://us02web.zoom.us/meeting/register/tZUlfuuspj0rHtVKhe3vO8WyW9hY-Vgqi-mj)
