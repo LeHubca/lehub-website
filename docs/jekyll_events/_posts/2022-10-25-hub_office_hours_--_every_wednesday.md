@@ -22,4 +22,4 @@ October 26\
 \
 No registration necessary. Just drop in at the link in our bio. We hope to see you there 🪄
 
-H﻿ere is the link to join: https://us02web.zoom.us/s/85365560630#success
+[R﻿egister here!](https://us02web.zoom.us/s/85365560630#success)
