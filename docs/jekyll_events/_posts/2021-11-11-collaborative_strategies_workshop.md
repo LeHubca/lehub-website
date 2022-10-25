@@ -1,5 +1,5 @@
 ---
-title: Strategy 101 Workshop
+title: Strategy 101 Workshop (EST)
 permalink: /en/upcoming/collaborativestrategy/
 lang: en
 dates:
