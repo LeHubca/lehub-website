@@ -9,4 +9,4 @@ layout: event
 ---
 The climate movement has a lot to learn from the disability justice movement. In this workshop, participants will learn about the principles of disability justice, crip time, spoon theory, and care practices that consider invisible and visible disabilities so we can build robust, inclusive and anti-ableist movement spaces.
 
-R﻿egister for the Oct 26th workshop here: https://us02web.zoom.us/meeting/register/tZEtceitrTojHdW52WRfp3YmGUqRWZCXpbey.
+[R﻿egister for the Oct 26th workshop here.](https://us02web.zoom.us/meeting/register/tZEtceitrTojHdW52WRfp3YmGUqRWZCXpbey.)
