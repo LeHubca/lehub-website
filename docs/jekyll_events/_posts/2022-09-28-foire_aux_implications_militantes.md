@@ -20,4 +20,4 @@ Nous nous réservons le droit de refuser des présentations si ces dernières ne
 \*\**Évidemment, comme l’appel se fera sur Zoom, vous ne devez pas partager d’informations sensibles.
 
 **\
-👉** INSCRIPTION OBLIGATOIRE** [ICI](**<https://us02web.zoom.us/meeting/register/tZApc-qhrj8sGdVTdLNE9YDvhWpnLHepX9sK>**)**.
+👉** INSCRIPTION OBLIGATOIRE **[ICI](https://us02web.zoom.us/meeting/register/tZApc-qhrj8sGdVTdLNE9YDvhWpnLHepX9sK)**
