@@ -11,4 +11,4 @@ The goal of this workshop is to equip participants with foundational concepts an
 \
 Topics include environmentalism in the context of settler colonialism, why climate action must include social justice, and how to be an effective ally or accomplice in the climate movement.
 
-R﻿egister here: https://us02web.zoom.us/meeting/register/tZ0qdOyoqzkiGtL72C7BG4*BSMeaENpEokr.*
+[R﻿egister for this workshop here.](https://us02web.zoom.us/meeting/register/tZ0qdOyoqzkiGtL72C7BG4*BSMeaENpEokr.*)
