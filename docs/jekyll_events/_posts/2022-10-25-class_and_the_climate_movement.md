@@ -1,5 +1,5 @@
 ---
-title: Class and the Climate Movement
+title: Class and the Climate Movement Panel Discussion
 permalink: /en/avenir/classesocialeetmouvementclimatique/
 lang: en
 dates:
