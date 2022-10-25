@@ -1,6 +1,6 @@
 ---
-title: Anti-Oppression and Intersectionality 101 Workshop
-permalink: /en/upcoming/antioppression/
+title: Anti-Oppression and Intersectionality 101 Workshop (PST)
+permalink: /en/upcoming/antioppressionpst/
 lang: en
 dates:
   - start: 2022-11-10T02:00:00.000Z
