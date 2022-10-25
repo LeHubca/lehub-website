@@ -13,13 +13,6 @@ During the month of October, HUB team members will be holding open, online offic
 \
 We can't guarantee that we'll have all the answers, but we will do our best to guide your decision-making and find the support that works best for you!\
 \
-HUB Office Hours will be held on the following days from 2-3pm EST:\
-\
-October 5\
-October 12\
-October 19\
-October 26\
-\
 No registration necessary. Just drop in at the link in our bio. We hope to see you there 🪄
 
-[R﻿egister here!](https://us02web.zoom.us/s/85365560630#success)
+[L﻿ink to join here!](https://us02web.zoom.us/s/85365560630#success)[](https://us02web.zoom.us/s/85365560630#success)
