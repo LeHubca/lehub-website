@@ -1,5 +1,5 @@
 ---
-title: Anti-Oppression and Intersectionality 101 Workshop (PST)
+title: Anti-Oppression and Intersectionality 101 Workshop
 permalink: /en/upcoming/antioppression/
 lang: en
 dates:
