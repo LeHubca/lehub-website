@@ -1,10 +1,12 @@
 ---
-title: Structure 101 Workshop (EST)
+title: Structure 101 Workshop
 permalink: /en/upcoming/structure101/
 lang: en
 dates:
-  - start: 2022-11-16T00:00:00.000Z
-    end: 2022-11-16T01:30:00.000Z
+  - start: 2022-11-15T23:30:00.000Z
+    end: 2022-11-16T01:00:00.000Z
+  - start: 2022-11-17T00:00:00.000Z
+    end: 2022-11-17T01:30:00.000Z
 layout: event
 ---
 The goal of this workshop is to equip participants with decision-making reflections and frameworks that help them guide their groups towards establishing a group structure that lines up with the group's purpose and Theory of Change.\
