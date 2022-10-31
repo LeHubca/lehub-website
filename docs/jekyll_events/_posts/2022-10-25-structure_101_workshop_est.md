@@ -13,4 +13,6 @@ The goal of this workshop is to equip participants with decision-making reflecti
 \
 In this workshop, we cover the inherent tensions between the rejection of hierarchy in most grassroots groups and the need for a functional and visible decision-making flow that will keep things moving and also help avoid group burnout.
 
-[R﻿egister for this workshop here!](https://us02web.zoom.us/meeting/register/tZUqc-CrrTssE9XAyeMqYxS9mSrHeL0DmY-Z)
+[R﻿egister for the Nov 15th 6:30pm PST Structure workshop here.](https://us02web.zoom.us/meeting/register/tZUvfuypqT8pE9c-XUcvTzJO3DSkdJpcJRU3)
+
+[R﻿egister for the Nov 16th 7pm EST Structure workshop here. ](https://us02web.zoom.us/meeting/register/tZUqc-CrrTssE9XAyeMqYxS9mSrHeL0DmY-Z)
