@@ -9,13 +9,11 @@ layout: event
 ---
 ![](/media/copie_de_bannie_re_facebook_600_200_px_.png)
 
-Join us: Climate justice organizer cross-country roundup\
-\
-Through many conversations with organizers these past months, we’ve heard lots of folks express interest in deepening the connective tissue between climate justice (CJ) groups and campaigns across the country.\
-\
-To help with this, the Climate Justice Organizing HUB is convening this cross-country virtual check-in call, bringing together CJ organizers from across the country.\
-\
+Over the past few months, we’ve seen the climate justice movement picking up steam once again. We've heard from many of you about the exciting projects and campaigns you're working on, ranging from group restructuring to solidarity campaigns to divestment and post-divestment accountability.
+
+Join us on December 7th on zoom to hear updates from other grassroots groups, share successes and challenges, and deepen the connective tissue of the climate justice movement in so-called Canada.
+
 We hope to see you there! Simultaneous interpretation between English and French will be provided.
 
-
-R﻿egistration **[here](https://us02web.zoom.us/meeting/register/tZEscOyqqTosG9aUQy4kJT5roAAgevIoBSvP)**.
+\
+R﻿egister for the December 7th Cross-Country Climate Justice Check-In **[here](https://us02web.zoom.us/meeting/register/tZEscOyqqTosG9aUQy4kJT5roAAgevIoBSvP)**.
