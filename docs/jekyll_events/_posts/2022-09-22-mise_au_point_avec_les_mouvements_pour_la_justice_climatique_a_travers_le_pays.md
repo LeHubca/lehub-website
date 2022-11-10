@@ -11,7 +11,7 @@ layout: event
 
 Over the past few months, we’ve seen the climate justice movement picking up steam once again. We've heard from many of you about the exciting projects and campaigns you're working on, ranging from group restructuring to solidarity campaigns to divestment and post-divestment accountability.
 
-Join us on December 7th on zoom to hear updates from other grassroots groups, share successes and challenges, and deepen the connective tissue of the climate justice movement in so-called Canada.
+Join us on December 7th on Zoom to hear updates from other grassroots groups, share successes and challenges, and deepen the connective tissue of the climate justice movement in so-called Canada.
 
 We hope to see you there! Simultaneous interpretation between English and French will be provided.
 
