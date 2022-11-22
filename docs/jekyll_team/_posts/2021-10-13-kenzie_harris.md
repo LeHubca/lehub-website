@@ -2,8 +2,8 @@
 title: Kenzie Harris
 layout: basic
 img: /media/5425b793-4212-48cd-b0e9-4063ea115a0f.jpg
-title_en: Trainer
-title_fr: Personne formatrice
+title_en: Trainer and librarian
+title_fr: Personne formatrice et bibliothécaire
 bio_en: Kenzie (she/they) grew up as a settler on the traditional territories of
   the Mississaugas, a branch of the greater Anishinaabeg Nation which includes
   the Algonquin, Ojibway, Odawa and Pottawatomi Peoples. They have been involved
