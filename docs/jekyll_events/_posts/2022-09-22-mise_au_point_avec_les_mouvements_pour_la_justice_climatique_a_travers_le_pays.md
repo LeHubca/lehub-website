@@ -1,6 +1,6 @@
 ---
 title: Cross-Country Climate Justice Check-In
-permalink: /en/upcoming/checkindec2022/
+permalink: /en/upcoming/december/
 lang: en
 dates:
   - start: 2022-12-07T23:30:00.000Z
