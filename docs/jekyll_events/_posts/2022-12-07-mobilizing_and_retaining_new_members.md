@@ -3,8 +3,8 @@ title: Mobilizing and Retaining New Members
 permalink: /en/upcoming/newmembers/
 lang: en
 dates:
-  - start: 2023-01-27T00:00:00.000Z
-    end: 2023-01-27T01:30:00.000Z
+  - start: 2023-02-10T00:00:00.000Z
+    end: 2023-02-10T01:30:00.000Z
 layout: event
 ---
 D﻿oes your group struggle to bring in and retain new members? Not sure where to start in order to onboard and  empower new members so they feel like a part of your organization and community? This workshop is for you! 
