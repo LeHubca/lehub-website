@@ -1,5 +1,5 @@
 ---
-title: Mobilizing and Retaining New Members
+title: "Learning Circle: Mobilizing and Retaining New Members"
 permalink: /en/upcoming/newmembers/
 lang: en
 dates:
