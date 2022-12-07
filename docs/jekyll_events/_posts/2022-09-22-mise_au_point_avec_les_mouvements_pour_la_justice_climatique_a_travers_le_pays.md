@@ -16,4 +16,4 @@ Join us on December 7th on Zoom to hear updates from other grassroots groups, sh
 We hope to see you there! Simultaneous interpretation between English and French will be provided.
 
 \
-R﻿egister for the December 7th Cross-Country Climate Justice Check-In **[here](https://us02web.zoom.us/meeting/register/tZEscOyqqTosG9aUQy4kJT5roAAgevIoBSvP)**.
+R﻿egister for the December 7th Cross-Country Climate Justice Check-In **[here](https://us02web.zoom.us/meeting/register/tZEscOyqqTosG9aUQy4kJT5roAAgevIoBSvP)**
