@@ -3,8 +3,8 @@ title: Atelier sur la structure
 permalink: /fr/avenir/structure/
 lang: fr
 dates:
-  - start: 2022-11-16T00:00:00.000Z
-    end: 2022-11-16T01:30:00.000Z
+  - start: 2023-02-01T00:00:00.000Z
+    end: 2023-02-01T01:30:00.000Z
 layout: event
 ---
 ![](/media/atelier_sur_la_structure_-_bannie_re_zoom_mailchimp_site_internet_option_b_2_2_.png)
@@ -20,6 +20,10 @@ Finalement, les périodes d’interactions avec d’autres participant.e.s ainsi
 L’atelier sur la structure a été conçu par le HUB de mobilisation pour la justice climatique, une structure de soutien conçue pour répondre aux besoins organisationnels des personnes issues des mouvements populaires au Québec et au Canada. L’atelier est animé par Léonard Leclerc, personne formatrice au HUB. 
 
 \
-I﻿NSCRIPTION OBLIGATOIRE **[ICI](https://us02web.zoom.us/meeting/register/tZYsf-yurT0sHtDpqYVRYmdlupVbtGgE-WHd)**.
+I﻿NSCRIPTION OBLIGATOIRE **[ICI](https://us02web.zoom.us/meeting/register/tZ0sceugrj8iG9NuUIz4BknC4KBNunZrFOxj)**.
+
+
+
+Le HUB de mobilisation pour la justice climatique est un projet de Small Change Fund.
 
 ![](/media/hub_scf.png)
