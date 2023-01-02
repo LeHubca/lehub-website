@@ -22,6 +22,9 @@ Le réchauffement climatique est le problème vital de notre époque. Chaque nou
 📍[La Livrerie](https://www.lalivrerie.com/) (1376 Rue Ontario E,Montréal, QC, H2L 1S1)
 
 \
+**I﻿NSCRIPTION OBLIGATOIRE [ICI](https://lepointdevente.com/billets/8lx230125001)**
+
+\
 L﻿e HUB de mobilisation pour la justice climatique est un projet du Small Change Fund.
 
 ![](/media/hub_scf.png)
