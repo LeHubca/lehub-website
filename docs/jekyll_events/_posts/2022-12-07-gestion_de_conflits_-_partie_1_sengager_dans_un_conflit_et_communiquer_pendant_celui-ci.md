@@ -8,7 +8,7 @@ dates:
     end: 2023-02-14T01:30:00.000Z
 layout: event
 ---
-![](/media/gestion_de_conflits_600_200_px_.png)
+![](/media/1.png)
 
 P﻿lus de détails à venir.
 
