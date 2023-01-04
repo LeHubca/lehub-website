@@ -14,3 +14,7 @@ Cet atelier présente aux personnes participantes les concepts fondamentaux d'un
 **INSCRIPTION OBLIGATOIRE JUSTE [ICI](https://us02web.zoom.us/meeting/register/tZcode-qpzsoE9y6nVEIp8r5jHyMqjlGAoAh).**
 
 Si vous avez des questions ou des commentaires sur l'événement, vous pouvez nous écrire au info@lehub.ca.
+
+L﻿e HUB de mobilisation pour la justice climatique est un projet de Small Change Fund.
+
+![](/media/sans_titre_6_.png)
