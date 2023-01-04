@@ -7,7 +7,7 @@ dates:
     end: 2023-05-13T00:30:00.000Z
 layout: event
 ---
-![](/media/mailchimp_-_foire_aux_implications_militantes.png)
+![](/media/foirev2.png)
 
 Le HUB de mobilisation pour la justice climatique organise sa troisième\
  foire aux implications militantes le 22 avril prochain dès 19h sur Zoom✨
@@ -22,8 +22,6 @@ Nous nous réservons le droit de refuser des présentations si ces dernières ne
 
 **\
 👉** INSCRIPTION OBLIGATOIRE **[ICI](https://us02web.zoom.us/meeting/register/tZAkd-iqqzkjHdPfaVUmKP4mdnbJci-ell9F)**
-
-
 
 Le HUB de mobilisation pour la justice climatique est un projet de Small Change Fund.
 
