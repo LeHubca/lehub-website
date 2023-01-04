@@ -25,4 +25,4 @@ Nous nous réservons le droit de refuser des présentations si ces dernières ne
 
 Le HUB de mobilisation pour la justice climatique est un projet de Small Change Fund.
 
-![](/media/hub_scf.png)
+![](/media/sans_titre_6_.png)
