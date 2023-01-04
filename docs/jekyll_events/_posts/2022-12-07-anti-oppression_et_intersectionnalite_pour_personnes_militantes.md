@@ -15,4 +15,4 @@ Cet atelier présente aux personnes participantes les concepts fondamentaux d'un
 
 Le HUB de mobilisation pour la justice climatique est un projet de Small Change Fund.
 
-![](/media/hub_scf.png)
+![](/media/sans_titre_6_.png)
