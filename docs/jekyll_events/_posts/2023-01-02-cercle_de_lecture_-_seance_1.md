@@ -7,7 +7,7 @@ dates:
     end: ""
 layout: event
 ---
-![](/media/cercle_de_lecture_600_200_px_.png)
+![](/media/copie_de_cercle_de_lecture_600_200_px_.png)
 
 Le HUB organise un cercle de lecture sur l’essai Comment saboter un pipeline d’Andreas Malm, paru en 2020. Alors que les effets des changements climatiques prennent à tous les jours de l’ampleur, certaines personnes militantes cherchent à utiliser des tactiques radicales, souvent moins socialement acceptables. Ce cercle de lecture animé par Ariane Beaudin sera l’occasion d’aborder des questions brûlantes liées aux tactiques militantes dans nos mouvements.
 
