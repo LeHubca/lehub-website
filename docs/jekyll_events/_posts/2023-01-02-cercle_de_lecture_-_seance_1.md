@@ -27,5 +27,5 @@ Le réchauffement climatique est le problème vital de notre époque. Chaque nou
 \
 \
 L﻿e HUB de mobilisation pour la justice climatique est un projet du Small Change Fund.
-\
-![](/media/hub_scf.png)
+
+![](/media/sans_titre_6_.png)
