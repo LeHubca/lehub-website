@@ -16,4 +16,4 @@ I﻿NSCRIPTION OBLIGATOIRE **[ICI](https://us02web.zoom.us/meeting/register/tZMk
 
 L﻿e HUB de mobilisation pour la justice climatique est un projet de Small Change Fund.
 
-![](/media/hub_scf.png)
+![](/media/sans_titre_6_.png)
