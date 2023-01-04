@@ -8,7 +8,6 @@ dates:
 layout: event
 ---
 ![](/media/atelier_sur_la_structure_-_bannie_re_zoom_mailchimp_site_internet_option_b_2_2_.png)
-
 ![](/media/atelier_sur_la_structure_-_bannie_re_zoom_mailchimp_site_internet_option_b_1_2_.png)
 
 Le HUB de mobilisation pour la justice climatique vous invite à cet atelier sur la conception d’une structure efficace, c’est-à-dire adaptée à l’objectif principal de votre groupe militant ! 
