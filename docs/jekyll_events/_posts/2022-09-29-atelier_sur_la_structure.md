@@ -23,8 +23,9 @@ L’atelier sur la structure a été conçu par le HUB de mobilisation pour la j
 \
 \
 **I﻿NSCRIPTION OBLIGATOIRE [ICI](https://us02web.zoom.us/meeting/register/tZ0sceugrj8iG9NuUIz4BknC4KBNunZrFOxj).**
-\
-\
 
-<center>*Le HUB de mobilisation pour la justice climatique est un projet de Small Change Fund.*
-!\\[](/media/sans_titre\\_6\\_.png)
+
+<center>\*Le HUB de mobilisation pour la justice climatique est un projet de Small Change Fund.\*
+
+
+![](/media/sans_titre_6_.png)
