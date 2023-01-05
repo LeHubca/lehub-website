@@ -1,9 +1,9 @@
 ---
-title: Cercle de lecture - Séance 1
-permalink: /fr/avenir/cercledelecture1/
+title: Cercle de lecture - Séance 2
+permalink: /fr/avenir/cercledelecture2/
 lang: fr
 dates:
-  - start: 2023-01-26T00:00:00.000Z
+  - start: 2023-02-09T00:00:00.000Z
     end: ""
 layout: event
 ---
