@@ -23,7 +23,9 @@ Le réchauffement climatique est le problème vital de notre époque. Chaque nou
 Ariane Beaudin (elle/iel) est un.e poète, sorcière, et militant.e qui gravite autour des luttes étudiantes et de la politique municipale locale. Son activisme s'enracine surtout dans les enjeux de justice climatique, de santé mentale et spirituelle ainsi que dans le droit à la ville. Elle a été particulièrement impliqué.e dans les grèves pour la justice climatique en 2019-2020 et s'est présenté.e comme candidat.e indépendant.e ouvertement anticapitaliste dans Hochelaga aux élections municipales de 2021.\
 \
 En ce moment, iel est en train de développer un projet d'agriculture urbaine et d'herboristerie visant à aider les jeunes adultes qui vivent de l'écoanxiété.\
-\
+
+![](/media/copie_de_recommandations_ariane_beaudin.png)
+
 \
 📍[La Livrerie](https://www.lalivrerie.com/) (1376 Rue Ontario E, Montréal, QC, H2L 1S1)\
 \
