@@ -10,9 +10,10 @@ dates:
 layout: event
 ---
 ![](/media/copie_de_e_coanxie_te_et_changement_social_-_comment_reconnai_tre_nos_e_coe_motions_chez_soi_et_chez_les_autres_afin_de_les_utiliser_comme_outil_acce_le_rer_la_transition_socioe_cologique_600_200_px_.png)
-
-I﻿nscription obligatoire juste **[ici](https://us02web.zoom.us/meeting/register/tZYtcOqvqzMtGtds_SaZyWx9QIgzDAte6e8Y)**.
-
+\
+\
+**I﻿NSCRIPTION OBLIGATOIRE [ICI](https://us02web.zoom.us/meeting/register/tZYtcOqvqzMtGtds_SaZyWx9QIgzDAte6e8Y).**\
+\
+\
 L﻿e HUB de mobilisation pour la justice climatique est un projet du Small Change Fund.
-
 ![](/media/sans_titre_6_.png)
