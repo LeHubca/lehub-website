@@ -18,7 +18,7 @@ Le HUB organise un cercle de lecture sur l’essai Comment saboter un pipeline d
 Le réchauffement climatique est le problème vital de notre époque. Chaque nouvelle étude scientifique vient confirmer que la situation est pire que prévu, presque irréversible. Pourtant au premier rang des responsables identifiés, l'économie fossile continue de tourner à plein régime, comme si de rien était, avec le soutien affirmé ou discret des dirigeants politiques dont l'incapacité à faire face à l'écueil se révèle, de COP en COP, plus évidente. Le paradoxe est d'autant plus saisissant que le mouvement pour le climat a pris une ampleur sans précédent, organisant ces derniers mois dans les pays du Nord global des rassemblements massifs pour exiger des mesures des gouvernements. Dans le même temps, les investissements dans les énergies fossiles n'ont pas cessé d'augmenter et les projets de pipelines se multiplient. Comment cesser d'être à ce point inoffensif ?\
 \
 \
-<img align="left" width="100" height="100" src="/media/arianebeaudincarré.png">**Ariane Beaudin**\
+<img align="left" width="100" height="100" src="/media/arianebeaudincarré2.png">**Ariane Beaudin**\
 \
 Ariane Beaudin (elle/iel) est un.e poète, sorcière, et militant.e qui gravite autour des luttes étudiantes et de la politique municipale locale. Son activisme s'enracine surtout dans les enjeux de justice climatique, de santé mentale et spirituelle ainsi que dans le droit à la ville. Elle a été particulièrement impliqué.e dans les grèves pour la justice climatique en 2019-2020 et s'est présenté.e comme candidat.e indépendant.e ouvertement anticapitaliste dans Hochelaga aux élections municipales de 2021.\
 \
