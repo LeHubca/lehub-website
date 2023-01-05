@@ -8,15 +8,12 @@ dates:
     end: 2023-02-14T01:30:00.000Z
 layout: event
 ---
-![](/media/1.png)
+![](/media/1.png)\
 \
+P﻿lus de détails à venir.\
 \
-P﻿lus de détails à venir.
+**I﻿NSCRIPTION OBLIGATOIRE [ICI](https://us02web.zoom.us/meeting/register/tZ0tfuuprjoqHNAv_BZED4S3Ppw0ogpLIBUF).**\
 \
-\
-**I﻿NSCRIPTION OBLIGATOIRE [ICI](https://us02web.zoom.us/meeting/register/tZ0tfuuprjoqHNAv_BZED4S3Ppw0ogpLIBUF).**
-\
-\
+L﻿e HUB de mobilisation pour la justice climatique est un projet de Small Change Fund.
 
-<center>\*L﻿e HUB de mobilisation pour la justice climatique est un projet de Small Change Fund.\*
-!\[](/media/sans_titre\_6\_.png)
+![](/media/sans_titre_6_.png)
