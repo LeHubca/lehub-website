@@ -17,7 +17,5 @@ L’objectif de cet atelier est d’équiper les personnes participantes de stru
 **I﻿NSCRIPTION OBLIGATOIRE [ICI](https://us02web.zoom.us/meeting/register/tZMsd-2oqjgtGddoTTrShB2qfz2PzsjFuxu8).**\
 \
 \
-<center>\\*L﻿e HUB de mobilisation pour la justice climatique est un projet de Small Change Fund.\\*
-
-
+L﻿e HUB de mobilisation pour la justice climatique est un projet de Small Change Fund.
 ![](/media/sans_titre_6_.png)
