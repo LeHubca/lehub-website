@@ -2,6 +2,8 @@
 title: Tristan Pérez
 layout: basic
 img: /media/tristannn.jpeg
+title_en: Content production assistant
+title_fr: Assistant à la production de contenu
 bio_en: Tristan Pérez (he) is co-founder of the Devoir Environnemental
   Collectif, a group that aimed to mobilize the different cegeps of the province
   against the inaction of the governments regarding the climate crisis. He also
