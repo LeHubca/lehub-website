@@ -1,6 +1,6 @@
 ---
 title: "Navigating Conflict, Part 1: Communicating through Disagreement"
-permalink: /en/upcoming/conflict1/
+permalink: /en/upcoming/conflictpartone/
 lang: en
 dates:
   - start: ""
