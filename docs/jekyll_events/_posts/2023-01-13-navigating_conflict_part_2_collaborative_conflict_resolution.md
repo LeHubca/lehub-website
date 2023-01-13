@@ -1,6 +1,6 @@
 ---
-title: "Navigating Conflict, part 2: Collaborative Conflict Resolution"
-permalink: /en/upcoming/conflict2/
+title: "Navigating Conflict, Part 2: Collaborative Conflict Resolution"
+permalink: /en/upcoming/conflictparttwo/
 lang: en
 dates:
   - start: 2023-02-23T00:00:00.000Z
