@@ -1,3 +1,5 @@
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/LeHubca/lehub-website/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/LeHubca/lehub-website/tree/master)
+
 Climate Justice Organizing Hub Website
 =====
 
