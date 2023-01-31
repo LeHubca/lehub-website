@@ -6,6 +6,7 @@ set -e
 
 source ./config/versioned
 
+echo "Make sure the network $DOCKERNETWORK exists."
 docker network ls | grep "$DOCKERNETWORK" || docker network create "$DOCKERNETWORK"
 
 docker run --rm -d \
