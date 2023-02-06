@@ -1,7 +1,7 @@
 ---
 layout: secondary2021
 secondary_page_title: Offerings
-lang: EN
+lang: en
 permalink: /en/offerings/
 otherlang_url: /fr/offres/
 ---
