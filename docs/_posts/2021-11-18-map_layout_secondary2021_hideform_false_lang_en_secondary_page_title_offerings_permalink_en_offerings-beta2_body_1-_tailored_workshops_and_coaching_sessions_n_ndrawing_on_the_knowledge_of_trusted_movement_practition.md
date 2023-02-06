@@ -2,8 +2,8 @@
 layout: secondary2021
 secondary_page_title: Offerings
 lang: EN
-permalink: /Offerings/
-otherlang_url: /Offres/
+permalink: /offerings/
+otherlang_url: /offres/
 ---
 ### 1. Tailored workshops and coaching sessions
 
