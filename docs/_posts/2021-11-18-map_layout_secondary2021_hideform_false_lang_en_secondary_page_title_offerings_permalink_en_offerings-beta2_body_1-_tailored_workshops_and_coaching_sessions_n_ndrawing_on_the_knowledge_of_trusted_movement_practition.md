@@ -9,7 +9,7 @@ otherlang_url: /fr/offres/
 
 Drawing on the knowledge of trusted movement practitioners, we provide workshops covering topics such as group structure, collaborative strategizing, digital organizing, community care, breaking the burnout cycle, and transformative justice. Over the past year, these topics have emerged again and again in our conversations with grassroots organizers. [Sign up to access full info on upcoming workshops and registration links.](https://github.com/LeHubca/lehub-website/blob/7ae839a7ca70bb0a326d9eb6d14edbe4765898ef/docs/_posts/2021-11-18-map_layout_secondary2021_hideform_false_lang_en_secondary_page_title_offerings_permalink_en_offerings-beta2_body_1-_tailored_workshops_and_coaching_sessions_n_ndrawing_on_the_knowledge_of_trusted_movement_practition.md#inscription)
 
-For private group workshop requests, we require at least 4 weeks' lead time in order to coordinate with our trainers and consult with you and your group to make sure the offering fits your needs
+For private group workshop requests, we require at least 4 weeks' lead time in order to coordinate with our trainers and consult with you and your group to make sure the offering fits your needs.
 
 ### [](https://github.com/LeHubca/lehub-website/blob/7ae839a7ca70bb0a326d9eb6d14edbe4765898ef/docs/_posts/2021-11-18-map_layout_secondary2021_hideform_false_lang_en_secondary_page_title_offerings_permalink_en_offerings-beta2_body_1-_tailored_workshops_and_coaching_sessions_n_ndrawing_on_the_knowledge_of_trusted_movement_practition.md#2-organizing-knowledge-library)2. Organizing knowledge library
 
