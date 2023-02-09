@@ -1,6 +1,6 @@
 ---
 title: Cross-Country Climate Justice Check-In
-permalink: /fr/avenir/aprilcheckin/
+permalink: /en/upcoming/aprilcheckin/
 lang: en
 dates:
   - start: 2023-04-19T23:00:00.000Z
