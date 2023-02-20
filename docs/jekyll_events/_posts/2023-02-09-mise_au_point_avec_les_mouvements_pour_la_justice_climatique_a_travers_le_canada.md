@@ -4,8 +4,8 @@ title: Mise au point avec les mouvements pour la justice climatique à travers l
 permalink: /fr/avenir/miseaupointavril/
 lang: fr
 dates:
-  - start: 2023-04-19T23:00:00.000Z
-    end: 2023-04-20T01:00:00.000Z
+  - start: 2023-04-19T22:30:00.000Z
+    end: 2023-04-20T00:30:00.000Z
 layout: event
 ---
 
