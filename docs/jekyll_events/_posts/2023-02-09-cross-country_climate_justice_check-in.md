@@ -3,8 +3,8 @@ title: Cross-Country Climate Justice Check-In
 permalink: /en/upcoming/aprilcheckin/
 lang: en
 dates:
-  - start: 2023-04-19T23:00:00.000Z
-    end: 2023-04-20T01:00:00.000Z
+  - start: 2023-04-19T22:30:00.000Z
+    end: 2023-04-20T00:30:00.000Z
 layout: event
 ---
 ![](/media/mise_au_point_600_200_px_1000_200_px_.png)
