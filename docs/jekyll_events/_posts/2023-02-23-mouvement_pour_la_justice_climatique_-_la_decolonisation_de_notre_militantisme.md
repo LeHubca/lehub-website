@@ -44,6 +44,7 @@ Le HUB de mobilisation pour la justice climatique est une structure de soutien c
 
 C’est une structure qui respecte les connaissances des personnes militantes quant à leurs propres défis et priorités. Grâce au partage de compétences, à l’offre de services, à l’accompagnement et à d’autres ressources permettant de renforcer les capacités militantes, sa mission est d’aider les activistes à mobiliser une masse critique de personnes œuvrant pour une transition juste.\
 \
+\
 L﻿e HUB de mobilisation pour la justice climatique est un projet de Small Change Fund.
 
 ![](/media/sans_titre_6_.png)
