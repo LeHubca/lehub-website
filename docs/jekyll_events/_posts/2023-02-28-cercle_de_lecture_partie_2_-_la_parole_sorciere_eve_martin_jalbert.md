@@ -11,7 +11,7 @@ layout: event
 
 Le HUB organise un cercle de lecture sur le roman La parole sorcière d’Eve Martin Jalbert, paru en janvier 2022.
 
-Après Comment saboter un pipeline de Andreas Malm, le cercle de lecture du hub vient aborder la diversité des tactiques sous un tout nouvel angle. Avec La parole sorcière de Eve Martin Jalbert, on pourra se pencher sur le concept de la sorcellerie, autant l’acte en soi que la métaphore, comme approche militante. 
+Après Comment saboter un pipeline de Andreas Malm, le cercle de lecture du HUB vient aborder la diversité des tactiques sous un tout nouvel angle. Avec La parole sorcière de Eve Martin Jalbert, on pourra se pencher sur le concept de la sorcellerie, autant l’acte en soi que la métaphore, comme approche militante. 
 
 La force du désir et de l’art – avec un accent mis sur la littérature – s’offrira comme épicentre pour réfléchir ce qui animent nos luttes et, en mêlant création littéraire à l’exercice, on espérera parvenir à développer notre propre parole sorcière. 
 
