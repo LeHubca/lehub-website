@@ -14,9 +14,8 @@ Le HUB organise un cercle de lecture sur le roman La parole sorcière d’Eve Ma
 \
 ⚠️Si vous n’avez pas de copie du livre, vous pouvez nous écrire à [info@lehub.ca](mailto:info@lehub.ca) pour que nous puissions vous en prêter une !
 
-
 \
-<img align="left" width="100" height="100" src="/media/commentsaboterunpeip.png">**La parole sorcière (Eve Martin Jalbert)**
+<img align="left" width="100" height="100" src="/media/laparolesorcierecouverture.webp">**La parole sorcière (Eve Martin Jalbert)**
 \
 Il existe plusieurs formes de sorcellerie. L’une agit dans le sens de la destruction de la santé des êtres vivants et des milieux ; une autre, dans le sens de son amélioration. Ce livre se range résolument du côté de cette dernière. La lumière des sorcières y brille comme la lumière de vies affranchies, en porte-à-faux avec les normes hétérocis et l’ordre patriarco-colonial. Pourtant, ce n’est pas sur la figure de la sorcière que porte cet essai, mais sur une grande variété de textes littéraires en tant que contributions à une sorcellerie anti-oppressive appelée ici sorcellerie de l’émancipation.
 
