@@ -1,5 +1,5 @@
 ---
-title: Atelier sur la stratégie
+title: "Formation sur la prise de décision : Tendre vers la non-hiérarchie"
 permalink: /fr/avenir/formationprisededecision/
 lang: fr
 dates:
