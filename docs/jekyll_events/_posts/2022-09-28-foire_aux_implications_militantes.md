@@ -9,7 +9,7 @@ layout: event
 ---
 ![](/media/foirev2.png)
 
-Le HUB de mobilisation pour la justice climatique organise sa troisième foire aux implications militantes le 22 avril prochain dès 19h sur Zoom✨\
+Le HUB de mobilisation pour la justice climatique organise sa troisième foire aux implications militantes le 12 avril prochain dès 19h sur Zoom✨\
 \
 C’est l'occasion parfaite pour venir discuter avec d’autres personnes militantes, voir les différents projets en cours autour de vous et peut-être même vous trouver un nouveau collectif dans lequel vous impliquer 🌸\
 \
