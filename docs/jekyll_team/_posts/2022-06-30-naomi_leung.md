@@ -1,7 +1,7 @@
 ---
 title: Naomi Leung
 layout: basic
-img: /media/img_3329_1_.jpeg
+img: /media/naomi1.jpeg
 title_en: Trainer
 title_fr: Formatrice
 bio_en: >-
