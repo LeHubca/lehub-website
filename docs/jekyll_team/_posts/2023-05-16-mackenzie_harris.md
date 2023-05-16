@@ -12,4 +12,5 @@ bio_en: Mackenzie Burnett (she/her) is an organizer living on Treaty 6 territory
   collaborates with industry partners and Indigenous and local knowledge holders
   in northern Saskatchewan on the Developing Eco-Restoration Together (DERT)
   project.
+order: 5
 ---
