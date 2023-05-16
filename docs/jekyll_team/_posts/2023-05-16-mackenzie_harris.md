@@ -1,5 +1,5 @@
 ---
-title: Mackenzie Harris
+title: Mackenzie Burnett
 layout: basic
 img: /media/mackenzie_bio.jpg
 title_en: Assistant Coordinator, Anglophone Canada
