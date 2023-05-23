@@ -1,5 +1,5 @@
 ---
-title: Isabelle Grondin-Hernandez
+title: Isabelle Grondin Hernandez
 layout: basic
 img: /media/photoisabelle.png
 title_en: Trainer
