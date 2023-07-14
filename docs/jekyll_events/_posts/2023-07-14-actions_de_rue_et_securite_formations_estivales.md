@@ -1,6 +1,6 @@
 ---
 title: Actions de rue et sécurité🌿Formations estivales
-permalink: /fr/avenir/
+permalink: /fr/avenir/formationsestivales/
 lang: fr
 dates:
   - start: 2023-08-01T19:00:00.000Z
