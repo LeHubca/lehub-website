@@ -1,6 +1,6 @@
 ---
 title: Care🌸Formations estivales du HUB
-permalink: /fr/avenir/formationsestivales/
+permalink: /fr/avenir/care/
 lang: fr
 dates:
   - start: 2023-08-08T19:00:00.000Z
