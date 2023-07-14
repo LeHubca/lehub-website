@@ -1,6 +1,6 @@
 ---
-title: "Travail d'équipe: résolution de conflits et prise de décisions🌸
-  Formations estivales du HUB"
+title: "Travail d'équipe: résolution de conflits et prise de
+  décisions🌸Formations estivales du HUB"
 permalink: /fr/avenir/formationsestivales/
 lang: fr
 dates:
