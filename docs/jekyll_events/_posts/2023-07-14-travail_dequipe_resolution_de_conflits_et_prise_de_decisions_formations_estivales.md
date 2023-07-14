@@ -1,7 +1,7 @@
 ---
 title: "Travail d'équipe: résolution de conflits et prise de
   décisions🌿Formations estivales"
-permalink: /fr/avenir/
+permalink: /fr/avenir/formationsestivales/
 lang: fr
 dates:
   - start: 2023-07-18T19:00:00.000Z
@@ -20,16 +20,13 @@ Les formations se dérouleront chaque mardi de 15h à 17h, du 30 mai au 8 août,
 
 À qui s'adressent ces formations ? À toute personne, militante ou non, intéressée par ces sujets ! Que le monde militant vous soit encore inconnu - une formation est l’occasion idéale d’y entrer doucement - ou que vous soyez déjà une personne impliquée cherchant à solidifier ses connaissances et ses compétences, vous y trouverez votre compte. On a hâte de vous y voir !
 
-![☀](https://static.xx.fbcdn.net/images/emoji.php/v9/tf4/1.5/16/2600.png)Horaire complet![☀](https://static.xx.fbcdn.net/images/emoji.php/v9/tf4/1.5/16/2600.png)
-
-Toutes les formations se dérouleront les mardis, de 15h à 17h, au 1864 rue Préfontaine à Tiohtià:ke/Mooniyang/Montréal.\
-\
+**Toutes les formations se dérouleront les mardis, de 15h à 17h, au 1864 rue Préfontaine à Tiohtià:ke/Mooniyang/Montréal.**\
 Travail d’équipe (résolution de conflits, prise de décisions) - 18 juillet\
 Communications - 25 juillet\
 Actions de rue et sécurité - 1er août\
 Care - 8 août
 
-![🌸](https://static.xx.fbcdn.net/images/emoji.php/v9/t49/1.5/16/1f338.png)Informations d’accessibilité![🌸](https://static.xx.fbcdn.net/images/emoji.php/v9/t49/1.5/16/1f338.png)
+**I﻿nformations d'accessibilité**
 
 Lieu : L’espace extérieur est accessible via la rue Préfontaine. Pour entrer à l’intérieur, il faut monter 4 marches. Des toilettes et de l’eau sont disponibles. Lors de périodes de chaleur, des ventilateurs seront sur place.
 
