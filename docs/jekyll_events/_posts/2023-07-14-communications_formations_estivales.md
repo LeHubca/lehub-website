@@ -1,6 +1,6 @@
 ---
 title: Communications🌿Formations estivales
-permalink: /fr/avenir/
+permalink: /fr/avenir/formationsestivales/
 lang: fr
 dates:
   - start: 2023-07-25T19:00:00.000Z
