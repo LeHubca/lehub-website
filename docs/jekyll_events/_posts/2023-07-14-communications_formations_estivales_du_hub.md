@@ -1,6 +1,6 @@
 ---
 title: Communications🌸Formations estivales du HUB
-permalink: /fr/avenir/formationsestivales/
+permalink: /fr/avenir/communications/
 lang: fr
 dates:
   - start: 2023-07-25T19:00:00.000Z
