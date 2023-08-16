@@ -11,4 +11,4 @@ Another perennial problem grassroots groups face is navigating and guarding agai
 
 T﻿his workshop will be recorded and will be sent out after the live workshop concludes. 
 
-R﻿egister for this event here: https://us02web.zoom.us/meeting/register/tZwpduGgqD8vGNY4V8yPt784Zqnf3cwouKN4.
+[R﻿egister for this event here](https://us02web.zoom.us/meeting/register/tZwpduGgqD8vGNY4V8yPt784Zqnf3cwouKN4)
