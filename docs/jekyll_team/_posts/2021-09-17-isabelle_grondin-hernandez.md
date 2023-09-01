@@ -2,7 +2,7 @@
 title: Isabelle Grondin Hernandez
 layout: basic
 img: /media/photoisabelle.png
-title_en: Trainer
+title_en: Trainer and librarian
 title_fr: Personne formatrice et bibliothécaire
 bio_en: >
   Isabelle (she/her) is dedicated to improving living conditions for everyone in
