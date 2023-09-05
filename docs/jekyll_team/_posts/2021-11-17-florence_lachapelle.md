@@ -8,7 +8,7 @@ bio_en: >-
   <!--StartFragment-->
 
 
-  Florence (she) is a settler who grew up and lives in Tio'tià :ke/Mooniyang/Montreal. Throughout her career, she has been involved in various social and climate justice initiatives, including CEVES - Coalition étudiante pour un virage environnemental et social. She loves mobilizing (talking to people), organizing (working with the people to get stuff done), and believes that activist groups should always be thinking about how they can improve, be more powerful, and win. Florence has two cats and is studying visual arts at UQAM.
+  Florence (she) is a settler who grew up and lives in Tio'tià :ke/Mooniyang/Montreal. She has been involved in various social and climate justice initiatives, including CEVES - Coalition étudiante pour un virage environnemental et social. She loves mobilizing (talking to people), organizing (working with the people to get stuff done), and believes that activist groups should always be thinking about how they can improve, be more powerful, and win. Florence has two cats and is studying visual arts at UQAM.
 
 
   <!--EndFragment-->
