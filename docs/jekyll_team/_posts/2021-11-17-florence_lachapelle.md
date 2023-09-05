@@ -16,9 +16,7 @@ bio_fr: >-
   <!--StartFragment-->
 
 
-  Florence (elle) est une allochtone qui a grandi et habite à Tio’tià :ke/Mooniyang/Montréal. Durant son parcours, elle s’est impliquée dans divers initiatives de justice sociale et climatique, et milite de façon continue au sein de la Coalition étudiante pour un virage environnemental et social – CEVES depuis janvier 2020. Elle y a notamment fait du travail de mobilisation de grève étudiante dans différents établissements scolaires ainsi que de l’organisation d’actions. Florence étudie présentent à l’UQAM en enseignement des arts visuels.
-
-
+  Florence (elle) est une allochtone descendante de colons qui a grandi et habite à Tio’tià :ke/Mooniyang/Montréal. Durant son parcours, elle s’est impliquée dans diverses initiatives de justice sociale et climatique, notamment la CEVES - Coalition étudiante pour un virage environnemental et social et Rage climatique. Elle aime la mobilisation (parler au monde), l'organisation (travailler avec le monde pour faire des trucs), et pense que les groupes militants doivent toujours réfléchir à comment ils peuvent s'améliorer, avoir plus de puissance, et gagner. Florence a deux chats et étudie à l’UQAM en arts visuels.
 
 
   <!--EndFragment-->
