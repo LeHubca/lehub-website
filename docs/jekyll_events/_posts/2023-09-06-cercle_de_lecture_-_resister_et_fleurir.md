@@ -9,7 +9,7 @@ dates:
     end: ""
 layout: event
 ---
-![]()
+![](/media/resisteretfleurir.png)
 
 Cercle de lecture (en deux séances) sur la BD Résister et fleurir, animé par Lylou Sehili.
 
@@ -25,9 +25,6 @@ Printemps 2020. En plein confinement, un professeur donne un cours sur l’utopi
 De Robert Musil à Martin Luther King, en passant par Farenheit 451 et l’ère de la post-vérité, cette BD est un véritable cours de science politique appliquée. Magnifiquement illustrée par les aquarelles vibrantes de Yoakim Bélanger, elle nous invite à repenser notre rapport au territoire, où l’utopie de la nature s’oppose à la dystopie des lois implacables du marché. Alors que les « zones à défendre » se multiplient, Résister et fleurir livre une réflexion profonde sur le monde que nous voulons bâtir… ou détruire.
 
 Si vous n'avez pas les moyens de vous procurer le livre, vous pouvez nous écrire au info@lehub.ca 🌿﻿﻿
-﻿
-
-
 
 Le HUB de mobilisation pour la justice climatique est un projet de Small Change Fund.
 
