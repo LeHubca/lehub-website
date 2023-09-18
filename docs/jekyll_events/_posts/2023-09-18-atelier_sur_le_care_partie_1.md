@@ -15,10 +15,15 @@ De plus, l'apprentissage des compétences nécessaires pour construire des cultu
 
 À la fin de cet atelier, les personnes présentes auront acquis les connaissances et les outils nécessaires pour :
 
-* identifier et défendre vos besoins en matière de soins ainsi que ceux des autres
-* promouvoir la sécurité du groupe à travers le modèle SCARF
-* intégrer les réseaux de soins dans vos groupes d'organisation
-* donner et recevoir un feedback constructif en utilisant des principes de communication sains
+\- identifier et défendre vos besoins en matière de soins ainsi que ceux des autres
+
+\- promouvoir la sécurité du groupe à travers le modèle SCARF 
+
+\- intégrer les réseaux de soins dans vos groupes d'organisation
+
+\- donner et recevoir un feedback constructif en utilisant des principes de communication sains
+
+
 
 ⚠️I﻿NSCRIPTION [ICI](https://us02web.zoom.us/meeting/register/tZIvdeiorTwoEtIoLn8TFG3auxZ0QMGNBOpE)
 
