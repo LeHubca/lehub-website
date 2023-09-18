@@ -13,6 +13,8 @@ Face au PL31 qui prévoit retirer le droit aux cessions de bail - un des seuls o
 
 L’événement aura lieu à l’Exode, où des breuvages alcoolisés et non-alcoolisés seront servis. À bientôt !
 
+I﻿NSCRIPTION [ICI](https://lepointdevente.com/billets/8lx231030001)
+
 L﻿e HUB de mobilisation pour la justice climatique est un projet de Small Change Fund.
 
 ![](/media/sans_titre_6_.png)
