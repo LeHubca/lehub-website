@@ -7,7 +7,7 @@ dates:
     end: 2023-10-06T01:00:00.000Z
 layout: event
 ---
-![](/media/la_mobilisation_recrutement_et_re_tention_1152_648_px_.png)
+![](/media/mobilisationrecrutementretention.png)
 
 Cette formation permettra aux personnes participantes de s’outiller par-rapport à la mobilisation, au recrutement et à la rétention dans un contexte militant. Nous verrons différents types de mobilisation, notamment la mobilisation ciblée et la mobilisation de profondeur.
 
