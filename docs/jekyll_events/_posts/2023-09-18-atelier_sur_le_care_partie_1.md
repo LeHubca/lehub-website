@@ -7,7 +7,7 @@ dates:
     end: 2023-10-25T12:30:00.000Z
 layout: event
 ---
-![](/media/care1.png)
+![](/media/carepartie1.png)
 
 Si nous voulons construire une société qui place le bien-être avant les profits, nous devons faire passer la pratique du prendre soin avant la productivité dans nos vies personnelles et dans le militantisme pour la justice climatique. Ne pas centrer les soins dans nos espaces de mouvement signifie laisser de côté les besoins des personnes les plus touchées par les systèmes d'oppression.
 
