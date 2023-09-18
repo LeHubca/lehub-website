@@ -9,7 +9,7 @@ dates:
     end: ""
 layout: event
 ---
-![](/media/resisteretfleurir.png)
+![](/media/cercledelectureresister.png)
 
 Cercle de lecture (en deux séances) sur la BD Résister et fleurir, animé par Lylou Sehili.
 
