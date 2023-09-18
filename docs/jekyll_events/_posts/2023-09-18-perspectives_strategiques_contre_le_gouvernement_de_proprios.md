@@ -1,5 +1,5 @@
 ---
-title: Perspectives stratégiques contre le gouvernement de proprios
+title: DISCUSSION - Perspectives stratégiques contre le gouvernement de proprios
 permalink: /fr/avenir/flip/
 lang: fr
 dates:
