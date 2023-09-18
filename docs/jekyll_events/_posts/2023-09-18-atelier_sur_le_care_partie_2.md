@@ -7,7 +7,7 @@ dates:
     end: 2023-11-01T12:30:00.000Z
 layout: event
 ---
-![](/media/care2.png)
+![](/media/carepartie2.png)
 
 Le mouvement climatique a beaucoup à apprendre du mouvement pour la justice des personnes en situation d'handicap. Dans cet atelier, les personnes participantes découvriront le mouvement de justice pour les personnes en situation de handicap et les leçons qu’on peut en tirer, la théorie des cuillères et du «crip time» (ou temporalité du handicap) ainsi que des exemples de pratiques de soin.
 
