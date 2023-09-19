@@ -29,15 +29,9 @@ Auparavant, Holz faisait de la recherche au département de géographie et d'ét
 
 Meena Raman est responsable des programmes du Third World Network (TWN) et vit en Malaisie. Elle est également présidente des Amis de la Terre, Malaisie (Sahabat Alam), organisation membre des Amis de la Terre International. En tant que conseillère juridique de l'Association des consommateurs de Penang en Malaisie, elle dirige actuellement sa section de mobilisation communautaire, qui travaille avec les agriculteurs et les pêcheurs. Elle a été présidente des Amis de la Terre International (2004-2008), une organisation internationale qui compte 77 groupes membres.
 
- 
-
 Au sein de Third World Network, Meena coordonne actuellement le programme sur les changements climatiques et a participé activement aux négociations intergouvernementales sur le climat, de Bali à Cancún. Elle a suivi et rendu compte des négociations et a fourni des analyses et un soutien aux gouvernements des pays en développement ainsi qu'aux participants de la société civile. Après avoir obtenu son diplôme en 1982, Meena a créé avec un collègue le premier cabinet juridique d'intérêt public en Malaisie, ce qui lui a permis de lancer sa pratique juridique d'assistance aux personnes consommatrices.
 
- 
-
 Au cours des 25 dernières années, elle a représenté les organisations avec lesquelles elle travaille lors de nombreuses conférences et a présenté des documents sur des questions allant de la protection de l'environnement et des droits des personnes consommatrices aux changements climatiques, en passant par l'agriculture et la pêche, la mondialisation et le commerce.
-
-
 
 \
 **Hôte de l'événement - Anjali Appadurai**, directrice des campagnes, Climate Emergency Unit
@@ -45,7 +39,7 @@ Au cours des 25 dernières années, elle a représenté les organisations avec l
 Anjali Appadurai a passé le début de sa carrière à faire entendre la voix de la société civile à la Convention des Nations unies sur le climat, en travaillant avec des mouvements sociaux du monde entier pour exiger la justice climatique au niveau multilatéral. Aujourd'hui, Anjali se passionne pour l'établissement de liens entre les changements climatiques et la mondialisation, la colonisation et l'inégalité économique. Elle a aussi travaillé en tant que responsable de la justice climatique au Sierra Club de Colombie-Britannique, apportant une perspective d'équité au mouvement climatique de la province. Également chanteuse, compositrice et productrice de musique, Anjali espère tisser des liens entre la politique et l'art afin de refléter l'époque dans laquelle nous vivons et de galvaniser une véritable action collective.
 
 \
-**I﻿NSCRIPTION OBLIGATOIRE ICI**\
+**[I﻿NSCRIPTION OBLIGATOIRE ICI](https://us02web.zoom.us/meeting/register/tZErcO6trD0sHNxfqoOvbl8oQjOavWTKaVnE#/registration)**\
 \
 L﻿e HUB de mobilisation pour la justice climatique est un projet de Small Change Fund.
 
