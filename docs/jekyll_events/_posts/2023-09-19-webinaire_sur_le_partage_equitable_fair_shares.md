@@ -7,6 +7,8 @@ dates:
     end: 2023-10-12T01:00:00.000Z
 layout: event
 ---
+![](/media/le_partage_e_quitable.png)
+
 Alors que la crise climatique s'intensifie dans le monde entier, comment le Canada se positionne-t-il au sein de la communauté internationale ?
 
 Rejoignez-nous pour un webinaire explorant l'idée de "Fair Shares", un élément clé de la justice climatique que les mouvements du Sud ont défendu pendant des décennies.
