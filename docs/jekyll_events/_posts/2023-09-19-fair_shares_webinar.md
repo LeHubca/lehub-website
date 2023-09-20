@@ -7,6 +7,8 @@ dates:
     end: 2023-10-12T01:00:00.000Z
 layout: event
 ---
+![](/media/fair_shares.png)
+
 As the climate crisis intensifies around the world, how is Canada showing up within the international community?
 
 Join us for a webinar exploring the idea of "Fair Shares", a key component of climate justice that movements in the Global South have championed for decades. 
