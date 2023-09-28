@@ -18,7 +18,7 @@ The climate crisis is driven by deep histories of colonialism, global capitalism
 We are lucky to have two incredible speakers share their stories and analysis about what the the Fair Shares campaign is, why it matters, and how members of the Canadian climate movement can help:
 
 \
-<img align="left" width="100" height="100" src="/media/ceeceeholtz.png">**Speaker 1 - Ceecee Holtz**
+<img align="left" width="100" height="100" src="/media/ceeceeholtz.png">**Speaker 1 - Ceecee Holz**
 
 Ceecee Holz is the Senior Research Associate at the Climate Equity Reference Project and the Executive Director of the Climate Equity Reference Project Canada. Ceecee is also an Affiliated Researcher at the Stockholm Environment Institute and teaches the core course of Carleton University’s Masters’ specialization in climate change.
 
