@@ -18,7 +18,7 @@ La crise climatique est le résultat d'une longue histoire de colonialisme, de c
 Nous avons la chance d'avoir deux personnes incroyables qui nous partageront leurs histoires et leurs analyses :
 
 \
-<img align="left" width="100" height="100" src="/media/ceeceeholtz.png">**Première personne invitée - Ceecee Holtz**
+<img align="left" width="100" height="100" src="/media/ceeceeholtz.png">**Première personne invitée - Ceecee Holz**
 
 Ceecee Holz est la personne associée principale de recherche au Climate Equity Reference Project et occupe le poste de direction exécutive du Climate Equity Reference Project Canada. Ceecee fait également de la recherche à l'Institut de l'environnement de Stockholm et enseigne le cours de base de la maîtrise spécialisée en changements climatiques de l'Université Carleton.
 
