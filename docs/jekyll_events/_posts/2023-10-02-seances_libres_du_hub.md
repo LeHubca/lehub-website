@@ -1,5 +1,5 @@
 ---
-title: Séances libres du HUB
+title: Séance libre du HUB
 permalink: /fr/avenir/seanceslibres/
 lang: fr
 dates:
