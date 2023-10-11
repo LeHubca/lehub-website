@@ -21,5 +21,5 @@ bio_fr: Avant de fonder le HUB, Tom (il) a travaillé comme consultant en
   Change, qui produit des guides pratiques gratuits à l'intention des militantes
   et militants impliqués dans les luttes pour la justice social à travers le
   monde.
-order: 5
+order: 9
 ---
