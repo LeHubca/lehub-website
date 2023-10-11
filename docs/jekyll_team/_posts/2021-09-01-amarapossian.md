@@ -25,5 +25,5 @@ bio_fr: >
   encadré des milliers de militants et d'activistes dans le monde entier. Elle
   gère actuellement les campagnes canadiennes de 350.org et enseigne les
   campagnes numériques au Seneca College de Toronto.
-order: 9
+order: 10
 ---
