@@ -22,5 +22,5 @@ bio_fr: Amanda Harvey-Sánchez (elle) est une organisatrice, activiste-chercheus
   actuellement son doctorat à l'Université de Toronto, sur la vie sociale et
   politique de l'organisation de la jeunesse pour la justice climatique au
   Canada.
-order: 7
+order: 8
 ---
