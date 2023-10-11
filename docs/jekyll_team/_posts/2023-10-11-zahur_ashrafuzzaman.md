@@ -14,4 +14,5 @@ bio_en: Zahur Ashrafuzzaman (she/he/they) is a Bengali settler raised on
   Ed Fellow and Reinvestment Coordinator for the College Climate Coalition, and
   has organized with other climate justice coalitions such as the Divest Canada
   Coalition and Climate Strike Canada.
+order: 19
 ---
