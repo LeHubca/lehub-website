@@ -16,5 +16,5 @@ bio_fr: Léonard (il) est basé à .Tio’tià :ke/Mooniyang/Montréal. Il milit
   avec les Premiers Peuples, le travail émotif de la crise et les stratégies de
   création de communautés saines. Il poursuit présentement des études en
   écologie et en sciences des religions à l'Université du Québec à Montréal.
-order: 10
+order: 11
 ---
