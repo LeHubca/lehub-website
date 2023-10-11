@@ -23,5 +23,5 @@ bio_fr: Mackenzie Burnett (elle) est une activiste vivant sur le territoire du
   partenaires du secteur industriel et des détenteurs de savoirs autochtones et
   locaux dans le nord de la Saskatchewan sur le projet Developing
   Eco-Restoration Together (DERT).
-order: 5
+order: 6
 ---
