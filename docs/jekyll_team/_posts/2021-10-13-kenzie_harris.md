@@ -20,5 +20,5 @@ bio_fr: Kenzie (elle/iel) est allochtone et réside sur les territoires
   climatique. En plus d'être bibliothécaire et personne formatrice pour le HUB,
   Kenzie travaille actuellement à la coordination principale du Global
   Grassroots Support Network.
-order: 5
+order: 6
 ---
