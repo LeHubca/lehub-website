@@ -5,23 +5,19 @@ img: /media/naomi1.jpeg
 title_en: Trainer
 title_fr: Formatrice
 bio_en: >-
-  Naomi Leung (they/she) is a 19 year old racial and climate justice organizer
-  and Chinese Malaysian settler on ancestral and stolen xʷməθkʷəy̓əm (Musqueam)
-  and scəw̓aθən (Tsawwassen) territories. They just finished their first year
-  student at the University of British Columbia studying global resource
-  systems.
+  **Naomi Leung (they/them) is a Han Chinese Malaysian settler occupying
+  ancestral and stolen xʷməθkʷəy̓əm (Musqueam) and scəw̓aθən (Tsawwassen)
+  territories in colonially named “Richmond, BC.” Naomi has a background
+  organizing for climate justice education, harm reduction, and policy change
+  with Climate Education Reform BC, Sustainabiliteens for the past three years,
+  and now works with Le HUB and the UBC Sustainability Hub as a workshop
+  facilitator and organizer.** 
 
 
-  She has a background organizing for climate justice education, harm reduction, and policy change with Climate Education Reform BC, Sustainabiliteens, and Climate Justice UBC. She enjoys time with her dog, music, reading, and doing digital art.
-bio_fr: Naomi Leung (elle/iel) est une personne militant pour la justice sociale
-  et climatique de 19 ans et une allochtone d'origine chinoise et malaisienne
-  vivant sur les territoires ancestraux et volés xʷməθkʷəy̓əm (Musqueam) et
-  scəw̓aθən (Tsawwassen). Iel vient de terminer sa première année d'études à
-  l'Université de Colombie-Britannique, où iel étudie les systèmes de ressources
-  mondiales. Elle a une expérience d'organisation pour l'éducation en matière de
-  justice climatique, en réduction des méfaits et en changement de politique
-  avec Climate Education Reform BC, Sustainabiliteens, et Climate Justice UBC.
-  Elle aime passer du temps avec son chien, écouter de la musique, lire et faire
-  de l'art numérique.
+  **As a queer and genderqueer Asian person Naomi understands how essential it is to create a livable future and present-day where everyone is prioritized and no one is left behind. Including, neurodivergent, disabled, undocumented, unhoused, lower-income, and immigrant IBPOC queer and transgender peoples who are impacted hardest by marginalization and climate change. Accordingly, they are studying BSc Global Resource Systems at the University of British Columbia where they are integrating environmental and climate change studies with global health and the study of climate emotions and resilience.** 
+
+
+  **In their freetime, Naomi enjoys listening to live music with friends, collecting records, reading, painting, and doing digital art.**
+bio_fr: ""
 order: 16
 ---
