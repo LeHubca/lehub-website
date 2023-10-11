@@ -5,7 +5,11 @@ lang: en
 dates:
   - start: 2023-10-11T23:30:00.000Z
     end: 2023-10-12T01:00:00.000Z
+  - start: 2023-10-11T23:30:00.000Z
+    end: 2023-10-11T23:30:00.000Z
 layout: event
+img:
+  - /media/official_fair_shares_zoom_cover.png
 ---
 ![]()
 
