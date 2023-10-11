@@ -7,7 +7,7 @@ dates:
     end: 2023-10-12T01:00:00.000Z
 layout: event
 ---
-![](/media/fair_shares.png)
+![]()
 
 As the climate crisis intensifies around the world, how is Canada showing up within the international community?
 
@@ -40,10 +40,8 @@ In the past 25 years, she has represented the organizations she works with at nu
 
 Anjali Appadurai spent her early career building a strong civil society voice at the UN Climate Convention, working with social movements from around the world to demand climate justice at a multilateral level. Today, Anjali is passionate about making the links between climate change and globalization, colonization, and economic inequality. She previously worked as Climate Justice Lead at Sierra Club BC, bringing an equity lens to the BC climate movement. Also a singer, songwriter and music producer, Anjali hopes to weave politics and art together to reflect the times we are living in and galvanize true collective action.
 
-\
-**[REGISTRATION REQUIRED HERE](https://us02web.zoom.us/meeting/register/tZErcO6trD0sHNxfqoOvbl8oQjOavWTKaVnE#/registration)**
+[R﻿egister for this event](https://us02web.zoom.us/meeting/register/tZErcO6trD0sHNxfqoOvbl8oQjOavWTKaVnE) here!
 
-\
-The Climate Justice Organizing HUB is a projet of Small Change Fund.
+The Climate Justice Organizing HUB is a project of Small Change Fund.
 
 ![](/media/hub_scf.png)
