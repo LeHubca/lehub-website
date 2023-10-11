@@ -14,3 +14,7 @@ In this workshop, we cover the inherent tensions between the rejection of hierar
 The curriculum material was drawn from a collaboration between several senior movement thinkers including Amara Possian and Tom Liacas, and also draws on sources and wisdom from many other folks in the Momentum Training Community, Mobilisation Lab and Blueprints for Change.
 
 [R﻿egister for this event here!](https://us02web.zoom.us/meeting/register/tZYkd-uqpj8oGdbhBtULPu17ffAIfBX_VjbU)
+
+
+
+T﻿he Climate Justice Organizing HUB is a project of the Small Change Fund.
