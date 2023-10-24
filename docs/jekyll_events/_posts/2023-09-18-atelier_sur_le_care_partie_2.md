@@ -3,8 +3,8 @@ title: Atelier sur le care, partie 2
 permalink: /fr/avenir/care2/
 lang: fr
 dates:
-  - start: 2023-11-01T23:00:00.000Z
-    end: 2023-11-01T12:30:00.000Z
+  - start: 2023-10-23T23:00:00.000Z
+    end: 2023-10-23T12:30:00.000Z
 layout: event
 ---
 ![](/media/carepartie2.png)
