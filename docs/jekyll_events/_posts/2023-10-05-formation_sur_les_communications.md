@@ -3,8 +3,8 @@ title: Formation sur les communications
 permalink: /fr/avenir/communications/
 lang: fr
 dates:
-  - start: 2023-11-14T00:00:00.000Z
-    end: 2023-11-14T01:30:00.000Z
+  - start: 2023-10-23T23:00:00.000Z
+    end: 2023-10-24T00:30:00.000Z
 layout: event
 ---
 ![](/media/bannie_re_zoom_1200x400px_-_communications_1_.png)
