@@ -4,10 +4,8 @@ title: "Présentation du FLIP et discussion: Perspectives stratégiques contre l
 permalink: /fr/avenir/flip/
 lang: fr
 dates:
-  - start: ""
-    end: ""
-  - start: 2023-10-30T22:00:00.000Z
-    end: 2023-10-31T01:00:00.000Z
+  - start: 2023-10-23T22:00:00.000Z
+    end: 2023-10-24T01:00:00.000Z
 layout: event
 img:
   - /media/bonne_rentree_a_tous_640_200_px_.png
