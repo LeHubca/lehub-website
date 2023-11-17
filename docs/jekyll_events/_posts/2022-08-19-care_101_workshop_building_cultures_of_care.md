@@ -2,7 +2,9 @@
 title: "Care 101 Workshop: Building Cultures of Care"
 permalink: /en/upcoming/careworkshop/
 lang: en
-dates: []
+dates:
+  - start: 2023-12-14T00:00:00.000Z
+    end: 2023-12-14T02:00:00.000Z
 layout: event
 img: []
 ---
