@@ -2,9 +2,7 @@
 title: "Care 101 Workshop: Building Cultures of Care"
 permalink: /en/upcoming/careworkshop/
 lang: en
-dates:
-  - start: 2022-09-28T11:00:00.000Z
-    end: 2022-09-29T00:30:00.000Z
+dates: []
 layout: event
 img: []
 ---
@@ -18,4 +16,4 @@ In this first workshop in the HUB's Care series, participants will leave the ses
 \
 identify and advocate for your and others' care needs, promote group safety through the SCARF model, incorporate Care Webs in your organizing groups, and give and receive constructive feedback by using healthy communication principles. 
 
-[S﻿ign up here!](https://us02web.zoom.us/meeting/register/tZEtcu-vpzojE9dP1UKLFG2_KTmou_OMApUq)
+[S﻿ign up for this workshop (taking place on Wednesday, December 13th from 4-6pm PT/7-9pm ET here](https://us02web.zoom.us/meeting/register/tZ0qcO2vrjMuEtOd1Pfu8BMV5QQ2YLajrHRd)
