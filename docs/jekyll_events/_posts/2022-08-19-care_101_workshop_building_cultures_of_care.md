@@ -1,5 +1,5 @@
 ---
-title: "Care 101 Workshop: Building Cultures of Care"
+title: "Care 101 workshop: building cultures of care in grassroots groups"
 permalink: /en/upcoming/careworkshop/
 lang: en
 dates:
