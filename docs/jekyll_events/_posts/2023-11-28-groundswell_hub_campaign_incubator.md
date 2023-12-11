@@ -2,12 +2,10 @@
 title: Groundswell HUB Campaign Incubator
 permalink: /en/upcoming/xzy/
 lang: en
-dates:
-  - start: ""
-    end: ""
+dates: []
 layout: event
 img:
-  - /media/groundswell_incubator_facebook_event_cover_.png
+  - /media/groundswell_incubator_zoom_event_header_.png
 ---
 ABOUT THE WORKSHOP SERIES
 
