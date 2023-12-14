@@ -1,6 +1,6 @@
 ---
 title: Groundswell HUB Campaign Incubator
-permalink: /en/upcoming/xyz/
+permalink: /en/upcoming/incubator/
 lang: en
 dates:
   - start: 2024-02-07T00:00:00.000Z
