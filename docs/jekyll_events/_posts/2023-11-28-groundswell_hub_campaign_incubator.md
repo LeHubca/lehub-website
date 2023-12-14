@@ -1,5 +1,5 @@
 ---
-title: Groundswell HUB Campaign Incubator
+title: Groundswell, the HUB Campaign Incubator
 permalink: /en/upcoming/incubator/
 lang: en
 dates:
