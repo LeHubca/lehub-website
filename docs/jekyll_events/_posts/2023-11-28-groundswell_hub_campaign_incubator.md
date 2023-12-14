@@ -2,7 +2,9 @@
 title: Groundswell HUB Campaign Incubator
 permalink: /en/upcoming/xzy/
 lang: en
-dates: []
+dates:
+  - start: 2024-02-07T00:00:00.000Z
+    end: 2024-03-20T00:30:00.000Z
 layout: event
 img:
   - /media/groundswell_incubator_zoom_event_header_.png
