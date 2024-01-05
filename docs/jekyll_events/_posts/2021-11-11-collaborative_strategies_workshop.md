@@ -15,3 +15,5 @@ This interactive workshop is not just a primer on the principles of solid strate
 This workshop was created because this topic has been requested often by climate justice organizers. The curriculum material was drawn from a collaboration between several senior movement thinkers including Amara Possian and Tom Liacas, and also draws on sources and wisdom from many other folks in the Momentum Training Community, Mobilisation Lab and Blueprints for Change.
 
 [R﻿egister here!](https://us02web.zoom.us/meeting/register/tZErd--qrzIvHNRDTFCgbrnKVGCGn6yeeCAW)
+
+T﻿he Climate Justice Organizing HUB is a project of the Small Change Fund.
