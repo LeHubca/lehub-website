@@ -14,4 +14,4 @@ Topics include environmentalism in the context of settler colonialism and how to
 
 [R﻿egister here!](https://us02web.zoom.us/meeting/register/tZ0rduGsrTMiGdBLbHAUSHDo2ZrxkFIf8jN2)
 
-T﻿he Climate Justice Organizing HUB is a project of the Small Change Fund
+T﻿he Climate Justice Organizing HUB is a project of the Small Change Fund.
