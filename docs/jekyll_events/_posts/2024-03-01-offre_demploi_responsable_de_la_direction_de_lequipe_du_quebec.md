@@ -4,9 +4,10 @@ permalink: /fr/avenir/emploi/
 lang: fr
 dates: []
 layout: event
-img:
-  - /media/creation_sans_titre_1_.png
+img: []
 ---
+![](/media/creation_sans_titre_1_.png)
+
 <!--StartFragment-->
 
 **Le HUB embauche!** Nous sommes à la recherche d'une personne pour occuper le poste de responsable de la direction de l'équipe du Québec. Vous avez jusqu'au 17 mars pour appliquer! 
