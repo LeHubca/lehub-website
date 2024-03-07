@@ -1,10 +1,8 @@
 ---
-title: Offre d'emploi
+title: Offre d'emploi – Responsable de la direction de l'équipe du Québec
 permalink: /fr/avenir/
 lang: fr
-dates:
-  - start: ""
-    end: ""
+dates: []
 layout: event
 img:
   - /media/offre_d_emploi_2_.png
