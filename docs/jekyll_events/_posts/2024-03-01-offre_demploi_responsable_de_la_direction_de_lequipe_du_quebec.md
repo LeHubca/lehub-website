@@ -1,6 +1,6 @@
 ---
 title: Offre d'emploi – Responsable de la direction de l'équipe du Québec
-permalink: /fr/avenir/
+permalink: /fr/avenir/emploi/
 lang: fr
 dates: []
 layout: event
