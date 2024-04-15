@@ -1,6 +1,7 @@
 ---
 title: Jaouad Laaroussi
 layout: basic
+img: /media/photo_jaouad.jpg
 title_en: "Quebec Team Lead "
 title_fr: Responsable de la direction de l'équipe Québec
 bio_en: Jaouad (he/him) is an organizer and activist who grew up on the unceded
