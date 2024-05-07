@@ -4,8 +4,6 @@ hideform: true
 secondary_page_title: "Archive : Conférence So-so-so !"
 lang: fr
 permalink: /archive-sososo/
-redirect_from:
-  - /archive-sososo
 otherlang_url: /archive-frenchconf
 ---
 ## 1. Ouverture et reconnaissance du territoire
