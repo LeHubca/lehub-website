@@ -3,6 +3,8 @@ layout: secondary2021
 secondary_page_title: Offerings
 lang: en
 permalink: /en/offerings/
+redirect_from:
+  - /en/offerings-test-redirect
 otherlang_url: /fr/offres/
 ---
 ### 1. Tailored workshops and coaching sessions
