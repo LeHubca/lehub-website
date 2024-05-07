@@ -1,5 +1,6 @@
 ---
 layout: redirect
-permalink: /redirect/dest/
+permalink: /redirect/source/
 source: /redirect/source/
+destination: /redirect/dest/
 ---
