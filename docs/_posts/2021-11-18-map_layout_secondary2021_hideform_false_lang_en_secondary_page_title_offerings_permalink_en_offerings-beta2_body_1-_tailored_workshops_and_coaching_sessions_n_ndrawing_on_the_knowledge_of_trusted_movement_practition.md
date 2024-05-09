@@ -2,8 +2,8 @@
 layout: secondary2021
 secondary_page_title: Offerings
 lang: en
-permalink: /en/workshops-before-2024-05-09/
-otherlang_url: /fr/ateliers/
+permalink: /en/offerings/
+otherlang_url: /fr/offres/
 ---
 ### 1. Tailored workshops and coaching sessions
 
