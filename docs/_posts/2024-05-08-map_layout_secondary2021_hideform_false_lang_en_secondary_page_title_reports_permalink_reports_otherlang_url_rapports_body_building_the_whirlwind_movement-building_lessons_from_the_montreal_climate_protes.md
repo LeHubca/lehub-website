@@ -6,7 +6,11 @@ lang: en
 permalink: /en/reports/
 otherlang_url: /fr/rapports/
 ---
+<﻿br/>
+
 ### **Building the Whirlwind: Movement-building lessons from the Montreal climate protests**
+
+![](/media/wwindheadsm.png)
 
 With research and writing from former HUB Co-Directors Naomi Goldberg and Tom Liacas, as well as veteran social activist Alejandra Bravo, this Broadbent Institute Report was rooted in the "making of" story behind Montreal's 2019 climate protests. Looking at this seminal movement moment, we wanted to identify the strategies and the practices that grow movements today. We wanted to understand how and why collective demands generated in movements surge at certain moments, creating tectonic shifts in society, particularly in a Canadian context. Our inquiry needed to be focused on one such instance to capture the complexity of one such surge and look at how it was propelled forward, so we dove into where we saw a rich story to hear, capture, and tell.
 
