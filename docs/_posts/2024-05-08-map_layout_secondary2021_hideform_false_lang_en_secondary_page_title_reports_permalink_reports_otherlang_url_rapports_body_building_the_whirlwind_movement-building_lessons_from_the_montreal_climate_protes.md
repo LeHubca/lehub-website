@@ -3,7 +3,7 @@ layout: secondary2021
 hideform: false
 secondary_page_title: Reports
 lang: en
-permalink: /reports/
+permalink: /en/reports/
 otherlang_url: /rapports/
 ---
 ### **Building the Whirlwind: Movement-building lessons from the Montreal climate protests**
