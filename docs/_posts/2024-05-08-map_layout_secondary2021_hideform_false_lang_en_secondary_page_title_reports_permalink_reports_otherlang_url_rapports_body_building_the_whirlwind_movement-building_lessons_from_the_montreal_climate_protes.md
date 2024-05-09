@@ -6,8 +6,6 @@ lang: en
 permalink: /en/reports/
 otherlang_url: /fr/rapports/
 ---
-<﻿br/>
-
 ### **Building the Whirlwind: Movement-building lessons from the Montreal climate protests**
 
 ![](/media/wwindheadsm.png)
