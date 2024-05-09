@@ -3,7 +3,7 @@ layout: secondary2021
 hideform: false
 secondary_page_title: Rapports
 lang: fr
-permalink: /rapports/
+permalink: /fr/rapports/
 otherlang_url: /reports/
 ---
 ### L﻿es arguments stratégiques en faveur d'une convergence des luttes
