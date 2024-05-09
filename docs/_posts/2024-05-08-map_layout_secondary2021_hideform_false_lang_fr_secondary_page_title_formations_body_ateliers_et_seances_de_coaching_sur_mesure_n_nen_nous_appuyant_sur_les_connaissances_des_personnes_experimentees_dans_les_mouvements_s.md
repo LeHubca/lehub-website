@@ -3,7 +3,7 @@ layout: secondary2021
 hideform: false
 secondary_page_title: Formations
 lang: fr
-permalink: /formations/
+permalink: /fr/formations/
 otherlang_url: /workshops/
 ---
 # Ateliers et séances de coaching sur mesure[](<>)
