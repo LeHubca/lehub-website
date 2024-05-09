@@ -1997,3 +1997,9 @@ ol {
 	margin-right: auto;
 	padding-bottom: 50px;
 }
+
+/** Custom hub styles */
+
+.menu-item-not-a-link {
+  font-weight: 500;
+}
