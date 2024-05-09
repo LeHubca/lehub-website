@@ -3,8 +3,6 @@ layout: basic
 secondary_page_title: Privacy and data security policy
 lang: en
 permalink: /privacy/
-redirect_from:
-  - /privacy
 otherlang_url: /securite-de-vos-donnees/
 ---
 ## How we collect and use personal data
