@@ -1,0 +1,9 @@
+  - name: 'redirects'
+    create: true
+    label: 'Redirects'
+    folder: 'docs/jekyll_redirects/_posts/'
+    slug: '{{slug}}'
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'redirect' }
+      - { label: 'Source path (for example /privacy/)', name: 'permalink', widget: 'string' }
+      - { label: 'Destination path (for example /privacy-policy/)', name: 'destination', widget: 'string' }
