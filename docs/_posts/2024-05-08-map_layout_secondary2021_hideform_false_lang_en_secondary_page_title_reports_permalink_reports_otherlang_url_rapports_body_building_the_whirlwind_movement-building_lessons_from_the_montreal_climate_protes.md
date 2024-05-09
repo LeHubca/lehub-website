@@ -4,7 +4,7 @@ hideform: false
 secondary_page_title: Reports
 lang: en
 permalink: /en/reports/
-otherlang_url: /rapports/
+otherlang_url: /fr/rapports/
 ---
 ### **Building the Whirlwind: Movement-building lessons from the Montreal climate protests**
 
