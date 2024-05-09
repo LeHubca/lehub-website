@@ -4,7 +4,7 @@ hideform: false
 secondary_page_title: Formations
 lang: fr
 permalink: /fr/formations/
-otherlang_url: /workshops/
+otherlang_url: /en/workshops/
 ---
 # Ateliers et séances de coaching sur mesure[](<>)
 
