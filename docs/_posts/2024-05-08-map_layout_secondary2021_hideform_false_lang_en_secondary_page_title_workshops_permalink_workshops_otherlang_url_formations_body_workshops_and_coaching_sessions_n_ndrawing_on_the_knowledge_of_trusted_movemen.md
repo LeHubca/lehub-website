@@ -4,7 +4,7 @@ hideform: false
 secondary_page_title: Workshops
 lang: en
 permalink: /en/workshops/
-otherlang_url: /formations/
+otherlang_url: /fr/formations/
 ---
 ### Workshops and coaching sessions
 
