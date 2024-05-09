@@ -3,7 +3,7 @@ layout: secondary2021
 hideform: false
 secondary_page_title: Workshops
 lang: en
-permalink: /workshops/
+permalink: /en/workshops/
 otherlang_url: /formations/
 ---
 ### Workshops and coaching sessions
