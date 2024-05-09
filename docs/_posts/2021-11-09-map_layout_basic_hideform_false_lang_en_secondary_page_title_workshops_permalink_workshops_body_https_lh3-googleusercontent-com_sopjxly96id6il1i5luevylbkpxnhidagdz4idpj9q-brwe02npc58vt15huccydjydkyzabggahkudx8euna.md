@@ -3,10 +3,10 @@ layout: basic
 hideform: false
 secondary_page_title: Recurring HUB Workshops
 lang: en
-permalink: /en/workshops-old/
-otherlang_url: /ateliers-vieux/
+permalink: /en/workshops-pre-2024-05-09/
+otherlang_url: /fr/
 ---
-The following are workshops that are being offered monthly and year-round to as many organizers as possible. For more emergent programming, see our [Upcoming Events ](https://www.lehub.ca/en/upcoming/)page.  
+The following are workshops that are being offered monthly and year-round to as many organizers as possible. For more emergent programming, see our [Upcoming Events ](https://www.lehub.ca/en/upcoming/)page.
 
 ![](/media/strategy_zoom_banner.png "Strategy Workshop")
 
