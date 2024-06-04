@@ -4,8 +4,6 @@ title: "Sound the Alarm: How Extreme Weather Events Can Spark Action for Climate
 permalink: /en/upcoming/weatherevents/
 lang: en
 dates:
-  - start: ""
-    end: ""
   - start: 2024-06-18T23:00:00.000Z
     end: 2024-06-19T00:30:00.000Z
 layout: event
