@@ -23,4 +23,5 @@ bio_fr: Jaouad (il) est un organisateur et militant qui a grandi sur les
   luttes entre les différentes luttes sociales. L’éducation populaire et la
   transmission des connaissances et des savoir-faire sont au cœur de ses
   préoccupations et des priorités qu’il désire mettre en œuvre au sein du HUB.
+order: 4
 ---
