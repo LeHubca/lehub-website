@@ -1,5 +1,5 @@
 ---
-title: Extreme Weather Event Microgrant Program
+title: Extreme Weather Events Microgrants
 permalink: /en/upcoming/microgrants/
 lang: en
 dates:
