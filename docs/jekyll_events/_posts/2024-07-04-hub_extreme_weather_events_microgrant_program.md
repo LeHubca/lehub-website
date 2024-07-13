@@ -2,9 +2,7 @@
 title: Extreme Weather Events Microgrant Program
 permalink: /en/upcoming/microgrants/
 lang: en
-dates:
-  - start: ""
-    end: ""
+dates: []
 layout: event
 img: []
 ---
