@@ -1,6 +1,6 @@
 ---
 title: Extreme Weather Events Microgrant Program
-permalink: /en/upcoming/xyz/
+permalink: /en/upcoming/microgrants/
 lang: en
 dates:
   - start: 2024-07-01T16:00:00.000Z
