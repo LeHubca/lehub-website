@@ -4,16 +4,14 @@ layout: basic
 img: /media/amarapossian.jpeg
 title_en: Project advisor
 title_fr: Conseillère du projet
-bio_en: >
-  Amara (she/her) is a campaigner, educator, and facilitator with 10+ years of
-  experience helping groups run winning campaigns and build thriving
+bio_en: Amara (she/her) is a campaigner, educator, and facilitator with 10+
+  years of experience helping groups run winning campaigns and build thriving
   organizations. She has led some of Canada’s most impactful people-powered
   campaigns, using digital tools to engage and mobilize hundreds of thousands of
   people to win on issues and change governments. An experienced meeting
   designer and facilitator, Amara has trained and coached thousands of
   campaigners and activists around the world. She currently manages Canada
-  campaigns at 350.org and teaches Digital Campaigning at Seneca College in
-  Toronto.
+  campaigns at 350.org.
 bio_fr: >
   Amara (elle) est une militante, une éducatrice et une animatrice qui a plus de
   10 ans d'expérience comme aide aux groupes souhaitant mener des campagnes
