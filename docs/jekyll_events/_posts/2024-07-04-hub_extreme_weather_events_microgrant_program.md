@@ -4,7 +4,8 @@ permalink: /en/upcoming/microgrants/
 lang: en
 dates: []
 layout: event
-img: []
+img:
+  - /media/final_3_.png
 ---
 Do you have an idea for a mutual aid project or grassroots action this summer connected with extreme weather events? Want to build stronger networks of mutual support, turn up the heat on the fossil fuel industry and build a stronger climate justice movement? The HUB is excited to announce we have some NEW resources for you! 
 
