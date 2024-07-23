@@ -2,11 +2,7 @@
 title: Extreme Weather Events Microgrants
 permalink: /en/upcoming/microgrants/
 lang: en
-dates:
-  - start: ""
-    end: ""
-  - start: 2024-07-01T04:00:00.000Z
-    end: 2024-08-16T04:00:00.000Z
+dates: []
 layout: event
 img:
   - /media/final_3_.png
