@@ -3,7 +3,7 @@ title: Zahur Ashrafuzzaman
 layout: basic
 img: /media/704ecb9e-e55b-4493-a2fe-e5c687f36604_1_.png
 title_en: Workshop facilitator
-title_fr: ""
+title_fr: Personne formatrice
 bio_en: Zahur Ashrafuzzaman (she/he/they) is a Bengali settler raised on
   q̓ʷɑ:n̓ƛ̓ən̓ (Kwantlen), q̓ic̓əy̓ (Katzie), SEMYOME (Semiahmoo), kʷikʷəƛ̓əm
   (Kwikwetlem), and qiqéyt (Qayqayt) territory in so-called Surrey, BC and now
@@ -14,5 +14,5 @@ bio_en: Zahur Ashrafuzzaman (she/he/they) is a Bengali settler raised on
   Ed Fellow and Reinvestment Coordinator for the College Climate Coalition, and
   has organized with other climate justice coalitions such as the Divest Canada
   Coalition and Climate Strike Canada.
-order: 19
+order: 11
 ---
