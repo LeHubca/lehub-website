@@ -2,7 +2,7 @@
 title: Jacob Pirro
 layout: basic
 img: /media/p1170284.jpeg
-title_en: Trainer
+title_en: Workshop facilitator
 title_fr: Formateur
 bio_en: Activist in the environmental and student movement since 2019. I first
   became involved with Extinction Rebellion in climate justice mobilization and
@@ -21,5 +21,5 @@ bio_fr: Jacob (il) milite dans le milieu environnemental et le syndicalisme de
   des Soulèvements Étudiants du Québec (CSEQ) qui a comme objectif de lier les
   groupes d’action politique étudiants à une potentielle fédération étudiante
   nationale et ainsi éviter des erreurs commises en 2012.
-order: 14
+order: 7
 ---
