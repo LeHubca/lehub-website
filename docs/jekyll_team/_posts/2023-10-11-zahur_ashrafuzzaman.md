@@ -2,7 +2,7 @@
 title: Zahur Ashrafuzzaman
 layout: basic
 img: /media/704ecb9e-e55b-4493-a2fe-e5c687f36604_1_.png
-title_en: Trainer
+title_en: Workshop facilitator
 title_fr: ""
 bio_en: Zahur Ashrafuzzaman (she/he/they) is a Bengali settler raised on
   q̓ʷɑ:n̓ƛ̓ən̓ (Kwantlen), q̓ic̓əy̓ (Katzie), SEMYOME (Semiahmoo), kʷikʷəƛ̓əm
