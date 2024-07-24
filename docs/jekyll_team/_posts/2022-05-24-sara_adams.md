@@ -18,5 +18,5 @@ bio_fr: Sara (elle) est une formatrice, facilitatrice et organisatrice qui a
   Justice Montréal et de Research for the Frontlines. Elle est une socialiste et
   féministe dévouée qui se consacre à la construction d'un monde viable pour
   tous et toutes.
-order: 3
+order: 2
 ---
