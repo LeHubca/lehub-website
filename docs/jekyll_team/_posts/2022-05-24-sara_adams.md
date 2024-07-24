@@ -1,7 +1,7 @@
 ---
 title: Sara Adams
 layout: basic
-img: /media/img_20210526_103409_379.jpg
+img: /media/dscf0140.jpg
 title_en: Anglophone Coordinator
 title_fr: Coordonatrice anglophone
 bio_en: Sara (she/her) is an educator, facilitator and organizer who grew up on
