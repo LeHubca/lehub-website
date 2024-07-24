@@ -2,7 +2,7 @@
 title: Mackenzie Burnett
 layout: basic
 img: /media/mackenzie_bio.jpg
-title_en: Assistant Coordinator, Anglophone Canada
+title_en: Assistant Coordinator (Anglophone)
 title_fr: Assistante à la coordination du Canada anglophone
 bio_en: Mackenzie Burnett (she/her) is an organizer living on Treaty 6 territory
   in Saskatoon. After studying Environment at McGill University, she returned to
