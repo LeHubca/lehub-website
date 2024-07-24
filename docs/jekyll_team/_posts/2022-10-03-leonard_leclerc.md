@@ -4,7 +4,7 @@ layout: basic
 img: /media/photole_o.jpg
 title_en: Workshop facilitator
 title_fr: Personne formatrice
-bio_en: Léonard (il) est basé à .Tio’tià :ke/Mooniyang/Montréal. Il milite dans
+bio_en: Léonard (il) est basé à Tio’tià :ke/Mooniyang/Montréal. Il milite dans
   plusieurs milieux de justice sociale et climatique, mais s’implique de manière
   continue au sein de la CEVES, la Coalition étudiante pour un virage
   environnemental et social, qu’il a cofondé en septembre 2019, et qui vise à
