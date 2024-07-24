@@ -1,5 +1,5 @@
 ---
-title: Zaël Gourd (elle/iel)
+title: Zaël Gourd
 layout: basic
 img: /media/photo-20_1_.jpg
 title_en: Assistante à la coordination, Québec
@@ -25,4 +25,5 @@ bio_fr: >-
 
 
   Parallèlement à ses engagements, Zaël maintient une pratique artistique dans le monde du cinéma underground indépendant.
+order: 6
 ---
