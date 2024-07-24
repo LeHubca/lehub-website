@@ -2,7 +2,7 @@
 title: Michelle Xie
 layout: basic
 img: /media/michelle_xie.jpg
-title_en: Trainer
+title_en: Workshop facilitator
 title_fr: Formatrice
 bio_en: Michelle Xie (she/her) is a community organizer, artist, and sociology
   undergraduate at the University of British Columbia, who lives and learns on
@@ -17,5 +17,5 @@ bio_en: Michelle Xie (she/her) is a community organizer, artist, and sociology
   transformation that are grounded in practices of radical imagination,
   cross-movement solidarity, and mutual aid.
 bio_fr: ""
-order: 18
+order: 9
 ---
