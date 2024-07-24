@@ -25,5 +25,5 @@ bio_fr: >-
 
 
   Parallèlement à ses engagements, Zaël maintient une pratique artistique dans le monde du cinéma underground indépendant.
-order: 6
+order: 5
 ---
