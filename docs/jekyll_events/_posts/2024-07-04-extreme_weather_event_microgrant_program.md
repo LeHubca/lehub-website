@@ -6,6 +6,7 @@ dates: []
 layout: event
 img:
   - /media/final_3_.png
+  - /media/microgrants.png
 ---
 Do you have an idea for a mutual aid project or grassroots action this summer connected with extreme weather events? 
 
