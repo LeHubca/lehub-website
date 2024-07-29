@@ -45,6 +45,9 @@
             </div>
           </div>
         </div>
+        {% for img in page.img %}
+        <img src="{{ img }}" alt="{{ page_title }}" class="img-fluid">
+        {% endfor %}
         {{ content | markdownify }}
         {{ region_after }}
       </div>
