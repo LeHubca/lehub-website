@@ -14,5 +14,5 @@ bio_en: Tess (they/she) grew up on the unceded territory of the Mi’kmaq people
   passionate about building relationships of solidarity and mutual learning
   between liberation struggles, as well as in helping to cultivate a culture of
   care and healthy conflict resolution within groups.
-order: 4
+order: 3
 ---
