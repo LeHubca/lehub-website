@@ -12,4 +12,5 @@ bio_en: Ayo Ogunremi (he/il) is a political activist based in Montreal. He
   courses on organizing and social change, both locally and across the country.
   On the research side, he focuses on identifying problems in social-movement
   theory and practice, especially regarding questions of long-term strategy.
+order: 6
 ---
