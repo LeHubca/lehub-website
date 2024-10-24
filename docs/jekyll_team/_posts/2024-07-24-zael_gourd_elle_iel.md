@@ -2,8 +2,8 @@
 title: Zaël Gourd
 layout: basic
 img: /media/photo-20_1_.jpg
-title_en: Assistante à la coordination, Québec
-title_fr: Assistant Coordinator, Québec
+title_en: Responsable des communications et assistante de programmation (Francophone)
+title_fr: Communications Lead and Programming Assistant (Francophone)
 bio_en: >-
   Zaël (she/they) is an organizer, filmmaker and activist who grew up on the
   unceded territories of the Kanienʼkehá꞉ka nation in Tio'tià:ke (Montreal).
