@@ -2,8 +2,8 @@
 title: Amanda Harvey-Sánchez
 layout: basic
 img: /media/screen_shot_2023-07-04_at_10.41.36_am.png
-title_en: Activist Resource Person
-title_fr: Personne ressource pour les personnes militantes
+title_en: Principal Coach and Programming Development Lead
+title_fr: ""
 bio_en: Amanda Harvey-Sánchez (she/her) is a Latina Toronto-based organizer,
   activist-researcher, and educator. The daughter of a climate scientist and a
   teacher, Amanda was called into the climate justice movement through working
