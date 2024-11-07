@@ -1,5 +1,5 @@
 ---
-title: "Powermapping 101: Know Your Target, Know Your Power"
+title: "Power Mapping 101: Know Your Target, Know Your Power"
 permalink: /en/upcoming/powermapping/
 lang: en
 dates:
