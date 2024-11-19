@@ -1,5 +1,5 @@
 ---
-title: Jacqueline Lee-Tam (she/her)
+title: Jacqueline Lee-Tam
 layout: basic
 img: /media/img_8640.jpg
 title_en: Project advisor
