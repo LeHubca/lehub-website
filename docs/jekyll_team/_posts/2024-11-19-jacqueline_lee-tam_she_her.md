@@ -4,7 +4,7 @@ layout: basic
 img: /media/img_8640.jpg
 title_en: Project advisor
 title_fr: Conseillère du projet
-bio_en: Jacqueline Lee-Tam (she/elle) is the former Director of the Climate
+bio_en: Jacqueline Lee-Tam (she/her) is the former Director of the Climate
   Justice Organizing HUB. Born and raised as a guest on Squamish, Musqueam and
   Tsleil-Waututh Territories (Vancouver), she now resides in Tkaronto (Toronto)
   on the territories of the Huron-Wendat, Seneca, and Mississaugas of the Credit
