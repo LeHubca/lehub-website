@@ -16,4 +16,5 @@ bio_en: Jacqueline Lee-Tam (she/elle) is the former Director of the Climate
   dream into practice the world we want to live in. She holds a B.A. in Gender,
   Sexuality, Feminist and Social Justice Studies with a double minor in
   Environmental Studies and Economics from McGill University.
+order: 13
 ---
