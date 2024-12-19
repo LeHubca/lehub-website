@@ -8,11 +8,11 @@ otherlang_url: /fr/rapports/
 ---
 ### Movement Memo - Developing Strategic Capacity and Cultivating Collective Care: Towards Community Power
 
-![]()
+![](docs/media/movememohead.png)
 
  “The movement feels stuck.” It’s a sentiment many of us at the Climate Justice Organizing HUB have expressed in one way or another over the past year, and one we have heard repeatedly from the grassroots organizers we work with across so-called Canada. This short memo serves as a summary of key themes and insights that emerged during a retreat session on “building deeper and wider”. Our collective discussion led us to the assessment that building long-term power in the climate justice movement requires developing strategic capacity across grassroots groups and cultivating practices of collective care as an integral component of our movement culture. The memo includes practical case studies, recommendations, and resources. \
 \
-P﻿ublished De 202\
+P﻿ublished December 19th, 2024.\
 \
 [\>﻿>View and download the report here](https://www.lehub.ca/media/movementmemoreport24.pdf)
 
