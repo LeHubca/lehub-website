@@ -1,19 +1,18 @@
 ---
-title: Strategy 101 Workshop
+title: Anti-Oppression & Intersectionality 101 Workshop
 permalink: /en/upcoming/collaborativestrategy/
 lang: en
 dates:
-  - start: 2024-04-30T23:00:00.000Z
-    end: 2024-05-01T00:30:00.000Z
+  - start: 2025-02-25T00:00:00.000Z
+    end: 2025-02-25T01:30:00.000Z
 layout: event
-img: []
+img:
+  - /media/anti-oppression_101-_zoom_mailchimp.png
 ---
-The goal of this workshop is to equip participants with frameworks and decision-making tools that help guide groups collaboratively towards creating solid strategies. 
+The goal of this workshop is to equip participants with foundational concepts and tools that help them develop and uphold anti-oppressive and intersectional environmentalist practices in their organizing work.
 
-This interactive workshop is not just a primer on the principles of solid strategy, but also a session meant to help participants find a balance between the desire for a collaborative, democratic decision making process and the need to focus and narrow down to create successful strategic goals. 
+Topics include environmentalism in the context of settler colonialism, why climate action must include social justice, and how to be an effective ally or accomplice in the climate movement.
 
-This workshop was created because this topic has been requested often by climate justice organizers. The curriculum material was drawn from a collaboration between several senior movement thinkers including Amara Possian and Tom Liacas, and also draws on sources and wisdom from many other folks in the Momentum Training Community, Mobilisation Lab and Blueprints for Change.
-
-[R﻿egister here!](https://us02web.zoom.us/meeting/register/tZ0pdeyorTgtGdzhJf2D9cLuz360PvM75MV9)
+[R﻿egister here!](https://us02web.zoom.us/meeting/register/BBSDAHDBTH6IYbloBFqRxA)
 
 T﻿he Climate Justice Organizing HUB is a project of the Small Change Fund.
