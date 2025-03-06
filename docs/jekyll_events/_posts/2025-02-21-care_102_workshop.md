@@ -11,7 +11,7 @@ img:
 ---
 <!--StartFragment-->
 
-The climate movement has a lot to learn from the disability justice movement. In this workshop, participants will learn about the principles of disability justice, crip time, spoon theory, and care practices that consider invisible and visible disabilities so we can build robust, inclusive and anti-ableist movement spaces.
+The climate movement has a lot to learn from the disability justice movement. Building off Care 101, we will touch concepts of eco-ableism, crip time, care webs, and spoon theory. Participants will also be introduced to a second set of strategies for building robust, caring, and anti-ableist spaces. There will be opportunities to share knowledge & work through care-related challenges you/your group are facing!
 
 [R﻿egister here!](https://us02web.zoom.us/meeting/register/2hDyIk9vRkGmjZI6ZrajhA)
 
