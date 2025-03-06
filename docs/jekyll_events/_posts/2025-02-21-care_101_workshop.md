@@ -11,16 +11,7 @@ img:
 ---
 <!--StartFragment-->
 
-If we want to build a society that puts care before profit, we need to put the practice of care before productivity in our personal lives and climate justice organizing. Failing to center care in our movement spaces means leaving the needs of those most impacted by systems of oppression behind.\
-\
-Additionally, learning the skills to build cultures of care in our grassroots groups can help make our groups more accessible, anti-oppressive and guard against burnout.
-
-In this first workshop in the HUB's Care series, participants will leave the session with the knowledge and tools to:
-
-* Identify and advocate for your and others' care needs
-* Promote group safety through the SCARF model
-* Incorporate Care Webs in your organizing groups
-* Give and receive constructive feedback by using healthy communication principles.
+If we want to build a society that puts care before profit, we need to put the practice of care before productivity in our personal lives and climate justice organizing. In this interactive workshop, participants will learn about care needs, medical/social models of disability, the capitalist & colonial co-option of care, and how to implement care practices.
 
 [R﻿egister here!](https://us02web.zoom.us/meeting/register/pYiP5p7sREG3hjWxM-EOHQ)
 
