@@ -6,10 +6,11 @@ dates:
   - start: 2025-03-26T23:00:00.000Z
     end: 2025-03-27T00:30:00.000Z
 layout: event
-img:
-  - /media/final_new_care_102-_zoom_mailchimp_v1.png
+img: []
 ---
 <!--StartFragment-->
+
+![](blob:https://www.lehub.ca/31d27a07-a580-415f-b3e9-5b83565aa382)
 
 The climate movement has a lot to learn from the disability justice movement. Building off Care 101, we will touch concepts of eco-ableism, crip time, care webs, and spoon theory. Participants will also be introduced to a second set of strategies for building robust, caring, and anti-ableist spaces. There will be opportunities to share knowledge & work through care-related challenges you/your group are facing!
 
