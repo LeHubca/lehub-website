@@ -1,0 +1,17 @@
+---
+layout: secondary2021
+hideform: false
+secondary_page_title: Activist Resource Library
+lang: en
+permalink: /en/activistresourcelibrary/
+otherlang_url: /fr/biblioderessources/
+---
+### Montreal Activist Resource Library
+
+<!--StartFragment-->
+
+The Activist Resource Library, located at the [Milton Parc Citizens’ Committee](https://ccmp-mpcc.com/en/home/) offices in Tiohtià:ke | Montreal, is a support hub that provides youth with access to a greater activist community, centralized meeting space, and a physical library where they can borrow organizing materials (megaphones, sound systems, battery packs, etc.) for free!\
+\
+If you or someone you know might be interested in accessing this resource, feel free to submit a [member intake form](https://cryptpad.fr/form/#/2/form/view/v3bqAAYKdLUW-6EucYWDg5i2zPS1akelj1PuWnUQvKA/) and our librarian will be in touch. You can learn more about the Library in [this 1-pager](https://drive.google.com/file/d/10zrc7wr-o1YMTcfqsRoYSA-roMw9gj0p/view), or consult a list of our current resources [here](https://bit.ly/resourcesARL). 
+
+<!--EndFragment-->
