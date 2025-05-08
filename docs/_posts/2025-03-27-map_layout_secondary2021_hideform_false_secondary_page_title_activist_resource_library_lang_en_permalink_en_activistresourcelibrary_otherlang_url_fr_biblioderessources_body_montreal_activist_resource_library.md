@@ -8,7 +8,7 @@ otherlang_url: /FR/biblioderessources/
 ---
 <!--StartFragment-->
 
-[The Youth Harbour](https://www.theyouthharbour.org/) (a program of [FES](https://www.fesplanet.org/)) and the HUB [](https://www.lehub.ca/en/)are excited to share with you our newest Climate Collab Centre location in Tiohtià:ke | Montreal!
+[The Youth Harbour](https://www.theyouthharbour.org/) (a program of [FES](https://www.fesplanet.org/)) and the HUB [](https://www.lehub.ca/en/)are excited to share with you our newest Climate Collab Centre location in Tiohtià:ke (Montreal)!
 
 The Activist Resource Library, located at the [Milton Parc Citizens’ Committee](https://ccmp-mpcc.com/en/home/) offices at 3516 Parc, is a support hub that provides youth with access to a greater activist community, centralized meeting space, and a physical library where they can borrow organizing materials (megaphones, sound systems, battery packs, etc.) for free! \
 \
