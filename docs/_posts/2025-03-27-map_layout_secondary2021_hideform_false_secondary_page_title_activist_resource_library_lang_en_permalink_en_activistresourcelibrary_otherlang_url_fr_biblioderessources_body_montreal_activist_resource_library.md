@@ -1,16 +1,17 @@
 ---
 layout: secondary2021
 hideform: false
-secondary_page_title: Montreal Activist Resource Library
-lang: EN
-permalink: /EN/activistresourcelibrary/
-otherlang_url: /FR/biblioderessources/
+secondary_page_title: Bibliothèque de ressources militantes
+lang: FR
+permalink: /FR/BRM/
+otherlang_url: /EN/ARL/
 ---
 <!--StartFragment-->
 
-The Activist Resource Library, located at the [Milton Parc Citizens’ Committee](https://ccmp-mpcc.com/en/home/) offices at 3516 Parc in Tiohtià:ke (Montreal), is a support hub that provides youth with access to a greater activist community, centralized meeting space, and a physical library where they can borrow organizing materials (megaphones, sound systems, projectors, etc.) for free!\
-If you or someone you know might be interested in accessing this resource, feel free to submit a [member intake form](https://cryptpad.fr/form/#/2/form/view/v3bqAAYKdLUW-6EucYWDg5i2zPS1akelj1PuWnUQvKA/) and our librarian will be in touch. You can learn more about the Library in [this 1-pager](https://drive.google.com/file/d/10zrc7wr-o1YMTcfqsRoYSA-roMw9gj0p/view), or consult a list of available materials [here](https://bit.ly/resourcesARL). 
+La Bibliothèque de ressources militantes, située dans les bureaux du [Comité des citoyen.ne.s Milton Parc](https://ccmp-mpcc.com/) (CCMP) à Tiohtià:ke (Montréal), est un centre de soutien qui permet aux jeunes d'accéder à une plus grande communauté militante, à un espace de réunion centralisé et à une bibliothèque physique offrant la possibilité d'emprunter gratuitement du matériel pour les actions (mégaphones, systèmes de son, projecteurs, etc.)!
 
-T﻿he Activist Resource Library is a project of [The Youth Harbour](https://www.theyouthharbour.org/) (a program of [FES](https://www.fesplanet.org/)) and the Climate Justice Organizing HUB. 
+Si vous ou quelqu'un.e que vous connaissez est intéressé.e par cette ressource, n'hésitez pas à soumettre une [demande d'adhésion](https://cryptpad.fr/form/#/2/form/view/v3bqAAYKdLUW-6EucYWDg5i2zPS1akelj1PuWnUQvKA/) et notre bibliothécaire vous contactera. Pour en savoir plus sur la Bibliothèque, consultez [le document ci-joint](https://drive.google.com/file/d/10zrc7wr-o1YMTcfqsRoYSA-roMw9gj0p/view). Consultez la liste du matériel disponible [ici](https://airtable.com/appupgZTkkDwgIHMm/shroKDxMndg2iAiH2/tblfenQ8hIyExWTBG).
+
+La Bibliothèque de ressources militantes est un projet du [Havre jeunesse](https://www.theyouthharbour.org/fr/) (un programme de [FES](https://www.fesplanet.org/)) et du HUB de mobilisation pour la justice climatique.
 
 <!--EndFragment-->
