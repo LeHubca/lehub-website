@@ -2,9 +2,9 @@
 layout: secondary2021
 hideform: false
 secondary_page_title: Montreal Activist Resource Library
-lang: EN
-permalink: /EN/ARL/
-otherlang_url: /FR/BRM/
+lang: en
+permalink: /en/arl/
+otherlang_url: /fr/brm/
 ---
 <!--StartFragment-->
 
