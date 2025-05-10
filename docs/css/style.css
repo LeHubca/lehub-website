@@ -735,7 +735,7 @@ h3 {
   top: 140%;
   background: #0b3954;
   width: 200px;
-  z-index: 2;
+  z-index: 4;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.02);
   opacity: 0;
   visibility: hidden;
