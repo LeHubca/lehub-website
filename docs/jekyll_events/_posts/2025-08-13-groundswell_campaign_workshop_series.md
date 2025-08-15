@@ -1,8 +1,10 @@
 ---
 title: "Groundswell: Campaign Workshop Series"
-permalink: /en/upcoming/collaborativestrategy/
+permalink: /en/upcoming/groundswell/
 lang: en
-dates: []
+dates:
+  - start: ""
+    end: ""
 layout: event
 img:
   - /media/spark_1_graphic_example_1_.png
