@@ -14,5 +14,28 @@ bio_en: Zahur Ashrafuzzaman (she/he/they) is a Bengali settler raised on
   Ed Fellow and Reinvestment Coordinator for the College Climate Coalition, and
   has organized with other climate justice coalitions such as the Divest Canada
   Coalition and Climate Strike Canada.
+bio_fr: >-
+  Zahur Ashrafuzzaman (elle/il/iel) se reconnait comme colonisatrice d’origine
+  bengalie,
+
+  élevée sur les territoires q̓ʷɑ:n̓ƛ̓ən̓ (Kwantlen), q̓ic̓əy̓ (Katzie), SEMYOME
+
+  (Semiahmoo), kʷikʷəƛ̓əm (Kwikwetlem) et qiqéyt (Qayqayt), dans le soi-disant
+
+  Surrey, en Colombie-Britannique, et vit maintenant à
+
+  Tio:tià:ke/Mooniyang/"Montréal". Iel a récemment obtenu son diplôme
+
+  de l’Université McGill, où iel a été un·e organisateur·rice actif·ve dans des
+
+  campagnes pour la justice climatique, la justice alimentaire et la souveraineté
+
+  autochtone, incluant Divest McGill, Let’s Eat McGill et Divest for Human Rights
+
+  McGill. Zahur a été fellow Divest Ed et coordonnateur·rice du réinvestissement
+
+  pour le College Climate Coalition, et a également organisé avec d’autres
+
+  coalitions pour la justice climatique telles que la Divest Canada Coalition et Climate Strike Canada.
 order: 11
 ---
