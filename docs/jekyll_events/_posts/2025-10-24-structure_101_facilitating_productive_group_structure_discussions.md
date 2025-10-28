@@ -13,5 +13,3 @@ How do we build effective group structures without reproducing oppressive dynami
 In this workshop, we cover the inherent tensions between most grassroots groups’ rejection of hierarchy and the need for a functional and visible decision-making flow that keeps things moving and helps avoid group burnout.
 
 [R﻿egister here!](https://us02web.zoom.us/meeting/register/7Klg9IAAT4yACAIkFpYeNw)
-
-T﻿he Climate Justice Organizing HUB is a project of the Small Change Fund.
