@@ -1,14 +1,12 @@
 ---
-title: "Structure 102: building a strong group structure and effective working groups"
+title: "Structure 102: Distributed Leadership & Effective Teams"
 permalink: /en/upcoming/structure102/
 lang: en
 dates:
-  - start: 2024-10-30T23:00:20.764Z
-    end: 2024-10-31T00:30:00.000Z
+  - start: 2025-11-26T00:00:00.000Z
+    end: 2025-11-26T01:45:00.000Z
 layout: event
 ---
-Structure 102: building a strong group structure and effective working groups
+Building on the basis of Structure 101, we'll explore together how to build a strong group structure that supports working groups, pods, or teams working collectively on different pieces of a joint project or campaign. Together, we will discuss principles that make for effective teams aligned on shared purpose and norms, and clear roles and explore how to integrate the snowflake model as a scalable approach to leaderful and impactful organizing.
 
-Building on the basis of structure 101, we will explore together how to build a strong group structure that supports working groups or pods working on different issues. Together we will discuss how to integrate the snowflake model into your work and discuss the principles that make for effective working group teams aligned on collective norms and values.
-
-R﻿egister here: https://us02web.zoom.us/meeting/register/tZApc-usrT0sEtYd-R4Y_MH8Cx8ILGh7zj2N
+[R﻿egister here!](https://us02web.zoom.us/meeting/register/w9hFfhT8SliWZWOevcsrTg)
