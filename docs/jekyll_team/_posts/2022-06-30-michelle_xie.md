@@ -22,5 +22,5 @@ bio_fr: Michelle Xie (elle) est une organisatrice et animatrice de la justice
   s’engage dans l’éducation politique et la création d’un monde abolitionniste.
   Elle s’engage à nourrir des espaces qui nous amènent vers la libération
   collective.
-order: 9
+order: 10
 ---
