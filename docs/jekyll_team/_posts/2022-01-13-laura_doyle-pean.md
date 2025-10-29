@@ -2,7 +2,7 @@
 title: Laura Doyle-Péan
 layout: basic
 img: /media/squarethree.jpg
-title_en: Workshop facilitator
+title_en: Trainer
 title_fr: Personne formatrice
 bio_en: >-
   <!--StartFragment-->
@@ -22,5 +22,5 @@ bio_fr: >-
 
 
   <!--EndFragment-->
-order: 10
+order: 12
 ---
