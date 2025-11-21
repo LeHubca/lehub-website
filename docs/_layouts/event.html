@@ -1,16 +1,9 @@
-{% comment %}
-See https://github.com/jekyll/jekyll/issues/1956#issuecomment-112174390
-{% endcomment %}
-{% include init.html %}
-{% capture subtitlesection %}
-{% assign global_js = global_js | append: ",js_events" %}
-{% for date in page.dates %}
-  <div>
-    <span class="i-am-a-date-display-me-for-humans">{{ date.start }}</span>{% if date.end != "" %} - <span class="i-am-a-date-display-me-for-humans">{{ date.end }}</span>{% endif %}.<span class="space"> </span>
-  </div>
-{% endfor %}
-<div class="template-your-timezone-is">
-  <div>{% assign l=page.lang %}{% assign o="Your timezone is" %}{% include t.html %}<span class="your-timezone-is"></span></div>
-</div>
-{% endcapture %}
-{% include fullpage.html %}
+<!doctype html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0; url=https://www.lehub.ca" />
+  </head>
+  <body>
+    <p><a href="https://www.lehub.ca">redirecting to / redirection vers https://www.lehub.ca</a></p>
+  </body>
+</html>
